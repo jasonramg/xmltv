@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="9x.jhakaas">
+    <display-name lang="en">9X Jhakaas</display-name>
+    <icon src="https://i.ibb.co/0jBZtbs1/Jn46K25.png" />
+    <icon src="https://i.ibb.co/0jBZtbs1/Jn46K25.png" />
+    <url>https://www.9xjhakaas.in</url>
+  </channel>
+  <channel id="9x.tashan">
+    <display-name lang="en">9X Tashan</display-name>
+    <icon src="https://i.ibb.co/93NbCdjZ/NihJa3t.png" />
+    <icon src="https://i.ibb.co/93NbCdjZ/NihJa3t.png" />
+    <url>https://www.9xtashan.in</url>
+  </channel>
+  <channel id="balle.balle">
+    <display-name lang="en">Balle Balle</display-name>
+    <icon src="https://i.ibb.co/vNFFWmy/rg24j5z.png" />
+    <icon src="https://i.ibb.co/vNFFWmy/rg24j5z.png" />
+    <url>https://www.balleballe.in</url>
+  </channel>
+  <channel id="maiboli">
+    <display-name lang="en">Maiboli</display-name>
+    <icon src="https://i.ibb.co/CKPPNF55/NL4OB5s.png" />
+    <icon src="https://i.ibb.co/CKPPNF55/NL4OB5s.png" />
+    <url>https://www.maiboli.in</url>
+  </channel>
+  <channel id="9xjalwa">
+     <display-name lang="en">9X Jalwa</display-name>
+     <icon src="https://i.ibb.co/cK2WR5kV/HeQJ4WK.png" />
+     <icon src="https://i.ibb.co/cK2WR5kV/HeQJ4WK.png" />
+     <url>https://www.9xjalwa.in</url>
+   </channel>
+   <channel id="only.music">
+     <display-name lang="en">Only Music</display-name>
+     <icon src="https://i.ibb.co/87GvQK5/Only-Music.png" />
+     <icon src="https://i.ibb.co/87GvQK5/Only-Music.png" />
+     <url>https://www.onlymusic.in</url>
+   </channel>
+   <channel id="music.india">
+     <display-name lang="en">Music India</display-name>
+     <icon src="https://i.ibb.co/gMJXcvMy/yCWhzqD.png" />
+     <icon src="https://i.ibb.co/gMJXcvMy/yCWhzqD.png" />
+     <url>https://www.musicindia.in</url>
+   </channel>
+   <channel id="yrf.music">
+     <display-name lang="en">YRF Music</display-name>
+     <icon src="https://i.ibb.co/TBpzh5Fh/v9xYsMR.png" />
+     <icon src="https://i.ibb.co/TBpzh5Fh/v9xYsMR.png" />
+     <url>https://www.yrfmusic.in</url>
+   </channel>
+   <channel id="Showbox">
+     <display-name lang="en">Showbox</display-name>
+     <icon src="https://i.ibb.co/FLmmyHRw/gcfmJtL.png" />
+     <icon src="https://i.ibb.co/FLmmyHRw/gcfmJtL.png" />
+     <url>https://www.showbox.in</url>
+   </channel>
+   <channel id="brit.asia.tv">
+     <display-name lang="en">Brit Asia TV</display-name>
+     <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
+     <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
+     <url>https://www.britasiatv.in</url>
+   </channel>
+   <channel id="shemaroo.filmi.gaane">
+     <display-name lang="en">Shemaroo Filmi Gaane</display-name>
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <url>https://www.shemaroofilmigaane.in</url>
+   </channel>
+   <channel id="wild.earth">
+     <display-name lang="en">Wild Earth</display-name>
+     <icon src="https://i.ibb.co/bMsxycVy/2tGfNnM.png" />
+     <icon src="https://i.ibb.co/bMsxycVy/2tGfNnM.png" />
+     <url>https://www.wildearth.in</url>
+   </channel>
+   <channel id="hbo.family">
+     <display-name lang="en">HBO Family</display-name>
+     <icon src="https://i.ibb.co/Hpd2fVr7/Drg7JLf.png" />
+     <icon src="https://i.ibb.co/Hpd2fVr7/Drg7JLf.png" />
+     <url>https://www.hbofamily.com</url>
+   </channel>
+   <channel id="tnt.sports.1">
+     <display-name lang="en">TNT Sports 1</display-name>
+     <icon src="https://i.ibb.co/VcLv31y2/MUlrUTG.png" />
+     <icon src="https://i.ibb.co/VcLv31y2/MUlrUTG.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="fox.sports.501">
+     <display-name lang="en">Fox Sports 501</display-name>
+     <icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png" />
+     <icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png" />
+     <url>https://www.foxsports.com</url>
+   </channel>
+   <channel id="willow.hd">
+     <display-name lang="en">Willow HD</display-name>
+     <icon src="https://i.ibb.co/FkDrQ5MN/9PixQ2W.png" />
+     <icon src="https://i.ibb.co/FkDrQ5MN/9PixQ2W.png" />
+     <url>https://www.willow.com</url>
+   </channel>
+   <channel id="willow.2">
+     <display-name lang="en">Willow 2</display-name>
+     <icon src="https://i.ibb.co/jZ92P5qY/weRPkmR.png" />
+     <icon src="https://i.ibb.co/jZ92P5qY/weRPkmR.png" />
+     <url>https://www.willow.com</url>
+   </channel>
+   <channel id="willow.Sports">
+     <display-name lang="en">Willow Sports</display-name>
+     <icon src="https://i.ibb.co/B5J4fxbQ/SUpPOng.png" />
+     <icon src="https://i.ibb.co/B5J4fxbQ/SUpPOng.png" />
+     <url>https://www.willow.com</url>
+   </channel>
+   <channel id="Sports18.1">
+     <display-name lang="en">Sports18 1</display-name>
+     <icon src="https://i.ibb.co/3mpGHH7/Sports18-1.png" />
+     <icon src="https://i.ibb.co/3mpGHH7/Sports18-1.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Sports18.1.HD">
+     <display-name lang="en">Sports18 1 HD</display-name>
+     <icon src="https://i.ibb.co/bNSFB8P/Sports18-1-HD.png" />
+     <icon src="https://i.ibb.co/bNSFB8P/Sports18-1-HD.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Sports18.2">
+     <display-name lang="en">Sports18 2</display-name>
+     <icon src="https://i.ibb.co/ncFdwKz/Sports18-2.png" />
+     <icon src="https://i.ibb.co/ncFdwKz/Sports18-2.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Sports18.3">
+     <display-name lang="en">Sports18 3</display-name>
+     <icon src="https://i.ibb.co/b1Wsxnp/Sports18-3.png" />
+     <icon src="https://i.ibb.co/b1Wsxnp/Sports18-3.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Sports18.Khel">
+     <display-name lang="en">Sports18 Khel</display-name>
+     <icon src="https://i.ibb.co/SVZVg6J/Sports18-Khel.png" />
+     <icon src="https://i.ibb.co/SVZVg6J/Sports18-Khel.png" />
+     <url>https://www.Sports18.in</url>
+   </channel>
+   <channel id="Astro.Cricket">
+     <display-name lang="en">Astro Cricket</display-name>
+     <icon src="https://i.ibb.co/wNvwgJ17/C3vKJdc.png" />
+     <icon src="https://i.ibb.co/wNvwgJ17/C3vKJdc.png" />
+     <url>https://www.astro.au</url>
+   </channel>
+   <channel id="HBO Hits">
+     <display-name lang="en">HBO Hits</display-name>
+     <icon src="https://i.ibb.co/mFgn55FJ/E3MuJC1.png" />
+     <icon src="https://i.ibb.co/mFgn55FJ/E3MuJC1.png" />
+     <url>https://www.HBO.com</url>
+   </channel>
+   <channel id="HBO">
+     <display-name lang="en">HBO</display-name>
+     <icon src="https://i.ibb.co/W6xgb3C/HBO.png" />
+     <icon src="https://i.ibb.co/W6xgb3C/HBO.png" />
+     <url>https://www.HBO.com</url>
+   </channel>
+   <channel id="Cinemax">
+     <display-name lang="en">Cinemax</display-name>
+     <icon src="https://i.ibb.co/PzQYnC8y/fon2q0Y.png" />
+     <icon src="https://i.ibb.co/PzQYnC8y/fon2q0Y.png" />
+     <url>https://www.cinemax.com</url>
+   </channel>
+   <channel id="zee.chitramandir">
+     <display-name lang="en">Zee Chitramandir</display-name>
+     <icon src="https://i.ibb.co/jvkYNrXS/kni3H14.png" />
+     <icon src="https://i.ibb.co/jvkYNrXS/kni3H14.png" />
+     <url>https://www.zee5.com</url>
+   </channel>
+   <channel id="MBC Bollywood">
+     <display-name lang="en">MBC Bollywood</display-name>
+     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
+     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
+     <url>https://www.mbcbollywood.com</url>
+   </channel>
+   <channel id="Bollywood HD">
+     <display-name lang="en">Bollywood HD</display-name>
+     <icon src="https://i.ibb.co/vCvnxxXg/uxybmm9.png" />
+     <icon src="https://i.ibb.co/vCvnxxXg/uxybmm9.png" />
+     <url>https://www.bollywoodhd.com</url>
+   </channel>
+   <channel id="B4u.Movies.Apac">
+     <display-name lang="en">B4U Movies APAC</display-name>
+     <icon src="https://i.ibb.co/zTmrBZf4/YO3fnxj.png" />
+     <icon src="https://i.ibb.co/zTmrBZf4/YO3fnxj.png" />
+     <url>https://www.b4umovies.com</url>
+   </channel>
+   <channel id="Shemaroo.Bollywood">
+     <display-name lang="en">Shemaroo Bollywood</display-name>
+     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <url>https://www.Shemaroo.com</url>
+   </channel>
+   <channel id="Goldmines.Bollywood">
+     <display-name lang="en">Goldmines Bollywood</display-name>
+     <icon src="https://i.ibb.co/7xQHHcqp/iVIianQ.png" />
+     <icon src="https://i.ibb.co/7xQHHcqp/iVIianQ.png" />
+     <url>https://www.goldmines.com</url>
+   </channel>
+   <channel id="Goldmines.Movies">
+     <display-name lang="en">Goldmines Movies</display-name>
+     <icon src="https://i.ibb.co/qLw0h80C/54LyPSR.png" />
+     <icon src="https://i.ibb.co/qLw0h80C/54LyPSR.png" />
+     <url>https://www.Goldmines.com</url>
+   </channel>
+   <channel id="AXN">
+     <display-name lang="en">AXN</display-name>
+     <icon src="https://i.ibb.co/Mxchp8D3/mMWycKU.png" />
+     <icon src="https://i.ibb.co/Mxchp8D3/mMWycKU.png" />
+     <url>https://www.axn.com</url>
+   </channel>
+   <channel id="Warner.TV">
+     <display-name lang="en">Warner TV</display-name>
+     <icon src="https://i.ibb.co/BHhntdwt/Xbxmg0V.png" />
+     <icon src="https://i.ibb.co/BHhntdwt/Xbxmg0V.png" />
+     <url>https://www.warnertv.com</url>
+   </channel>
+   <channel id="desi.play.tv">
+     <display-name lang="en">Desi Play TV</display-name>
+     <icon src="https://i.ibb.co/hJqPmTWF/pEvBf0W.png" />
+     <icon src="https://i.ibb.co/hJqPmTWF/pEvBf0W.png" />
+     <url>https://www.desiplaytv.in</url>
+   </channel>
+   <channel id="sony.kal">
+     <display-name lang="en">Sony Kal</display-name>
+     <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
+     <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
+     <url>https://www.sonykal.com</url>
+   </channel>
+   <channel id="tnt.sports.2">
+     <display-name lang="en">TNT Sports 2</display-name>
+     <icon src="https://i.ibb.co/BV8tYkGb/f0fl2wt.png" />
+     <icon src="https://i.ibb.co/BV8tYkGb/f0fl2wt.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="tnt.sports.3">
+     <display-name lang="en">TNT Sports 3</display-name>
+     <icon src="https://i.ibb.co/TxTDngrP/8mI3r49.png" />
+     <icon src="https://i.ibb.co/TxTDngrP/8mI3r49.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="tnt.sports.4">
+     <display-name lang="en">TNT Sports 4</display-name>
+     <icon src="https://i.ibb.co/dwYPKZFH/YvHdEmD.png" />
+     <icon src="https://i.ibb.co/dwYPKZFH/YvHdEmD.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="tnt.sports.5">
+     <display-name lang="en">TNT Sports 5</display-name>
+     <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
+     <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
+   <channel id="saga.music">
+    <display-name lang="en">Saga Music</display-name>
+    <icon src="https://i.ibb.co/BYGKbGH/GJifoFC.png" />
+    <icon src="https://i.ibb.co/BYGKbGH/GJifoFC.png" />
+    <url>https://www.sagamusic.in</url>
+  </channel>
+  <channel id="the.movie.club">
+    <display-name lang="en">The Movie Club</display-name>
+    <icon src="https://i.ibb.co/JwHrdD0c/2wKp2Al.png" />
+    <icon src="https://i.ibb.co/JwHrdD0c/2wKp2Al.png" />
+    <url>https://www.themovieclub.in</url>
+  </channel>
+  <channel id="star.sports.2.hindi.hd">
+    <display-name lang="en">Star Sports 2 Hindi HD</display-name>
+    <icon src="https://i.ibb.co/5mxX0zf/pvop82M.png" />
+    <icon src="https://i.ibb.co/5mxX0zf/pvop82M.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="star.sports.2.hindi">
+    <display-name lang="en">Star Sports 2 Hindi</display-name>
+    <icon src="https://i.ibb.co/PGjnBLCD/0B5kqRh.png" />
+    <icon src="https://i.ibb.co/PGjnBLCD/0B5kqRh.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="Star.Sports.Khel">
+    <display-name lang="en">Star Sports Khel</display-name>
+    <icon src="https://i.ibb.co/8g25L1L4/q4SswVk.png" />
+    <icon src="https://i.ibb.co/8g25L1L4/q4SswVk.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="star.sports.2.telugu">
+    <display-name lang="en">Star Sports 2 Telugu</display-name>
+    <icon src="https://i.ibb.co/fdGZPRMv/ZuPMT4e.png" />
+    <icon src="https://i.ibb.co/fdGZPRMv/ZuPMT4e.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="star.sports.2.tamil">
+    <display-name lang="en">Star Sports 2 Tamil</display-name>
+    <icon src="https://i.ibb.co/0R27jgYK/Ulak8Co.png" />
+    <icon src="https://i.ibb.co/0R27jgYK/Ulak8Co.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="Star.Utsav">
+    <display-name lang="en">Star Utsav</display-name>
+    <icon src="https://i.ibb.co/210QQBfG/6oFKpXB.png" />
+    <icon src="https://i.ibb.co/210QQBfG/6oFKpXB.png" />
+    <url>https://www.starutsav.in</url>
+  </channel>
+  <channel id="Big.Magic">
+    <display-name lang="en">Big Magic</display-name>
+    <icon src="https://i.ibb.co/hJGX8hxn/nLRZSHG.png" />
+    <icon src="https://i.ibb.co/hJGX8hxn/nLRZSHG.png" />
+    <url>https://www.bigmagic.in</url>
+  </channel>
+  <channel id="DD.National">
+    <display-name lang="en">DD National</display-name>
+    <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
+    <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
+    <url>https://www.ddnational.in</url>
+  </channel>
+  <channel id="DD.National.HD">
+    <display-name lang="en">DD National HD</display-name>
+    <icon src="https://i.ibb.co/Pvk1G6dg/DD-National-HD.png" />
+    <icon src="https://i.ibb.co/Pvk1G6dg/DD-National-HD.png" />
+    <url>https://www.ddnational.in</url>
+  </channel>
+  <channel id="DD.Sahyadri">
+    <display-name lang="en">DD Sahyadri</display-name>
+    <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
+    <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
+    <url>https://www.ddsahyadri.in</url>
+  </channel>
+  <channel id="Colors.Infinity.HD">
+    <display-name lang="en">Colors Infinity HD</display-name>
+    <icon src="https://i.ibb.co/39CnXbg1/O4n669C.png" />
+    <icon src="https://i.ibb.co/39CnXbg1/O4n669C.png" />
+    <url>https://www.colorsinfinity.in</url>
+  </channel>
+  <channel id="Star.Maa.Gold">
+    <display-name lang="en">Star Maa Gold</display-name>
+    <icon src="https://i.ibb.co/YFtb6Jv7/NbF0YSA.png" />
+    <icon src="https://i.ibb.co/YFtb6Jv7/NbF0YSA.png" />
+    <url>https://www.starmaagold.in</url>
+  </channel>
+  <channel id="Romedy.Now">
+    <display-name lang="en">Romedy Now</display-name>
+    <icon src="https://i.ibb.co/XxLt54tB/JBMNKmN.png" />
+    <icon src="https://i.ibb.co/XxLt54tB/JBMNKmN.png" />
+    <url>https://www.romedynow.in</url>
+  </channel>
+  <channel id="MNX.HD">
+    <display-name lang="en">MNX HD</display-name>
+    <icon src="https://i.ibb.co/273G0x9d/4sH8ccX.png" />
+    <icon src="https://i.ibb.co/273G0x9d/4sH8ccX.png" />
+    <url>https://www.mnx.in</url>
+  </channel>
+  <channel id="MN+.HD">
+    <display-name lang="en">MN+ HD</display-name>
+    <icon src="https://i.ibb.co/qLm5dxsG/jqMl7xp.png" />
+    <icon src="https://i.ibb.co/qLm5dxsG/jqMl7xp.png" />
+    <url>https://www.mnplus.in</url>
+  </channel>
+  <channel id="Pogo">
+    <display-name lang="en">Pogo</display-name>
+    <icon src="https://i.ibb.co/CKn0k7Nh/2CgI8Yy.png" />
+    <icon src="https://i.ibb.co/CKn0k7Nh/2CgI8Yy.png" />
+    <url>https://www.pogo.in</url>
+  </channel>
+  <channel id="Cricket.Gold">
+    <display-name lang="en">Cricket Gold</display-name>
+    <icon src="https://i.ibb.co/M59R3R07/zTraJSt.png" />
+    <icon src="https://i.ibb.co/M59R3R07/zTraJSt.png" />
+    <url>https://www.cricketgold.in</url>
+  </channel>
+  <channel id="Nat.Geo.Wild">
+    <display-name lang="en">Nat Geo Wild</display-name>
+    <icon src="https://i.ibb.co/Z6WqNy99/evsgLP4.png" />
+    <icon src="https://i.ibb.co/Z6WqNy99/evsgLP4.png" />
+    <url>https://www.Natgeowild.in</url>
+  </channel>
+  <channel id="Nat.Geo.Wild.HD">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <icon src="https://i.ibb.co/7xNzTFh2/eRF90ex.png" />
+    <icon src="https://i.ibb.co/7xNzTFh2/eRF90ex.png" />
+    <url>https://www.nationalgeographic.in</url>
+  </channel>
+  <channel id="National.Geographic">
+    <display-name lang="en">National Geographic</display-name>
+    <icon src="https://i.ibb.co/VpQzrKLR/cVOuidR.png" />
+    <icon src="https://i.ibb.co/VpQzrKLR/cVOuidR.png" />
+    <url>https://www.nationalgeographic.in</url>
+  </channel>
+  <channel id="National.Geographic.HD">
+    <display-name lang="en">National Geographic HD</display-name>
+    <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
+    <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
+    <url>https://www.nationalgeographic.in</url>
+  </channel>
+  <channel id="Zee.Marathi.HD">
+    <display-name lang="en">Zee Marathi HD</display-name>
+    <icon src="https://i.ibb.co/RTTkZbZs/QGHM7Fg.png" />
+    <icon src="https://i.ibb.co/RTTkZbZs/QGHM7Fg.png" />
+    <url>https://www.zeemarathi.in</url>
+  </channel>
+  <channel id="Zee.Bollywood">
+    <display-name lang="en">Zee Bollywood</display-name>
+    <icon src="https://i.ibb.co/twW6F1kF/ury5tXE.png" />
+    <icon src="https://i.ibb.co/twW6F1kF/ury5tXE.png" />
+    <url>https://www.zeebollywood.in</url>
+  </channel>
+  <channel id="Zee.Classic">
+    <display-name lang="en">Zee Classic</display-name>
+    <icon src="https://i.ibb.co/nM4GW0H0/B274WTE.png" />
+    <icon src="https://i.ibb.co/nM4GW0H0/B274WTE.png" />
+    <url>https://www.zeeclassic.in</url>
+  </channel>
+  <channel id="Fancode">
+    <display-name lang="en">Fancode</display-name>
+    <icon src="https://i.ibb.co/xKd4H6RF/PSwYaD8.png" />
+    <icon src="https://i.ibb.co/xKd4H6RF/PSwYaD8.png" />
+    <url>https://www.fancode.com</url>
+  </channel>
+  <channel id="Saregama.Music">
+    <display-name lang="en">Saregama Music</display-name>
+    <icon src="https://i.ibb.co/8nsd8zqS/4DQtB4f.png" />
+    <icon src="https://i.ibb.co/8nsd8zqS/4DQtB4f.png" />
+    <url>https://www.saregama.com</url>
+  </channel>
+  <channel id="Superhit.Beats">
+    <display-name lang="en">Superhit Beats</display-name>
+    <icon src="https://i.ibb.co/CDyn6k5/HsS3L3L.png" />
+    <icon src="https://i.ibb.co/CDyn6k5/HsS3L3L.png" />
+    <url>https://www.samsung.com</url>
+  </channel>
+  <channel id="Kaan.Phod.Music">
+    <display-name lang="en">Kaan Phod Music</display-name>
+    <icon src="https://i.ibb.co/4kdGh89/JL3Wuqu.png" />
+    <icon src="https://i.ibb.co/4kdGh89/JL3Wuqu.png" />
+    <url>https://www.samsung.com</url>
+  </channel>
+  <channel id="Zing">
+    <display-name lang="en">Zing</display-name>
+    <icon src="https://i.ibb.co/0VQ8cbPH/GRRKGyd.png" />
+    <icon src="https://i.ibb.co/0VQ8cbPH/GRRKGyd.png" />
+    <url>https://www.zee5.com</url>
+  </channel>
+  <channel id="Zoom">
+    <display-name lang="en">Zoom</display-name>
+    <icon src="https://i.ibb.co/0R4fCgWK/3eol8cQ.png" />
+    <icon src="https://i.ibb.co/0R4fCgWK/3eol8cQ.png" />
+    <url>https://www.zoom.com</url>
+  </channel>
+  <channel id="Disney.International.HD">
+    <display-name lang="en">Disney International HD</display-name>
+    <icon src="https://i.ibb.co/3mbndzSw/nxbdJus.png" />
+    <icon src="https://i.ibb.co/3mbndzSw/nxbdJus.png" />
+    <url>https://www.disney.com</url>
+  </channel>
+  <channel id="Sky.Sports.Cricket">
+    <display-name lang="en">Sky Sports Cricket</display-name>
+    <icon src="https://i.ibb.co/LDRPgdD2/rlUGrkA.png" />
+    <icon src="https://i.ibb.co/LDRPgdD2/rlUGrkA.png" />
+    <url>https://www.skysports.com</url>
+  </channel>
+  <channel id="Cricket.Blockbusters.24x7">
+    <display-name lang="en">Cricket Blockbusters 24x7</display-name>
+    <icon src="https://i.ibb.co/B5nFdsjg/Km9AvkJ.png" />
+    <icon src="https://i.ibb.co/B5nFdsjg/Km9AvkJ.png" />
+    <url>https://www.sonylive.com</url>
+  </channel>
+  <channel id="Pop.Pataka">
+    <display-name lang="en">Pop Pataka</display-name>
+    <icon src="https://i.ibb.co/WWhSdDf4/qLRm3zK.png" />
+    <icon src="https://i.ibb.co/WWhSdDf4/qLRm3zK.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Dil.Se">
+    <display-name lang="en">Dil Se</display-name>
+    <icon src="https://i.ibb.co/rfy5qYp4/j6c0fKC.png" />
+    <icon src="https://i.ibb.co/rfy5qYp4/j6c0fKC.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Kadak.Hits">
+    <display-name lang="en">Kadak Hits</display-name>
+    <icon src="https://i.ibb.co/Y4Yxsx1r/hRCKFvj.png" />
+    <icon src="https://i.ibb.co/Y4Yxsx1r/hRCKFvj.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Boogle.Bollywood">
+    <display-name lang="en">Boogle Bollywood</display-name>
+    <icon src="https://i.ibb.co/5x1dP0cv/qZthjNa.png" />
+    <icon src="https://i.ibb.co/5x1dP0cv/qZthjNa.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Punjabi.Hits">
+    <display-name lang="en">Punjabi Hits</display-name>
+    <icon src="https://i.ibb.co/2Yf7RmX7/TIeuE3u.png" />
+    <icon src="https://i.ibb.co/2Yf7RmX7/TIeuE3u.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Saregama.Telugu">
+    <display-name lang="en">Saregama Telugu</display-name>
+    <icon src="https://i.ibb.co/3y6j7RCr/zszm0El.png" />
+    <icon src="https://i.ibb.co/3y6j7RCr/zszm0El.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Shemaroo.Filmy.Gaane">
+    <display-name lang="en">Shemaroo Filmy Gaane</display-name>
+    <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+    <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Power.Kids.TV">
+    <display-name lang="en">Power Kids TV</display-name>
+    <icon src="https://i.ibb.co/hxxy1Nj8/662hCig.png" />
+    <icon src="https://i.ibb.co/hxxy1Nj8/662hCig.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Eurosport.HD">
+    <display-name lang="en">Eurosport HD</display-name>
+    <icon src="https://i.ibb.co/sd6W8SVK/1nDCIes.png" />
+    <icon src="https://i.ibb.co/sd6W8SVK/1nDCIes.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <icon src="https://i.ibb.co/h1Ly613c/znWi9wo.png" />
+    <icon src="https://i.ibb.co/h1Ly613c/znWi9wo.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Mastiii">
+    <display-name lang="en">Mastiii</display-name>
+    <icon src="https://i.ibb.co/0j2Jtzh1/8pJp3og.png" />
+    <icon src="https://i.ibb.co/0j2Jtzh1/8pJp3og.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="GOOD.TiMES">
+    <display-name lang="en">GOOD TiMES</display-name>
+    <icon src="https://i.ibb.co/WvFxsYht/o3MzAjr.png" />
+    <icon src="https://i.ibb.co/WvFxsYht/o3MzAjr.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="E24">
+    <display-name lang="en">E24</display-name>
+    <icon src="https://i.ibb.co/j9ry2wdW/h2GorW2.png" />
+    <icon src="https://i.ibb.co/j9ry2wdW/h2GorW2.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="B4U.Music">
+    <display-name lang="en">B4U Music</display-name>
+    <icon src="https://i.ibb.co/tT24MpNh/McvZYVH.png" />
+    <icon src="https://i.ibb.co/tT24MpNh/McvZYVH.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="Discovery.Channel">
+    <display-name lang="en">Discovery Channel</display-name>
+    <icon src="https://i.ibb.co/3y3Kqjp3/LyJkuzC.png" />
+    <icon src="https://i.ibb.co/3y3Kqjp3/LyJkuzC.png" />
+    <url>https://www.discovery.com</url>
+  </channel>
+  <channel id="Discovery.HD.World">
+    <display-name lang="en">Discovery HD World</display-name>
+    <icon src="https://i.ibb.co/TB9pKMQv/M8Q1GH6.png" />
+    <icon src="https://i.ibb.co/TB9pKMQv/M8Q1GH6.png" />
+    <url>https://www.discovery.com</url>
+  </channel>
+  <channel id="Utsav.Plus">
+    <display-name lang="en">Utsav Plus</display-name>
+    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+    <url>https://www.sky.com</url>
+  </channel>
+  <channel id="Utsav.Plus.HD">
+    <display-name lang="en">Utsav Plus HD</display-name>
+    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+    <url>https://www.sky.com</url>
+  </channel>
+  <channel id="Utsav.Bharat">
+    <display-name lang="en">Utsav Bharat</display-name>
+    <icon src="https://i.ibb.co/wZX5zwKN/uFkrLNp.png" />
+    <icon src="https://i.ibb.co/wZX5zwKN/uFkrLNp.png" />
+    <url>https://www.sky.com</url>
+  </channel>
+  <channel id="Utsav.Gold">
+    <display-name lang="en">Utsav Gold</display-name>
+    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
+    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
+    <url>https://www.sky.com</url>
+  </channel>
+  <channel id="Utsav.Gold.HD">
+    <display-name lang="en">Utsav Gold HD</display-name>
+    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
+    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
+    <url>https://www.sky.com</url>
+  </channel>
+  <channel id="MANGOTV">
+    <display-name lang="en">MANGOTV</display-name>
+    <icon src="https://i.ibb.co/3ySWPndx/w44hyWt.png" />
+    <icon src="https://i.ibb.co/3ySWPndx/w44hyWt.png" />
+    <url>https://www.mangomobile.com</url>
+  </channel>
+  <channel id="Bflix">
+    <display-name lang="en">Bflix</display-name>
+    <icon src="https://i.ibb.co/gZ7xw82J/ttbJ67u.png" />
+    <icon src="https://i.ibb.co/gZ7xw82J/ttbJ67u.png" />
+    <url>https://www.Bflix.com</url>
+  </channel>
+  <channel id="Zee.Bolly.Movies">
+    <display-name lang="en">Zee Bolly Movies</display-name>
+    <icon src="https://i.ibb.co/j9bq8Zjt/vcrkDhm.png" />
+    <icon src="https://i.ibb.co/j9bq8Zjt/vcrkDhm.png" />
+    <url>https://www.zeebollymovies.zeeafrica.tv</url>
+  </channel>
+  <channel id="Zee.One">
+    <display-name lang="en">Zee One</display-name>
+    <icon src="https://i.ibb.co/20r6Gwps/Q4LelsN.png" />
+    <icon src="https://i.ibb.co/20r6Gwps/Q4LelsN.png" />
+    <url>https://www.zeeone.zeeafrica.tv</url>
+  </channel>
+</tv>
