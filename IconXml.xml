@@ -168,8 +168,14 @@
      <icon src="https://i.ibb.co/jvkYNrXS/kni3H14.png" />
      <url>https://www.zee5.com</url>
    </channel>
-   <channel id="MBC Bollywood">
+   <channel id="MBC.Bollywood">
      <display-name lang="en">MBC Bollywood</display-name>
+     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
+     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
+     <url>https://www.mbcbollywood.com</url>
+   </channel>
+   <channel id="MBC.Bollywood.HD">
+     <display-name lang="en">MBC Bollywood HD</display-name>
      <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
      <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
      <url>https://www.mbcbollywood.com</url>
