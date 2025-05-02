@@ -618,4 +618,16 @@
     <icon src="https://i.ibb.co/20r6Gwps/Q4LelsN.png" />
     <url>https://www.zeeone.zeeafrica.tv</url>
   </channel>
+  <channel id="Tata.Play.Anime.Local">
+    <display-name lang="en">Tata Play Anime Local</display-name>
+    <icon src="https://i.ibb.co/Vf2GgTD/Tata-Play-Anime-Local.png" />
+    <icon src="https://i.ibb.co/Vf2GgTD/Tata-Play-Anime-Local.png" />
+    <url>https://www.tataplay.com</url>
+  </channel>
+  <channel id="Zee.Cinema.HD.Astro">
+    <display-name lang="en">Zee Cinema HD Astro</display-name>
+    <icon src="https://i.ibb.co/sJNvb6Z1/Zee-Cinema-HD.png" />
+    <icon src="https://i.ibb.co/sJNvb6Z1/Zee-Cinema-HD.png" />
+    <url>https://content.astro.com.my</url>
+  </channel>
 </tv>
