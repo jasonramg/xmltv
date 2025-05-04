@@ -630,4 +630,10 @@
     <icon src="https://i.ibb.co/sJNvb6Z1/Zee-Cinema-HD.png" />
     <url>https://content.astro.com.my</url>
   </channel>
+  <channel id="&TV.UK">
+    <display-name lang="en">&TV UK</display-name>
+    <icon src="https://i.ibb.co/B2v4FdH9/TV-UK.png" />
+    <icon src="https://i.ibb.co/B2v4FdH9/TV-UK.png" />
+    <url>https://www.samsung.uk</url>
+  </channel>
 </tv>
