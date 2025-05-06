@@ -636,4 +636,10 @@
     <icon src="https://i.ibb.co/B2v4FdH9/TV-UK.png" />
     <url>https://www.samsung.uk</url>
   </channel>
+  <channel id="Sony.MAX.1">
+    <display-name lang="en">Sony MAX 1</display-name>
+    <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
+    <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
+    <url>https://www.sonymax1.com</url>
+  </channel>
 </tv>
