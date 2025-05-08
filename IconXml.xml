@@ -666,4 +666,16 @@
     <icon src="https://i.ibb.co/DP33QFmR/image.png" />
     <url>https://starhubtvplus.com/</url>
   </channel>
+  <channel id="Star.Maa.Movies">
+    <display-name lang="en">Star Maa Movies</display-name>
+    <icon src="https://i.ibb.co/SX08Tyzf/Star-Maa-Movies.png" />
+    <icon src="https://i.ibb.co/SX08Tyzf/Star-Maa-Movies.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Movies.Select.HD">
+    <display-name lang="en">Star Movies Select HD</display-name>
+    <icon src="https://i.ibb.co/MD3NN3BP/Star-Movies-Select-HD.png" />
+    <icon src="https://i.ibb.co/MD3NN3BP/Star-Movies-Select-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
 </tv>
