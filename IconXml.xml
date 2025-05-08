@@ -660,4 +660,10 @@
     <icon src="https://i.ibb.co/VpMTQzG8/image.png" />
     <url>https://content.astro.com.my</url>
   </channel>
+  <channel id="Sony.Max.SG">
+    <display-name lang="en">Sony Max SG</display-name>
+    <icon src="https://i.ibb.co/DP33QFmR/image.png" />
+    <icon src="https://i.ibb.co/DP33QFmR/image.png" />
+    <url>https://starhubtvplus.com/</url>
+  </channel>
 </tv>
