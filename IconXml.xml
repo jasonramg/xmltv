@@ -648,4 +648,10 @@
     <icon src="https://i.ibb.co/JW2Td57g/HBO-Signature.png" />
     <url>https://www.hbo.com</url>
   </channel>
+  <channel id="Sony.Movies">
+    <display-name lang="en">Sony Movies</display-name>
+    <icon src="https://i.ibb.co/s4w1RKM/Sony-Movies.png" />
+    <icon src="https://i.ibb.co/s4w1RKM/Sony-Movies.png" />
+    <url>http://www.sonymovies.com</url>
+  </channel>
 </tv>
