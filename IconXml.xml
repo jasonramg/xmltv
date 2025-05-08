@@ -642,4 +642,10 @@
     <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
     <url>https://www.sonymax1.com</url>
   </channel>
+  <channel id="HBO.Signature">
+    <display-name lang="en">HBO Signature</display-name>
+    <icon src="https://i.ibb.co/JW2Td57g/HBO-Signature.png" />
+    <icon src="https://i.ibb.co/JW2Td57g/HBO-Signature.png" />
+    <url>https://www.hbo.com</url>
+  </channel>
 </tv>
