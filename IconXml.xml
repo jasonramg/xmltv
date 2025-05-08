@@ -624,8 +624,8 @@
     <icon src="https://i.ibb.co/Vf2GgTD/Tata-Play-Anime-Local.png" />
     <url>https://www.tataplay.com</url>
   </channel>
-  <channel id="Zee.Cinema.HD.Astro">
-    <display-name lang="en">Zee Cinema HD Astro</display-name>
+  <channel id="Zee.Cinema.HD.(Astro)">
+    <display-name lang="en">Zee Cinema HD (Astro)</display-name>
     <icon src="https://i.ibb.co/sJNvb6Z1/Zee-Cinema-HD.png" />
     <icon src="https://i.ibb.co/sJNvb6Z1/Zee-Cinema-HD.png" />
     <url>https://content.astro.com.my</url>
@@ -653,5 +653,11 @@
     <icon src="https://i.ibb.co/s4w1RKM/Sony-Movies.png" />
     <icon src="https://i.ibb.co/s4w1RKM/Sony-Movies.png" />
     <url>http://www.sonymovies.com</url>
+  </channel>
+  <channel id="Colors.HD.(Astro)">
+    <display-name lang="en">Colors HD (Astro)</display-name>
+    <icon src="https://i.ibb.co/VpMTQzG8/image.png" />
+    <icon src="https://i.ibb.co/VpMTQzG8/image.png" />
+    <url>https://content.astro.com.my</url>
   </channel>
 </tv>
