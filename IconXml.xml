@@ -678,4 +678,10 @@
     <icon src="https://i.ibb.co/MD3NN3BP/Star-Movies-Select-HD.png" />
     <url>https://hotstar.com/</url>
   </channel>
+  <channel id="Hits.Movies">
+    <display-name lang="en">Hits Movies</display-name>
+    <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
+    <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
+    <url>https://content.astro.com.my</url>
+  </channel>
 </tv>
