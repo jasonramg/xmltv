@@ -684,4 +684,10 @@
     <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
     <url>https://content.astro.com.my</url>
   </channel>
+  <channel id="TeluguOne.TV">
+    <display-name lang="en">TeluguOne TV</display-name>
+    <icon src="https://i.ibb.co/vxdyGQGp/Telugu-One-TV.png" />
+    <icon src="https://i.ibb.co/vxdyGQGp/Telugu-One-TV.png" />
+    <url>https://www.teluguone.com</url>
+  </channel>
 </tv>
