@@ -198,6 +198,18 @@
      <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
      <url>https://www.Shemaroo.com</url>
    </channel>
+   <channel id="Shemaroo.Bollywood.1">
+     <display-name lang="en">Shemaroo Bollywood 1</display-name>
+     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <url>https://www.Shemaroo.com</url>
+   </channel>
+   <channel id="Shemaroo.Bollywood.2">
+     <display-name lang="en">Shemaroo Bollywood 2</display-name>
+     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <url>https://www.Shemaroo.com</url>
+   </channel>
    <channel id="Goldmines.Bollywood">
      <display-name lang="en">Goldmines Bollywood</display-name>
      <icon src="https://i.ibb.co/7xQHHcqp/iVIianQ.png" />
@@ -689,5 +701,11 @@
     <icon src="https://i.ibb.co/vxdyGQGp/Telugu-One-TV.png" />
     <icon src="https://i.ibb.co/vxdyGQGp/Telugu-One-TV.png" />
     <url>https://www.teluguone.com</url>
+  </channel>
+  <channel id="Tabbar.Hits">
+    <display-name lang="en">Tabbar Hits</display-name>
+    <icon src="https://i.ibb.co/VW4ZHySP/Tabbar-Hits.png" />
+    <icon src="https://i.ibb.co/VW4ZHySP/Tabbar-Hits.png" />
+    <url>https://www.epicon.in/distro-tv/5241</url>
   </channel>
 </tv>
