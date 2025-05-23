@@ -648,12 +648,6 @@
     <icon src="https://i.ibb.co/B2v4FdH9/TV-UK.png" />
     <url>https://www.samsung.uk</url>
   </channel>
-  <channel id="Sony.MAX.1">
-    <display-name lang="en">Sony MAX 1</display-name>
-    <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
-    <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
-    <url>https://www.sonymax1.com</url>
-  </channel>
   <channel id="HBO.Signature">
     <display-name lang="en">HBO Signature</display-name>
     <icon src="https://i.ibb.co/JW2Td57g/HBO-Signature.png" />
@@ -707,5 +701,95 @@
     <icon src="https://i.ibb.co/VW4ZHySP/Tabbar-Hits.png" />
     <icon src="https://i.ibb.co/VW4ZHySP/Tabbar-Hits.png" />
     <url>https://www.epicon.in/distro-tv/5241</url>
+  </channel>
+  <channel id="SET">
+    <display-name lang="en">SET</display-name>
+    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
+    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="SET.HD">
+    <display-name lang="en">SET HD</display-name>
+    <icon src="https://i.ibb.co/8gQfH5jQ/SET-HD.png" />
+    <icon src="https://i.ibb.co/8gQfH5jQ/SET-HD.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Pix">
+    <display-name lang="en">Sony Pix</display-name>
+    <icon src="https://i.ibb.co/DfGzFBLp/Sony-Pix.png" />
+    <icon src="https://i.ibb.co/DfGzFBLp/Sony-Pix.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Pix.HD">
+    <display-name lang="en">Sony Pix HD</display-name>
+    <icon src="https://i.ibb.co/BHY1ymZL/Sony-Pix-HD.png" />
+    <icon src="https://i.ibb.co/BHY1ymZL/Sony-Pix-HD.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.BBC.Earth">
+    <display-name lang="en">Sony BBC Earth</display-name>
+    <icon src="https://i.ibb.co/zVhJPbFG/Sony-BBC-Earth.png" />
+    <icon src="https://i.ibb.co/zVhJPbFG/Sony-BBC-Earth.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.BBC.Earth.HD">
+    <display-name lang="en">Sony BBC Earth HD</display-name>
+    <icon src="https://i.ibb.co/MDrfFBGS/Sony-BBC-Earth-HD.png" />
+    <icon src="https://i.ibb.co/MDrfFBGS/Sony-BBC-Earth-HD.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Pal">
+    <display-name lang="en">Sony Pal</display-name>
+    <icon src="https://i.ibb.co/FqktZPSG/Sony-Pal.png" />
+    <icon src="https://i.ibb.co/FqktZPSG/Sony-Pal.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Aath">
+    <display-name lang="en">Sony Aath</display-name>
+    <icon src="https://i.ibb.co/676Pjw3q/Sony-Aath.png" />
+    <icon src="https://i.ibb.co/676Pjw3q/Sony-Aath.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.SAB">
+    <display-name lang="en">Sony SAB</display-name>
+    <icon src="https://i.ibb.co/Vc3MKHbb/Sony-SAB.png" />
+    <icon src="https://i.ibb.co/Vc3MKHbb/Sony-SAB.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.SAB.HD">
+    <display-name lang="en">Sony SAB HD</display-name>
+    <icon src="https://i.ibb.co/C5vGp9k9/Sony-SAB-HD.png" />
+    <icon src="https://i.ibb.co/C5vGp9k9/Sony-SAB-HD.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Yay!">
+    <display-name lang="en">Sony Yay!</display-name>
+    <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
+    <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Marathi">
+    <display-name lang="en">Sony Marathi</display-name>
+    <icon src="https://i.ibb.co/xncPKZQ/Sony-Marathi.png" />
+    <icon src="https://i.ibb.co/xncPKZQ/Sony-Marathi.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Max">
+    <display-name lang="en">Sony Max</display-name>
+    <icon src="https://i.ibb.co/67TL1Pj5/Sony-Max.png" />
+    <icon src="https://i.ibb.co/67TL1Pj5/Sony-Max.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Max.HD">
+    <display-name lang="en">Sony Max HD</display-name>
+    <icon src="https://i.ibb.co/d01bJKxY/Sony-Max-HD.png" />
+    <icon src="https://i.ibb.co/d01bJKxY/Sony-Max-HD.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.MAX.1">
+    <display-name lang="en">Sony MAX 1</display-name>
+    <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
+    <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
   </channel>
 </tv>
