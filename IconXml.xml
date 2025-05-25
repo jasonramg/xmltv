@@ -864,4 +864,22 @@
     <icon src="https://i.ibb.co/dJfWNcH2/Sony-Sports-Ten-5-HD.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
+  <channel id="NH.BollyFlix">
+    <display-name lang="en">NH BollyFlix</display-name>
+    <icon src="https://i.ibb.co/TDZPBQdc/NH-Bolly-Flix.png" />
+    <icon src="https://i.ibb.co/TDZPBQdc/NH-Bolly-Flix.png" />
+    <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
+  </channel>
+  <channel id="NH.BollyGold">
+    <display-name lang="en">NH BollyGold</display-name>
+    <icon src="https://i.ibb.co/fdJp6mWd/NH-Bolly-Gold.png" />
+    <icon src="https://i.ibb.co/fdJp6mWd/NH-Bolly-Gold.png" />
+    <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
+  </channel>
+  <channel id="NH.BollyRaga">
+    <display-name lang="en">NH BollyRaga</display-name>
+    <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
+    <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
+    <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
+  </channel>
 </tv>
