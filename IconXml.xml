@@ -882,4 +882,40 @@
     <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
     <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
   </channel>
+  <channel id="Star.Sports.3">
+    <display-name lang="en">Star Sports 3</display-name>
+    <icon src="https://i.ibb.co/dJt66N3N/Star-Sports-3.png" />
+    <icon src="https://i.ibb.co/dJt66N3N/Star-Sports-3.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Sports.1.Hindi">
+    <display-name lang="en">Star Sports 1 Hindi</display-name>
+    <icon src="https://i.ibb.co/fdsPMWXD/Star-Sports-1-Hindi.png" />
+    <icon src="https://i.ibb.co/fdsPMWXD/Star-Sports-1-Hindi.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Disney.Channel">
+    <display-name lang="en">Disney Channel</display-name>
+    <icon src="https://i.ibb.co/sdwpJ1JS/Disney-Channel.png" />
+    <icon src="https://i.ibb.co/sdwpJ1JS/Disney-Channel.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Gold.2.HD">
+    <display-name lang="en">Star Gold 2 HD</display-name>
+    <icon src="https://i.ibb.co/0RLBMryy/Star-Gold-2-HD.png" />
+    <icon src="https://i.ibb.co/0RLBMryy/Star-Gold-2-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Gold.Thrills">
+    <display-name lang="en">Star Gold Thrills</display-name>
+    <icon src="https://i.ibb.co/R442d3JN/Star-Gold-Thrills.png" />
+    <icon src="https://i.ibb.co/R442d3JN/Star-Gold-Thrills.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Gold.Romance">
+    <display-name lang="en">Star Gold Romance</display-name>
+    <icon src="https://i.ibb.co/s9f29CHn/Star-Gold-Romance.png" />
+    <icon src="https://i.ibb.co/s9f29CHn/Star-Gold-Romance.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
 </tv>
