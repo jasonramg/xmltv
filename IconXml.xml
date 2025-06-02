@@ -918,4 +918,34 @@
     <icon src="https://i.ibb.co/s9f29CHn/Star-Gold-Romance.png" />
     <url>https://hotstar.com/</url>
   </channel>
+  <channel id="Star.Pravah.Picture.HD">
+    <display-name lang="en">Star Pravah Picture HD</display-name>
+    <icon src="https://i.ibb.co/WZFDPsC/Star-Pravah-Picture-HD.png" />
+    <icon src="https://i.ibb.co/WZFDPsC/Star-Pravah-Picture-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Maa.Music">
+    <display-name lang="en">Star Maa Music</display-name>
+    <icon src="https://i.ibb.co/Z1V07mhW/Star-Maa-Music.png" />
+    <icon src="https://i.ibb.co/Z1V07mhW/Star-Maa-Music.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Ten Cricket">
+    <display-name lang="en">Ten Cricket</display-name>
+    <icon src="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png" />
+    <icon src="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png" />
+    <url>https://www.tensportstv.com/</url>
+  </channel>
+  <channel id="Gemini.Music.HD">
+    <display-name lang="en">Gemini Music HD</display-name>
+    <icon src="https://i.ibb.co/xtYv9z0w/Gemini-Music-HD.png" />
+    <icon src="https://i.ibb.co/xtYv9z0w/Gemini-Music-HD.png" />
+    <url>https://www.sunnxt.com/live</url>
+  </channel>
+  <channel id="Pasand">
+    <display-name lang="en">Pasand</display-name>
+    <icon src="https://i.ibb.co/3ysj9JzT/Pasand.png" />
+    <icon src="https://i.ibb.co/3ysj9JzT/Pasand.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
 </tv>
