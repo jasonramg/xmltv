@@ -948,4 +948,16 @@
     <icon src="https://i.ibb.co/3ysj9JzT/Pasand.png" />
     <url>https://www.jiotv.com/</url>
   </channel>
+  <channel id="Zee.BollyWorld">
+    <display-name lang="en">Zee BollyWorld</display-name>
+    <icon src="https://i.ibb.co/8XYF6pW/Zee-Bolly-World.png" />
+    <icon src="https://i.ibb.co/8XYF6pW/Zee-Bolly-World.png" />
+    <url>https://www.distro.tv/live/</url>
+  </channel>
+  <channel id="Bollywood.Classic">
+    <display-name lang="en">Bollywood Classic</display-name>
+    <icon src="https://i.ibb.co/mr2v9qB3/Bollywood-Classic.png" />
+    <icon src="https://i.ibb.co/mr2v9qB3/Bollywood-Classic.png" />
+    <url>https://www.distro.tv/live/</url>
+  </channel>
 </tv>
