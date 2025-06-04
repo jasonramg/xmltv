@@ -150,14 +150,14 @@
      <icon src="https://i.ibb.co/mFgn55FJ/E3MuJC1.png" />
      <url>https://www.HBO.com</url>
    </channel>
-   <channel id="HBO">
-     <display-name lang="en">HBO</display-name>
+   <channel id="HBO.HD">
+     <display-name lang="en">HBO HD</display-name>
      <icon src="https://i.ibb.co/W6xgb3C/HBO.png" />
      <icon src="https://i.ibb.co/W6xgb3C/HBO.png" />
      <url>https://www.HBO.com</url>
    </channel>
-   <channel id="Cinemax">
-     <display-name lang="en">Cinemax</display-name>
+   <channel id="Cinemax.HD">
+     <display-name lang="en">Cinemax HD</display-name>
      <icon src="https://i.ibb.co/PzQYnC8y/fon2q0Y.png" />
      <icon src="https://i.ibb.co/PzQYnC8y/fon2q0Y.png" />
      <url>https://www.cinemax.com</url>
@@ -222,8 +222,8 @@
      <icon src="https://i.ibb.co/qLw0h80C/54LyPSR.png" />
      <url>https://www.Goldmines.com</url>
    </channel>
-   <channel id="AXN">
-     <display-name lang="en">AXN</display-name>
+   <channel id="AXN.HD">
+     <display-name lang="en">AXN HD</display-name>
      <icon src="https://i.ibb.co/Mxchp8D3/mMWycKU.png" />
      <icon src="https://i.ibb.co/Mxchp8D3/mMWycKU.png" />
      <url>https://www.axn.com</url>
@@ -684,8 +684,8 @@
     <icon src="https://i.ibb.co/MD3NN3BP/Star-Movies-Select-HD.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Hits.Movies">
-    <display-name lang="en">Hits Movies</display-name>
+  <channel id="Hits.Movies.HD">
+    <display-name lang="en">Hits Movies HD</display-name>
     <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
     <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
     <url>https://content.astro.com.my</url>
