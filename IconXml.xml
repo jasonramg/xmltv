@@ -78,8 +78,8 @@
      <icon src="https://i.ibb.co/Hpd2fVr7/Drg7JLf.png" />
      <url>https://www.hbofamily.com</url>
    </channel>
-   <channel id="tnt.sports.1">
-     <display-name lang="en">TNT Sports 1</display-name>
+   <channel id="tnt.sports.1.HD">
+     <display-name lang="en">TNT Sports 1 HD</display-name>
      <icon src="https://i.ibb.co/VcLv31y2/MUlrUTG.png" />
      <icon src="https://i.ibb.co/VcLv31y2/MUlrUTG.png" />
      <url>https://www.tntsports.com</url>
@@ -246,26 +246,26 @@
      <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
      <url>https://www.sonykal.com</url>
    </channel>
-   <channel id="tnt.sports.2">
-     <display-name lang="en">TNT Sports 2</display-name>
+   <channel id="tnt.sports.2.HD">
+     <display-name lang="en">TNT Sports 2 HD</display-name>
      <icon src="https://i.ibb.co/BV8tYkGb/f0fl2wt.png" />
      <icon src="https://i.ibb.co/BV8tYkGb/f0fl2wt.png" />
      <url>https://www.tntsports.com</url>
    </channel>
-   <channel id="tnt.sports.3">
-     <display-name lang="en">TNT Sports 3</display-name>
+   <channel id="tnt.sports.3.HD">
+     <display-name lang="en">TNT Sports 3 HD</display-name>
      <icon src="https://i.ibb.co/TxTDngrP/8mI3r49.png" />
      <icon src="https://i.ibb.co/TxTDngrP/8mI3r49.png" />
      <url>https://www.tntsports.com</url>
    </channel>
-   <channel id="tnt.sports.4">
-     <display-name lang="en">TNT Sports 4</display-name>
+   <channel id="tnt.sports.4.HD">
+     <display-name lang="en">TNT Sports 4 HD</display-name>
      <icon src="https://i.ibb.co/dwYPKZFH/YvHdEmD.png" />
      <icon src="https://i.ibb.co/dwYPKZFH/YvHdEmD.png" />
      <url>https://www.tntsports.com</url>
    </channel>
-   <channel id="tnt.sports.5">
-     <display-name lang="en">TNT Sports 5</display-name>
+   <channel id="tnt.sports.5.HD">
+     <display-name lang="en">TNT Sports 5 HD</display-name>
      <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
      <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
      <url>https://www.tntsports.com</url>
