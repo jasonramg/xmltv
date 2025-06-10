@@ -1044,4 +1044,34 @@
     <icon src="https://i.ibb.co/dw1CTPk9/Prive-HD.png" />
     <url>https://www.zee5.com/</url>
   </channel>
+  <channel id="Zee.Talkies.in">
+    <display-name lang="en">Zee Talkies</display-name>
+    <icon src="https://i.ibb.co/WWj8BNy1/Zee-Talkies.png" />
+    <icon src="https://i.ibb.co/WWj8BNy1/Zee-Talkies.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Talkies.HD.in">
+    <display-name lang="en">Zee Talkies HD</display-name>
+    <icon src="https://i.ibb.co/Jjg3Jr5S/Zee-Talkies-HD.png" />
+    <icon src="https://i.ibb.co/Jjg3Jr5S/Zee-Talkies-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Marathi.in">
+    <display-name lang="en">Zee Marathi</display-name>
+    <icon src="https://i.ibb.co/bjjDpX4b/Zee-Marathi.png" />
+    <icon src="https://i.ibb.co/bjjDpX4b/Zee-Marathi.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Marathi.HD.in">
+    <display-name lang="en">Zee Marathi HD</display-name>
+    <icon src="https://i.ibb.co/pgz4c96/Zee-Marathi-HD.png" />
+    <icon src="https://i.ibb.co/pgz4c96/Zee-Marathi-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Action.in">
+    <display-name lang="en">Zee Action</display-name>
+    <icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png" />
+    <icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
 </tv>
