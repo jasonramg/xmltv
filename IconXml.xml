@@ -164,8 +164,20 @@
    </channel>
    <channel id="zee.chitramandir">
      <display-name lang="en">Zee Chitramandir</display-name>
-     <icon src="https://i.ibb.co/jvkYNrXS/kni3H14.png" />
-     <icon src="https://i.ibb.co/jvkYNrXS/kni3H14.png" />
+     <icon src="https://i.ibb.co/Rpzg20dB/Zee-Chitramandir.png" />
+     <icon src="https://i.ibb.co/Rpzg20dB/Zee-Chitramandir.png" />
+     <url>https://www.zee5.com</url>
+   </channel>
+   <channel id="zee.Yuva.in">
+     <display-name lang="en">Zee Yuva</display-name>
+     <icon src="https://i.ibb.co/B5Th8frk/Zee-Yuva.png" />
+     <icon src="https://i.ibb.co/B5Th8frk/Zee-Yuva.png" />
+     <url>https://www.zee5.com</url>
+   </channel>
+   <channel id="zee.Zest.HD.in">
+     <display-name lang="en">Zee Zest HD</display-name>
+     <icon src="https://i.ibb.co/LDCSdBPr/Zee-Zest-HD.png" />
+     <icon src="https://i.ibb.co/LDCSdBPr/Zee-Zest-HD.png" />
      <url>https://www.zee5.com</url>
    </channel>
    <channel id="MBC.Bollywood">
@@ -416,14 +428,14 @@
   </channel>
   <channel id="Zee.Bollywood">
     <display-name lang="en">Zee Bollywood</display-name>
-    <icon src="https://i.ibb.co/twW6F1kF/ury5tXE.png" />
-    <icon src="https://i.ibb.co/twW6F1kF/ury5tXE.png" />
-    <url>https://www.zeebollywood.in</url>
+    <icon src="https://i.ibb.co/Lhn8Pc61/Zee-Bollywood.png" />
+    <icon src="https://i.ibb.co/Lhn8Pc61/Zee-Bollywood.png" />
+    <url>https://www.zee5.com</url>
   </channel>
   <channel id="Zee.Classic">
     <display-name lang="en">Zee Classic</display-name>
-    <icon src="https://i.ibb.co/nM4GW0H0/B274WTE.png" />
-    <icon src="https://i.ibb.co/nM4GW0H0/B274WTE.png" />
+    <icon src="https://i.ibb.co/C3MwGYx8/Zee-Classic.png" />
+    <icon src="https://i.ibb.co/C3MwGYx8/Zee-Classic.png" />
     <url>https://www.zeeclassic.in</url>
   </channel>
   <channel id="Fancode">
@@ -638,14 +650,14 @@
   </channel>
   <channel id="Zee.Cinema.HD.(Astro)">
     <display-name lang="en">Zee Cinema HD (Astro)</display-name>
-    <icon src="https://i.ibb.co/sJNvb6Z1/Zee-Cinema-HD.png" />
-    <icon src="https://i.ibb.co/sJNvb6Z1/Zee-Cinema-HD.png" />
+    <icon src="https://i.ibb.co/RpvzRP3X/Zee-Cinema-HD.png" />
+    <icon src="https://i.ibb.co/RpvzRP3X/Zee-Cinema-HD.png" />
     <url>https://content.astro.com.my</url>
   </channel>
   <channel id="&TV.HD.UK">
     <display-name lang="en">&TV HD UK</display-name>
-    <icon src="https://i.ibb.co/B2v4FdH9/TV-UK.png" />
-    <icon src="https://i.ibb.co/B2v4FdH9/TV-UK.png" />
+    <icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png" />
+    <icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png" />
     <url>https://www.samsung.uk</url>
   </channel>
   <channel id="HBO.Signature">
@@ -950,8 +962,8 @@
   </channel>
   <channel id="Zee.BollyWorld">
     <display-name lang="en">Zee BollyWorld</display-name>
-    <icon src="https://i.ibb.co/8XYF6pW/Zee-Bolly-World.png" />
-    <icon src="https://i.ibb.co/8XYF6pW/Zee-Bolly-World.png" />
+    <icon src="https://i.ibb.co/wZyK1PZx/Zee-Bolly-World.png" />
+    <icon src="https://i.ibb.co/wZyK1PZx/Zee-Bolly-World.png" />
     <url>https://www.distro.tv/live/</url>
   </channel>
   <channel id="Bollywood.Classic">
@@ -968,8 +980,8 @@
   </channel>
   <channel id="Zee.TV.HD.in">
     <display-name lang="en">Zee TV HD</display-name>
-    <icon src="https://i.ibb.co/MySnj9sD/Zee-TV-HD.png" />
-    <icon src="https://i.ibb.co/MySnj9sD/Zee-TV-HD.png" />
+    <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
+    <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
     <url>https://www.zee5.com/</url>
   </channel>
   <channel id="and.TV.in">
@@ -980,8 +992,8 @@
   </channel>
   <channel id="and.TV.HD.in">
     <display-name lang="en">&TV HD</display-name>
-    <icon src="https://i.ibb.co/1GPjc5Rt/TV-HD.png" />
-    <icon src="https://i.ibb.co/1GPjc5Rt/TV-HD.png" />
+    <icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png" />
+    <icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png" />
     <url>https://www.zee5.com/</url>
   </channel>
   <channel id="Zee.Cafe.HD.in">
