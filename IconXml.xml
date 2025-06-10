@@ -962,8 +962,14 @@
   </channel>
   <channel id="Zee.TV.HD.in">
     <display-name lang="en">Zee TV HD</display-name>
-    <icon src="https://i.ibb.co/4wSzgWNP/ZeeTV.png" />
-    <icon src="https://i.ibb.co/4wSzgWNP/ZeeTV.png" />
+    <icon src="https://i.ibb.co/MySnj9sD/Zee-TV-HD.png" />
+    <icon src="https://i.ibb.co/MySnj9sD/Zee-TV-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="and.TV.HD.in">
+    <display-name lang="en">&TV HD</display-name>
+    <icon src="https://i.ibb.co/1GPjc5Rt/TV-HD.png" />
+    <icon src="https://i.ibb.co/1GPjc5Rt/TV-HD.png" />
     <url>https://www.zee5.com/</url>
   </channel>
 </tv>
