@@ -1074,6 +1074,12 @@
     <icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png" />
     <url>https://www.zee5.com/</url>
   </channel>
+  <channel id="Action.Cinema.in">
+    <display-name lang="en">Action Cinema</display-name>
+    <icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png" />
+    <icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
   <channel id="Zee.Anmol.in">
     <display-name lang="en">Zee Anmol</display-name>
     <icon src="https://i.ibb.co/rKpztrRw/Zee-Anmol.png" />
