@@ -1074,4 +1074,28 @@
     <icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png" />
     <url>https://www.zee5.com/</url>
   </channel>
+  <channel id="Zee.Anmol.in">
+    <display-name lang="en">Zee Anmol</display-name>
+    <icon src="https://i.ibb.co/rKpztrRw/Zee-Anmol.png" />
+    <icon src="https://i.ibb.co/rKpztrRw/Zee-Anmol.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Anmol.Cinema.in">
+    <display-name lang="en">Zee Anmol Cinema</display-name>
+    <icon src="https://i.ibb.co/sv0rnjsy/Zee-Anmol-Cinema.png" />
+    <icon src="https://i.ibb.co/sv0rnjsy/Zee-Anmol-Cinema.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Anmol.Cinema.2.in">
+    <display-name lang="en">Zee Anmol Cinema 2</display-name>
+    <icon src="https://i.ibb.co/d0JTCKbr/Zee-Anmol-Cinema-2.png" />
+    <icon src="https://i.ibb.co/d0JTCKbr/Zee-Anmol-Cinema-2.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Cinemalu.HD.in">
+    <display-name lang="en">Zee Cinemalu HD</display-name>
+    <icon src="https://i.ibb.co/YBH8p6Bj/Zee-Cinemalu-HD.png" />
+    <icon src="https://i.ibb.co/YBH8p6Bj/Zee-Cinemalu-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
 </tv>
