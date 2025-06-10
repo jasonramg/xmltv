@@ -960,16 +960,76 @@
     <icon src="https://i.ibb.co/mr2v9qB3/Bollywood-Classic.png" />
     <url>https://www.distro.tv/live/</url>
   </channel>
+  <channel id="Zee.TV.in">
+    <display-name lang="en">Zee TV</display-name>
+    <icon src="https://i.ibb.co/jPcYK7mF/Zee-TV.png" />
+    <icon src="https://i.ibb.co/jPcYK7mF/Zee-TV.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
   <channel id="Zee.TV.HD.in">
     <display-name lang="en">Zee TV HD</display-name>
     <icon src="https://i.ibb.co/MySnj9sD/Zee-TV-HD.png" />
     <icon src="https://i.ibb.co/MySnj9sD/Zee-TV-HD.png" />
     <url>https://www.zee5.com/</url>
   </channel>
+  <channel id="and.TV.in">
+    <display-name lang="en">&TV</display-name>
+    <icon src="https://i.ibb.co/ns9X2g41/TV.png" />
+    <icon src="https://i.ibb.co/ns9X2g41/TV.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
   <channel id="and.TV.HD.in">
     <display-name lang="en">&TV HD</display-name>
     <icon src="https://i.ibb.co/1GPjc5Rt/TV-HD.png" />
     <icon src="https://i.ibb.co/1GPjc5Rt/TV-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Cafe.HD.in">
+    <display-name lang="en">Zee Cafe HD</display-name>
+    <icon src="https://i.ibb.co/8L1f2HBd/Zee-Cafe-HD.png" />
+    <icon src="https://i.ibb.co/8L1f2HBd/Zee-Cafe-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Cinema.in">
+    <display-name lang="en">Zee Cinema</display-name>
+    <icon src="https://i.ibb.co/ksYy3hvc/Zee-Cinema.png" />
+    <icon src="https://i.ibb.co/ksYy3hvc/Zee-Cinema.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Cinema.HD.in">
+    <display-name lang="en">Zee Cinema HD</display-name>
+    <icon src="https://i.ibb.co/RpvzRP3X/Zee-Cinema-HD.png" />
+    <icon src="https://i.ibb.co/RpvzRP3X/Zee-Cinema-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="and.Pictures.in">
+    <display-name lang="en">&Pictures</display-name>
+    <icon src="https://i.ibb.co/8DHq4QX8/Pictures.png" />
+    <icon src="https://i.ibb.co/8DHq4QX8/Pictures.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="and.Pictures.HD.in">
+    <display-name lang="en">&Pictures HD</display-name>
+    <icon src="https://i.ibb.co/Vccc4G2y/Pictures-HD.png" />
+    <icon src="https://i.ibb.co/Vccc4G2y/Pictures-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="and.xplor.HD.in">
+    <display-name lang="en">&xplor HD</display-name>
+    <icon src="https://i.ibb.co/zHhC99qM/xplor-HD.png" />
+    <icon src="https://i.ibb.co/zHhC99qM/xplor-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="and.flix.HD.in">
+    <display-name lang="en">&flix HD</display-name>
+    <icon src="https://i.ibb.co/spZN9P07/Flix-HD.png" />
+    <icon src="https://i.ibb.co/spZN9P07/Flix-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="and.Prive.HD.in">
+    <display-name lang="en">&Prive HD</display-name>
+    <icon src="https://i.ibb.co/dw1CTPk9/Prive-HD.png" />
+    <icon src="https://i.ibb.co/dw1CTPk9/Prive-HD.png" />
     <url>https://www.zee5.com/</url>
   </channel>
 </tv>
