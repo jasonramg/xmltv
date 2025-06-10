@@ -960,4 +960,10 @@
     <icon src="https://i.ibb.co/mr2v9qB3/Bollywood-Classic.png" />
     <url>https://www.distro.tv/live/</url>
   </channel>
+  <channel id="Zee.TV.HD.in">
+    <display-name lang="en">Zee TV HD</display-name>
+    <icon src="https://i.ibb.co/4wSzgWNP/ZeeTV.png" />
+    <icon src="https://i.ibb.co/4wSzgWNP/ZeeTV.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
 </tv>
