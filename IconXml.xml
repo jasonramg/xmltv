@@ -90,6 +90,12 @@
      <icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png" />
      <url>https://www.foxsports.com</url>
    </channel>
+   <channel id="FOX Cricket FS1.au">
+     <display-name lang="en">Fox Cricket</display-name>
+     <icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png" />
+     <icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png" />
+     <url>https://www.foxsports.com</url>
+   </channel>
    <channel id="willow.hd">
      <display-name lang="en">Willow HD</display-name>
      <icon src="https://i.ibb.co/FkDrQ5MN/9PixQ2W.png" />
