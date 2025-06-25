@@ -732,6 +732,12 @@
     <icon src="https://i.ibb.co/8gQfH5jQ/SET-HD.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
+  <channel id="SET (HINDI)">
+    <display-name lang="en">SET SG</display-name>
+    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
+    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
   <channel id="Sony.Pix">
     <display-name lang="en">Sony Pix</display-name>
     <icon src="https://i.ibb.co/DfGzFBLp/Sony-Pix.png" />
