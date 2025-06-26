@@ -66,6 +66,12 @@
      <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
      <url>https://www.shemaroofilmigaane.in</url>
    </channel>
+   <channel id="123698">
+     <display-name lang="en">Shemaroo Filmigaane</display-name>
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <url>https://www.shemaroofilmigaane.in</url>
+   </channel>
    <channel id="wild.earth">
      <display-name lang="en">Wild Earth</display-name>
      <icon src="https://i.ibb.co/bMsxycVy/2tGfNnM.png" />
