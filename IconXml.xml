@@ -1146,4 +1146,16 @@
     <icon src="https://i.ibb.co/ymM2BDN4/BBO-Classic.png" />
     <url>https://www.yupptv.com/</url>
   </channel>
+  <channel id="Comedy Central.de">
+    <display-name lang="en">Comedy Central</display-name>
+    <icon src="https://i.ibb.co/3YyVLK5W/Comedy-Central.png" />
+    <icon src="https://i.ibb.co/3YyVLK5W/Comedy-Central.png" />
+    <url>https://www.comedycentral.com/</url>
+  </channel>
+  <channel id="Nick/Comedy Central+1.de">
+    <display-name lang="en">Comedy Central Nick</display-name>
+    <icon src="https://i.ibb.co/FLys3qRY/Comedy-Central-Nick.png" />
+    <icon src="https://i.ibb.co/FLys3qRY/Comedy-Central-Nick.png" />
+    <url>https://www.comedycentral.com/</url>
+  </channel>
 </tv>
