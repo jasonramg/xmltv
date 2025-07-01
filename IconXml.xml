@@ -1134,4 +1134,16 @@
     <icon src="https://i.ibb.co/5h0ghpms/Manoranjan-Prime.png" />
     <url>https://www.pishow.com/</url>
   </channel>
+  <channel id="BBO">
+    <display-name lang="en">BBO</display-name>
+    <icon src="https://i.ibb.co/fYSvvmNr/BBO.png" />
+    <icon src="https://i.ibb.co/fYSvvmNr/BBO.png" />
+    <url>https://www.yupptv.com/</url>
+  </channel>
+  <channel id="BBO Classic">
+    <display-name lang="en">BBO Classic</display-name>
+    <icon src="https://i.ibb.co/ymM2BDN4/BBO-Classic.png" />
+    <icon src="https://i.ibb.co/ymM2BDN4/BBO-Classic.png" />
+    <url>https://www.yupptv.com/</url>
+  </channel>
 </tv>
