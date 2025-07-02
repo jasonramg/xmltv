@@ -1158,6 +1158,12 @@
     <icon src="https://i.ibb.co/3YyVLK5W/Comedy-Central.png" />
     <url>https://www.comedycentral.com/</url>
   </channel>
+  <channel id="ComedyXtra.uk">
+    <display-name lang="en">Comedy Central Extra</display-name>
+    <icon src="https://i.ibb.co/dw1tTH81/Comedy-Central-Extra.png" />
+    <icon src="https://i.ibb.co/dw1tTH81/Comedy-Central-Extra.png" />
+    <url>https://www.comedycentral.com/</url>
+  </channel>
   <channel id="Nick/Comedy Central+1.de">
     <display-name lang="en">Comedy Central Nick</display-name>
     <icon src="https://i.ibb.co/FLys3qRY/Comedy-Central-Nick.png" />
