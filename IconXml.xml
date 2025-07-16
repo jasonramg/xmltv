@@ -1008,6 +1008,12 @@
     <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
     <url>https://www.zee5.com/</url>
   </channel>
+  <channel id="Zee TV HD USA">
+    <display-name lang="en">Zee TV HD USA</display-name>
+    <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
+    <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
   <channel id="and.TV.in">
     <display-name lang="en">&TV</display-name>
     <icon src="https://i.ibb.co/ns9X2g41/TV.png" />
