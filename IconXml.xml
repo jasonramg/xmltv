@@ -344,8 +344,8 @@
   </channel>
   <channel id="Big.Magic">
     <display-name lang="en">Big Magic</display-name>
-    <icon src="https://i.ibb.co/hJGX8hxn/nLRZSHG.png" />
-    <icon src="https://i.ibb.co/hJGX8hxn/nLRZSHG.png" />
+    <icon src="https://i.ibb.co/cPDkZbs/Big-Magic.png" />
+    <icon src="https://i.ibb.co/cPDkZbs/Big-Magic.png" />
     <url>https://www.bigmagic.in</url>
   </channel>
   <channel id="DD.National">
@@ -476,8 +476,8 @@
   </channel>
   <channel id="Zing">
     <display-name lang="en">Zing</display-name>
-    <icon src="https://i.ibb.co/0VQ8cbPH/GRRKGyd.png" />
-    <icon src="https://i.ibb.co/0VQ8cbPH/GRRKGyd.png" />
+    <icon src="https://i.ibb.co/nqdsXtCg/Zing.png" />
+    <icon src="https://i.ibb.co/nqdsXtCg/Zing.png" />
     <url>https://www.zee5.com</url>
   </channel>
   <channel id="Zoom">
@@ -1118,20 +1118,20 @@
   </channel>
   <channel id="Zee.Anmol.in">
     <display-name lang="en">Zee Anmol</display-name>
-    <icon src="https://i.ibb.co/rKpztrRw/Zee-Anmol.png" />
-    <icon src="https://i.ibb.co/rKpztrRw/Zee-Anmol.png" />
+    <icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png" />
+    <icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png" />
     <url>https://www.zee5.com/</url>
   </channel>
   <channel id="Zee.Anmol.Cinema.in">
     <display-name lang="en">Zee Anmol Cinema</display-name>
-    <icon src="https://i.ibb.co/sv0rnjsy/Zee-Anmol-Cinema.png" />
-    <icon src="https://i.ibb.co/sv0rnjsy/Zee-Anmol-Cinema.png" />
+    <icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png" />
+    <icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png" />
     <url>https://www.zee5.com/</url>
   </channel>
   <channel id="Zee.Anmol.Cinema.2.in">
     <display-name lang="en">Zee Anmol Cinema 2</display-name>
-    <icon src="https://i.ibb.co/d0JTCKbr/Zee-Anmol-Cinema-2.png" />
-    <icon src="https://i.ibb.co/d0JTCKbr/Zee-Anmol-Cinema-2.png" />
+    <icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png" />
+    <icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png" />
     <url>https://www.zee5.com/</url>
   </channel>
   <channel id="Zee.Cinemalu.HD.in">
