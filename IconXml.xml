@@ -1188,4 +1188,40 @@
     <icon src="https://i.ibb.co/FLys3qRY/Comedy-Central-Nick.png" />
     <url>https://www.comedycentral.com/</url>
   </channel>
+  <channel id="Sony.One.Action.Hits">
+    <display-name lang="en">Sony One Action Hits</display-name>
+    <icon src="https://i.ibb.co/cB5x6hp/Sony-One-Action-Hits.png" />
+    <icon src="https://i.ibb.co/cB5x6hp/Sony-One-Action-Hits.png" />
+    <url>https://www.sonypictures.com/</url>
+  </channel>
+  <channel id="Sony.One.Comedy.Hits">
+    <display-name lang="en">Sony One Comedy Hits</display-name>
+    <icon src="https://i.ibb.co/bMrd8bVQ/Sony-One-Comedy-Hits.png" />
+    <icon src="https://i.ibb.co/bMrd8bVQ/Sony-One-Comedy-Hits.png" />
+    <url>https://www.sonypictures.com/</url>
+  </channel>
+  <channel id="Sony.One.Thriller.TV">
+    <display-name lang="en">Sony One Thriller TV</display-name>
+    <icon src="https://i.ibb.co/JjrXm5qT/Sony-One-Thriller-TV.png" />
+    <icon src="https://i.ibb.co/JjrXm5qT/Sony-One-Thriller-TV.png" />
+    <url>https://www.sonypictures.com/</url>
+  </channel>
+  <channel id="Sony.One.Comedy.TV">
+    <display-name lang="en">Sony One Comedy TV</display-name>
+    <icon src="https://i.ibb.co/dsV8td8f/Sony-One-Comedy-TV.png" />
+    <icon src="https://i.ibb.co/dsV8td8f/Sony-One-Comedy-TV.png" />
+    <url>https://www.sonypictures.com/</url>
+  </channel>
+  <channel id="Sony.One.Faves">
+    <display-name lang="en">Sony One Faves</display-name>
+    <icon src="https://i.ibb.co/mCWzJY5Z/Sony-One-Faves.png" />
+    <icon src="https://i.ibb.co/mCWzJY5Z/Sony-One-Faves.png" />
+    <url>https://www.sonypictures.com/</url>
+  </channel>
+  <channel id="Miramax.Movie.Channel">
+    <display-name lang="en">Miramax Movie Channel</display-name>
+    <icon src="https://i.ibb.co/CKFzjbs7/Miramax-Movie-Channel.png" />
+    <icon src="https://i.ibb.co/CKFzjbs7/Miramax-Movie-Channel.png" />
+    <url>https://www.miramax.com/</url>
+  </channel>
 </tv>
