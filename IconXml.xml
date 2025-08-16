@@ -1224,4 +1224,10 @@
     <icon src="https://i.ibb.co/CKFzjbs7/Miramax-Movie-Channel.png" />
     <url>https://www.miramax.com/</url>
   </channel>
+  <channel id="TOLLY.TV">
+    <display-name lang="en">Tolly TV</display-name>
+    <icon src="https://i.ibb.co/jvZZ1mLV/TOLLY-TV.png" />
+    <icon src="https://i.ibb.co/jvZZ1mLV/TOLLY-TV.png" />
+    <url>https://www.yupptv.com/channels/tolly-tv/</url>
+  </channel>
 </tv>
