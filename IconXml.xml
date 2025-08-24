@@ -1146,14 +1146,32 @@
     <icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png" />
     <url>https://www.zee5.com/</url>
   </channel>
+  <channel id="Anmol.TV.in">
+    <display-name lang="en">Anmol TV</display-name>
+    <icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png" />
+    <icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
   <channel id="Zee.Anmol.Cinema.in">
     <display-name lang="en">Zee Anmol Cinema</display-name>
     <icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png" />
     <icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png" />
     <url>https://www.zee5.com/</url>
   </channel>
+  <channel id="Anmol.Cinema.in">
+    <display-name lang="en">Anmol Cinema</display-name>
+    <icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png" />
+    <icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
   <channel id="Zee.Anmol.Cinema.2.in">
     <display-name lang="en">Zee Anmol Cinema 2</display-name>
+    <icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png" />
+    <icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Anmol.Cinema.2.in">
+    <display-name lang="en">Anmol Cinema 2</display-name>
     <icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png" />
     <icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png" />
     <url>https://www.zee5.com/</url>
