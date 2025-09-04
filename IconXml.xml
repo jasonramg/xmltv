@@ -60,18 +60,6 @@
      <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
      <url>https://www.britasiatv.in</url>
    </channel>
-   <channel id="123698">
-     <display-name lang="en">Shemaroo Filmi Gaane</display-name>
-     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-     <url>https://www.shemaroofilmigaane.in</url>
-   </channel>
-   <channel id="123698">
-     <display-name lang="en">Shemaroo Filmigaane</display-name>
-     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-     <url>https://www.shemaroofilmigaane.in</url>
-   </channel>
    <channel id="wild.earth">
      <display-name lang="en">Wild Earth</display-name>
      <icon src="https://i.ibb.co/bMsxycVy/2tGfNnM.png" />
@@ -233,6 +221,30 @@
      <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
      <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
      <url>https://www.Shemaroo.com</url>
+   </channel>
+   <channel id="Shemaroo.Josh.in">
+     <display-name lang="en">Shemaroo Josh</display-name>
+     <icon src="https://i.ibb.co/mrq5sXgZ/Shemaroo-Josh.png" />
+     <icon src="https://i.ibb.co/mrq5sXgZ/Shemaroo-Josh.png" />
+     <url>https://www.shemaroo.in</url>
+   </channel>
+   <channel id="123698">
+     <display-name lang="en">Shemaroo Filmi Gaane</display-name>
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <url>https://www.shemaroofilmigaane.in</url>
+   </channel>
+   <channel id="123698">
+     <display-name lang="en">Shemaroo Filmigaane</display-name>
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <url>https://www.shemaroofilmigaane.in</url>
+   </channel>
+   <channel id="123698">
+    <display-name lang="en">Shemaroo Filmy Gaane</display-name>
+    <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+    <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+    <url>https://www.jiotv.com</url>
    </channel>
    <channel id="Goldmines.Bollywood">
      <display-name lang="en">Goldmines Bollywood</display-name>
@@ -538,12 +550,6 @@
     <display-name lang="en">Saregama Telugu</display-name>
     <icon src="https://i.ibb.co/3y6j7RCr/zszm0El.png" />
     <icon src="https://i.ibb.co/3y6j7RCr/zszm0El.png" />
-    <url>https://www.jiotv.com</url>
-  </channel>
-  <channel id="123698">
-    <display-name lang="en">Shemaroo Filmy Gaane</display-name>
-    <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-    <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
     <url>https://www.jiotv.com</url>
   </channel>
   <channel id="Power.Kids.TV">
@@ -908,8 +914,8 @@
   </channel>
   <channel id="Sony.Sports.Ten.4.Tamil">
     <display-name lang="en">Sony Sports Ten 4 Tamil</display-name>
-    <icon src="https://i.ibb.co/Xk7n9J42/Sony-Sports-Ten-4-Tamil.png" />
-    <icon src="https://i.ibb.co/Xk7n9J42/Sony-Sports-Ten-4-Tamil.png" />
+    <icon src="https://i.ibb.co/6jT9K3Q/Sony-Sports-Ten-4-Tamil.png" />
+    <icon src="https://i.ibb.co/6jT9K3Q/Sony-Sports-Ten-4-Tamil.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.4.Telugu">
