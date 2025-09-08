@@ -360,6 +360,18 @@
     <icon src="https://i.ibb.co/JjVh11cy/Star-Sports-3.png" />
     <url>https://hotstar.com/</url>
   </channel>
+  <channel id="Star.Sports.Select.1">
+    <display-name lang="en">Star Sports Select 1</display-name>
+    <icon src="https://i.ibb.co/SwyYjPWL/Star-Sports-Select-1.png" />
+    <icon src="https://i.ibb.co/SwyYjPWL/Star-Sports-Select-1.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Sports.Select.1.HD">
+    <display-name lang="en">Star Sports Select 1 HD</display-name>
+    <icon src="https://i.ibb.co/Qv3RJCm0/Star-Sports-Select-1-HD.png" />
+    <icon src="https://i.ibb.co/Qv3RJCm0/Star-Sports-Select-1-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
   <channel id="Star.Sports.Khel">
     <display-name lang="en">Star Sports Khel</display-name>
     <icon src="https://i.ibb.co/8g25L1L4/q4SswVk.png" />
