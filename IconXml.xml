@@ -318,10 +318,34 @@
     <icon src="https://i.ibb.co/JwHrdD0c/2wKp2Al.png" />
     <url>https://www.themovieclub.in</url>
   </channel>
+  <channel id="Star.Sports.1.HD">
+    <display-name lang="en">Star Sports 1 HD</display-name>
+    <icon src="https://i.ibb.co/ZpZ34wvk/Star-Sports-1-HD.png" />
+    <icon src="https://i.ibb.co/ZpZ34wvk/Star-Sports-1-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Sports.1.Hindi">
+    <display-name lang="en">Star Sports 1 Hindi</display-name>
+    <icon src="https://i.ibb.co/4Z1NFbZg/Star-Sports-1-Hindi.png" />
+    <icon src="https://i.ibb.co/4Z1NFbZg/Star-Sports-1-Hindi.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Sports.1.Hindi.HD">
+    <display-name lang="en">Star Sports 1 Hindi HD</display-name>
+    <icon src="https://i.ibb.co/rKcrdb5P/Star-Sports-1-Hindi-HD.png" />
+    <icon src="https://i.ibb.co/rKcrdb5P/Star-Sports-1-Hindi-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Sports.2.HD">
+    <display-name lang="en">Star Sports 2 HD</display-name>
+    <icon src="https://i.ibb.co/Nd5ZvXDq/Star-Sports-2-HD.png" />
+    <icon src="https://i.ibb.co/Nd5ZvXDq/Star-Sports-2-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
   <channel id="star.sports.2.hindi.hd">
     <display-name lang="en">Star Sports 2 Hindi HD</display-name>
-    <icon src="https://i.ibb.co/5mxX0zf/pvop82M.png" />
-    <icon src="https://i.ibb.co/5mxX0zf/pvop82M.png" />
+    <icon src="https://i.ibb.co/9k25g3n1/Star-Sports-2-Hindi-HD.png" />
+    <icon src="https://i.ibb.co/9k25g3n1/Star-Sports-2-Hindi-HD.png" />
     <url>https://www.starsports.in</url>
   </channel>
   <channel id="star.sports.2.hindi">
@@ -329,6 +353,12 @@
     <icon src="https://i.ibb.co/PGjnBLCD/0B5kqRh.png" />
     <icon src="https://i.ibb.co/PGjnBLCD/0B5kqRh.png" />
     <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="Star.Sports.3">
+    <display-name lang="en">Star Sports 3</display-name>
+    <icon src="https://i.ibb.co/JjVh11cy/Star-Sports-3.png" />
+    <icon src="https://i.ibb.co/JjVh11cy/Star-Sports-3.png" />
+    <url>https://hotstar.com/</url>
   </channel>
   <channel id="Star.Sports.Khel">
     <display-name lang="en">Star Sports Khel</display-name>
@@ -342,10 +372,22 @@
     <icon src="https://i.ibb.co/fdGZPRMv/ZuPMT4e.png" />
     <url>https://www.starsports.in</url>
   </channel>
+  <channel id="star.sports.2.telugu.hd">
+    <display-name lang="en">Star Sports 2 Telugu HD</display-name>
+    <icon src="https://i.ibb.co/Z63s4f89/Star-Sports-2-Telugu-HD.png" />
+    <icon src="https://i.ibb.co/Z63s4f89/Star-Sports-2-Telugu-HD.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
   <channel id="star.sports.2.tamil">
     <display-name lang="en">Star Sports 2 Tamil</display-name>
     <icon src="https://i.ibb.co/0R27jgYK/Ulak8Co.png" />
     <icon src="https://i.ibb.co/0R27jgYK/Ulak8Co.png" />
+    <url>https://www.starsports.in</url>
+  </channel>
+  <channel id="star.sports.2.tamil.hd">
+    <display-name lang="en">Star Sports 2 Tamil HD</display-name>
+    <icon src="https://i.ibb.co/9mXbHkPL/Star-Sports-2-Tamil-HD.png" />
+    <icon src="https://i.ibb.co/9mXbHkPL/Star-Sports-2-Tamil-HD.png" />
     <url>https://www.starsports.in</url>
   </channel>
   <channel id="Star.Utsav">
@@ -953,18 +995,6 @@
     <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
     <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
     <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
-  </channel>
-  <channel id="Star.Sports.3">
-    <display-name lang="en">Star Sports 3</display-name>
-    <icon src="https://i.ibb.co/dJt66N3N/Star-Sports-3.png" />
-    <icon src="https://i.ibb.co/dJt66N3N/Star-Sports-3.png" />
-    <url>https://hotstar.com/</url>
-  </channel>
-  <channel id="Star.Sports.1.Hindi">
-    <display-name lang="en">Star Sports 1 Hindi</display-name>
-    <icon src="https://i.ibb.co/fdsPMWXD/Star-Sports-1-Hindi.png" />
-    <icon src="https://i.ibb.co/fdsPMWXD/Star-Sports-1-Hindi.png" />
-    <url>https://hotstar.com/</url>
   </channel>
   <channel id="Disney.Channel">
     <display-name lang="en">Disney Channel</display-name>
