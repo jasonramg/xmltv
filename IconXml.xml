@@ -1224,6 +1224,12 @@
     <icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png" />
     <url>https://www.zee5.com/</url>
   </channel>
+  <channel id="Zee.Cinemalu.in">
+    <display-name lang="en">Zee Cinemalu</display-name>
+    <icon src="https://i.ibb.co/dw5K8YNH/Zee-Cinemalu.png" />
+    <icon src="https://i.ibb.co/dw5K8YNH/Zee-Cinemalu.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
   <channel id="Zee.Cinemalu.HD.in">
     <display-name lang="en">Zee Cinemalu HD</display-name>
     <icon src="https://i.ibb.co/YBH8p6Bj/Zee-Cinemalu-HD.png" />
