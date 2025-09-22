@@ -1326,4 +1326,46 @@
     <icon src="https://i.ibb.co/jvZZ1mLV/TOLLY-TV.png" />
     <url>https://www.yupptv.com/channels/tolly-tv/</url>
   </channel>
+  <channel id="550.astro">
+    <display-name lang="en">Love Nature</display-name>
+    <icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png" />
+    <icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png" />
+    <url>https://www.astro.my/</url>
+  </channel>
+  <channel id="549.astro">
+    <display-name lang="en">Love Nature 4K</display-name>
+    <icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png" />
+    <icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png" />
+    <url>https://www.astro.my/</url>
+  </channel>
+  <channel id="Zee.Dil.Se">
+    <display-name lang="en">Zee Dil Se</display-name>
+    <icon src="https://i.ibb.co/GSFcjdZ/Zee-Dil-Se.png" />
+    <icon src="https://i.ibb.co/GSFcjdZ/Zee-Dil-Se.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Cine Classic">
+    <display-name lang="en">Zee Cine Classic</display-name>
+    <icon src="https://i.ibb.co/d4FLQRHJ/Zee-Cine-Classic.png" />
+    <icon src="https://i.ibb.co/d4FLQRHJ/Zee-Cine-Classic.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.South.Flix">
+    <display-name lang="en">Zee South Flix</display-name>
+    <icon src="https://i.ibb.co/C5BB7P9j/Zee-South-Flix.png" />
+    <icon src="https://i.ibb.co/C5BB7P9j/Zee-South-Flix.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Horror.Nights">
+    <display-name lang="en">Zee Horror Nights</display-name>
+    <icon src="https://i.ibb.co/sJQHpgRC/Zee-Horror-Nights.png" />
+    <icon src="https://i.ibb.co/sJQHpgRC/Zee-Horror-Nights.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.Comedy.Nation">
+    <display-name lang="en">Zee Comedy Nation</display-name>
+    <icon src="https://i.ibb.co/w36wZjt/Zee-Comedy-Nation.png" />
+    <icon src="https://i.ibb.co/w36wZjt/Zee-Comedy-Nation.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
 </tv>
