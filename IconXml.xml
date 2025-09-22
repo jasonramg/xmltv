@@ -768,10 +768,22 @@
     <icon src="https://i.ibb.co/MD3NN3BP/Star-Movies-Select-HD.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Hits.Movies.HD">
+  <channel id="706.astro">
+    <display-name lang="en">Hits HD</display-name>
+    <icon src="https://i.ibb.co/HLDrkJPs/Hits-HD.png" />
+    <icon src="https://i.ibb.co/HLDrkJPs/Hits-HD.png" />
+    <url>https://content.astro.com.my</url>
+  </channel>
+  <channel id="401.astro">
     <display-name lang="en">Hits Movies HD</display-name>
     <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
     <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
+    <url>https://content.astro.com.my</url>
+  </channel>
+  <channel id="702.astro">
+    <display-name lang="en">Hits Now</display-name>
+    <icon src="https://i.ibb.co/5gRZgBr4/Hits-Now.png" />
+    <icon src="https://i.ibb.co/5gRZgBr4/Hits-Now.png" />
     <url>https://content.astro.com.my</url>
   </channel>
   <channel id="TeluguOne.TV">
@@ -1334,8 +1346,8 @@
   </channel>
   <channel id="549.astro">
     <display-name lang="en">Love Nature 4K</display-name>
-    <icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png" />
-    <icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png" />
+    <icon src="https://i.ibb.co/dsnG5dHk/Love-Nature-4-K.png" />
+    <icon src="https://i.ibb.co/dsnG5dHk/Love-Nature-4-K.png" />
     <url>https://www.astro.my/</url>
   </channel>
   <channel id="Zee.Dil.Se">
