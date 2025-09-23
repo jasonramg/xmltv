@@ -1392,14 +1392,14 @@
     <icon src="https://i.ibb.co/w36wZjt/Zee-Comedy-Nation.png" />
     <url>https://www.zee5.com/</url>
   </channel>
-  <channel id="Cricbuzz1">
-    <display-name lang="en">Cricbuzz1</display-name>
+  <channel id="Cricbuzz 1">
+    <display-name lang="en">Cricbuzz 1</display-name>
     <icon src="https://i.ibb.co/qL9vqvyY/cricbuzz1.png" />
     <icon src="https://i.ibb.co/qL9vqvyY/cricbuzz1.png" />
     <url>https://www.cricbuzz.com/</url>
   </channel>
-  <channel id="Cricbuzz2">
-    <display-name lang="en">Cricbuzz2</display-name>
+  <channel id="Cricbuzz 2">
+    <display-name lang="en">Cricbuzz 2</display-name>
     <icon src="https://i.ibb.co/Xx3RLpC3/cricbuzz2.png" />
     <icon src="https://i.ibb.co/Xx3RLpC3/cricbuzz2.png" />
     <url>https://www.cricbuzz.com/</url>
