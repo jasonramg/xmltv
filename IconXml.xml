@@ -786,6 +786,12 @@
     <icon src="https://i.ibb.co/5gRZgBr4/Hits-Now.png" />
     <url>https://content.astro.com.my</url>
   </channel>
+  <channel id="413.astro">
+    <display-name lang="en">SHOWCASE</display-name>
+    <icon src="https://i.ibb.co/h1gktPrJ/Astro-Showcase.png" />
+    <icon src="https://i.ibb.co/h1gktPrJ/Astro-Showcase.png" />
+    <url>https://content.astro.com.my</url>
+  </channel>
   <channel id="TeluguOne.TV">
     <display-name lang="en">TeluguOne TV</display-name>
     <icon src="https://i.ibb.co/vxdyGQGp/Telugu-One-TV.png" />
@@ -1379,5 +1385,35 @@
     <icon src="https://i.ibb.co/w36wZjt/Zee-Comedy-Nation.png" />
     <icon src="https://i.ibb.co/w36wZjt/Zee-Comedy-Nation.png" />
     <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="3071">
+    <display-name lang="en">TV Asia Powered by Shemaroo</display-name>
+    <icon src="https://i.ibb.co/w36wZjt/Zee-Comedy-Nation.png" />
+    <icon src="https://i.ibb.co/w36wZjt/Zee-Comedy-Nation.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Cricbuzz1">
+    <display-name lang="en">Cricbuzz1</display-name>
+    <icon src="https://i.ibb.co/qL9vqvyY/cricbuzz1.png" />
+    <icon src="https://i.ibb.co/qL9vqvyY/cricbuzz1.png" />
+    <url>https://www.cricbuzz.com/</url>
+  </channel>
+  <channel id="Cricbuzz2">
+    <display-name lang="en">Cricbuzz2</display-name>
+    <icon src="https://i.ibb.co/Xx3RLpC3/cricbuzz2.png" />
+    <icon src="https://i.ibb.co/Xx3RLpC3/cricbuzz2.png" />
+    <url>https://www.cricbuzz.com/</url>
+  </channel>
+  <channel id="CriLife">
+    <display-name lang="en">CricLife</display-name>
+    <icon src="https://i.ibb.co/QFxdBq3d/CricLife.png" />
+    <icon src="https://i.ibb.co/QFxdBq3d/CricLife.png" />
+    <url>https://www.cricbuzz.com/</url>
+  </channel>
+  <channel id="CricLifeMax">
+    <display-name lang="en">CricLifeMax</display-name>
+    <icon src="https://i.ibb.co/kg0hQTSF/Cric-Life-Max.png" />
+    <icon src="https://i.ibb.co/kg0hQTSF/Cric-Life-Max.png" />
+    <url>https://www.cricbuzz.com/</url>
   </channel>
 </tv>
