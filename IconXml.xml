@@ -732,6 +732,12 @@
     <icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png" />
     <url>https://www.samsung.uk</url>
   </channel>
+  <channel id="and.TV.us2">
+    <display-name lang="en">&TV HD USA</display-name>
+    <icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png" />
+    <icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png" />
+    <url>https://www.zee5.com</url>
+  </channel>
   <channel id="HBO.Signature">
     <display-name lang="en">HBO Signature</display-name>
     <icon src="https://i.ibb.co/JW2Td57g/HBO-Signature.png" />
