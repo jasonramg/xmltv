@@ -894,6 +894,12 @@
     <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
+  <channel id="Sony.Yay">
+    <display-name lang="en">Sony Yay</display-name>
+    <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
+    <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
+    <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
   <channel id="Sony.Marathi">
     <display-name lang="en">Sony Marathi</display-name>
     <icon src="https://i.ibb.co/xncPKZQ/Sony-Marathi.png" />
@@ -1106,6 +1112,18 @@
   </channel>
   <channel id="Zee.TV.HD.in">
     <display-name lang="en">Zee TV HD</display-name>
+    <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
+    <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.TV.HD.in">
+    <display-name lang="en">Zee TV HD UK</display-name>
+    <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
+    <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
+    <url>https://www.zee5.com/</url>
+  </channel>
+  <channel id="Zee.TV.HD.in">
+    <display-name lang="en">Zee TV ME</display-name>
     <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
     <icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png" />
     <url>https://www.zee5.com/</url>
