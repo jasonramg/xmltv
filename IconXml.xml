@@ -92,20 +92,32 @@
    </channel>
    <channel id="willow.hd">
      <display-name lang="en">Willow HD</display-name>
-     <icon src="https://i.ibb.co/FkDrQ5MN/9PixQ2W.png" />
-     <icon src="https://i.ibb.co/FkDrQ5MN/9PixQ2W.png" />
+     <icon src="https://i.ibb.co/zWKtRXQ1/Willow-HD.png" />
+     <icon src="https://i.ibb.co/zWKtRXQ1/Willow-HD.png" />
+     <url>https://www.willow.com</url>
+   </channel>
+  <channel id="Willow.Cricket.HD">
+     <display-name lang="en">Willow Cricket HD</display-name>
+     <icon src="https://i.ibb.co/zWKtRXQ1/Willow-HD.png" />
+     <icon src="https://i.ibb.co/zWKtRXQ1/Willow-HD.png" />
      <url>https://www.willow.com</url>
    </channel>
    <channel id="willow.2">
      <display-name lang="en">Willow 2</display-name>
-     <icon src="https://i.ibb.co/jZ92P5qY/weRPkmR.png" />
-     <icon src="https://i.ibb.co/jZ92P5qY/weRPkmR.png" />
+     <icon src="https://i.ibb.co/YTyzcJhm/Willow-2.png" />
+     <icon src="https://i.ibb.co/YTyzcJhm/Willow-2.png" />
+     <url>https://www.willow.com</url>
+   </channel>
+   <channel id="willow.xtra">
+     <display-name lang="en">Willow Xtra</display-name>
+     <icon src="https://i.ibb.co/YTyzcJhm/Willow-2.png" />
+     <icon src="https://i.ibb.co/YTyzcJhm/Willow-2.png" />
      <url>https://www.willow.com</url>
    </channel>
    <channel id="willow.Sports">
      <display-name lang="en">Willow Sports</display-name>
-     <icon src="https://i.ibb.co/B5J4fxbQ/SUpPOng.png" />
-     <icon src="https://i.ibb.co/B5J4fxbQ/SUpPOng.png" />
+     <icon src="https://i.ibb.co/jkKkNY4B/Willow-Sports.png" />
+     <icon src="https://i.ibb.co/jkKkNY4B/Willow-Sports.png" />
      <url>https://www.willow.com</url>
    </channel>
    <channel id="Sports18.1">
@@ -614,14 +626,14 @@
   </channel>
   <channel id="Eurosport.HD">
     <display-name lang="en">Eurosport HD</display-name>
-    <icon src="https://i.ibb.co/sd6W8SVK/1nDCIes.png" />
-    <icon src="https://i.ibb.co/sd6W8SVK/1nDCIes.png" />
+    <icon src="https://i.ibb.co/svswFpKQ/Eurosport-HD.png" />
+    <icon src="https://i.ibb.co/svswFpKQ/Eurosport-HD.png" />
     <url>https://www.jiotv.com</url>
   </channel>
   <channel id="Eurosport">
     <display-name lang="en">Eurosport</display-name>
-    <icon src="https://i.ibb.co/h1Ly613c/znWi9wo.png" />
-    <icon src="https://i.ibb.co/h1Ly613c/znWi9wo.png" />
+    <icon src="https://i.ibb.co/4R16JTVV/Eurosport.png" />
+    <icon src="https://i.ibb.co/4R16JTVV/Eurosport.png" />
     <url>https://www.jiotv.com</url>
   </channel>
   <channel id="Mastiii">
@@ -648,16 +660,28 @@
     <icon src="https://i.ibb.co/tT24MpNh/McvZYVH.png" />
     <url>https://www.jiotv.com</url>
   </channel>
+  <channel id="Discovery">
+    <display-name lang="en">Discovery</display-name>
+    <icon src="https://i.ibb.co/3yDVBG7z/Discovery-Channel.png" />
+    <icon src="https://i.ibb.co/3yDVBG7z/Discovery-Channel.png" />
+    <url>https://www.discovery.com</url>
+  </channel>
   <channel id="Discovery.Channel">
     <display-name lang="en">Discovery Channel</display-name>
-    <icon src="https://i.ibb.co/3y3Kqjp3/LyJkuzC.png" />
-    <icon src="https://i.ibb.co/3y3Kqjp3/LyJkuzC.png" />
+    <icon src="https://i.ibb.co/3yDVBG7z/Discovery-Channel.png" />
+    <icon src="https://i.ibb.co/3yDVBG7z/Discovery-Channel.png" />
+    <url>https://www.discovery.com</url>
+  </channel>
+  <channel id="Discovery.HD">
+    <display-name lang="en">Discovery HD</display-name>
+    <icon src="https://i.ibb.co/TMGHVB5W/Discovery-HD-World.png" />
+    <icon src="https://i.ibb.co/TMGHVB5W/Discovery-HD-World.png" />
     <url>https://www.discovery.com</url>
   </channel>
   <channel id="Discovery.HD.World">
     <display-name lang="en">Discovery HD World</display-name>
-    <icon src="https://i.ibb.co/TB9pKMQv/M8Q1GH6.png" />
-    <icon src="https://i.ibb.co/TB9pKMQv/M8Q1GH6.png" />
+    <icon src="https://i.ibb.co/TMGHVB5W/Discovery-HD-World.png" />
+    <icon src="https://i.ibb.co/TMGHVB5W/Discovery-HD-World.png" />
     <url>https://www.discovery.com</url>
   </channel>
   <channel id="Utsav.Plus">
