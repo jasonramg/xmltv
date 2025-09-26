@@ -430,19 +430,25 @@
     <display-name lang="en">DD National</display-name>
     <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
     <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
-    <url>https://www.ddnational.in</url>
+    <url>https://www.wavespb.com/</url>
   </channel>
   <channel id="DD.National.HD">
     <display-name lang="en">DD National HD</display-name>
     <icon src="https://i.ibb.co/Pvk1G6dg/DD-National-HD.png" />
     <icon src="https://i.ibb.co/Pvk1G6dg/DD-National-HD.png" />
-    <url>https://www.ddnational.in</url>
+    <url>https://www.wavespb.com/</url>
   </channel>
   <channel id="DD.Sahyadri">
     <display-name lang="en">DD Sahyadri</display-name>
     <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
     <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
-    <url>https://www.ddsahyadri.in</url>
+    <url>https://www.wavespb.com/</url>
+  </channel>
+  <channel id="DD.Sports">
+    <display-name lang="en">DD Sports</display-name>
+    <icon src="https://i.ibb.co/wNMtf8BB/DD-Sports.png" />
+    <icon src="https://i.ibb.co/wNMtf8BB/DD-Sports.png" />
+    <url>https://www.wavespb.com/</url>
   </channel>
   <channel id="Colors.Infinity.HD">
     <display-name lang="en">Colors Infinity HD</display-name>
@@ -509,6 +515,24 @@
     <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
     <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
     <url>https://www.nationalgeographic.in</url>
+  </channel>
+  <channel id="Fashion.TV">
+    <display-name lang="en">Fashion TV</display-name>
+    <icon src="https://i.ibb.co/JWGgbdDP/Fashion-TV.png" />
+    <icon src="https://i.ibb.co/JWGgbdDP/Fashion-TV.png" />
+    <url>https://www.fashiontv.in</url>
+  </channel>
+  <channel id="Travelxp.HD">
+    <display-name lang="en">Travelxp HD</display-name>
+    <icon src="https://i.ibb.co/gZcHsFKY/Travelxp-HD.png" />
+    <icon src="https://i.ibb.co/gZcHsFKY/Travelxp-HD.png" />
+    <url>https://www.travelxp.in</url>
+  </channel>
+  <channel id="Foodxp">
+    <display-name lang="en">Foodxp</display-name>
+    <icon src="https://i.ibb.co/dJbzRVFh/foodxp.png" />
+    <icon src="https://i.ibb.co/dJbzRVFh/foodxp.png" />
+    <url>https://www.foodxp.in</url>
   </channel>
   <channel id="Zee.Marathi.HD">
     <display-name lang="en">Zee Marathi HD</display-name>
