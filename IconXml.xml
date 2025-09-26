@@ -1038,10 +1038,22 @@
     <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
     <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
   </channel>
-  <channel id="Disney.Channel">
+  <channel id="Disney.Channel.in">
     <display-name lang="en">Disney Channel</display-name>
-    <icon src="https://i.ibb.co/sdwpJ1JS/Disney-Channel.png" />
-    <icon src="https://i.ibb.co/sdwpJ1JS/Disney-Channel.png" />
+    <icon src="https://i.ibb.co/kVgQGYSx/Disney-Chaneel.png" />
+    <icon src="https://i.ibb.co/kVgQGYSx/Disney-Chaneel.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts1066">
+    <display-name lang="en">Disney Channel HD</display-name>
+    <icon src="https://i.ibb.co/FbCyYQtK/Disney-Chaneel-HD.png" />
+    <icon src="https://i.ibb.co/FbCyYQtK/Disney-Chaneel-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts681">
+    <display-name lang="en">Cartoon Network HD+</display-name>
+    <icon src="https://i.ibb.co/200w3GK4/Cartoon-Network-HD.png" />
+    <icon src="https://i.ibb.co/200w3GK4/Cartoon-Network-HD.png" />
     <url>https://hotstar.com/</url>
   </channel>
   <channel id="Star.Gold.2.HD">
