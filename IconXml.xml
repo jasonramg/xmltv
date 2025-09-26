@@ -798,6 +798,12 @@
     <icon src="https://i.ibb.co/h1gktPrJ/Astro-Showcase.png" />
     <url>https://content.astro.com.my</url>
   </channel>
+  <channel id="717.astro">
+    <display-name lang="en">BBC Lifestyle</display-name>
+    <icon src="https://i.ibb.co/7xF302DF/BBC-Lifestyle.png" />
+    <icon src="https://i.ibb.co/7xF302DF/BBC-Lifestyle.png" />
+    <url>https://content.astro.com.my</url>
+  </channel>
   <channel id="TeluguOne.TV">
     <display-name lang="en">TeluguOne TV</display-name>
     <icon src="https://i.ibb.co/vxdyGQGp/Telugu-One-TV.png" />
@@ -1036,6 +1042,12 @@
     <display-name lang="en">NH BollyRaga</display-name>
     <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
     <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
+    <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
+  </channel>
+  <channel id="Trace.Urban">
+    <display-name lang="en">Trace Urban</display-name>
+    <icon src="https://i.ibb.co/84mfFDKT/Trace-Urban.png" />
+    <icon src="https://i.ibb.co/84mfFDKT/Trace-Urban.png" />
     <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
   </channel>
   <channel id="Disney.Channel.in">
