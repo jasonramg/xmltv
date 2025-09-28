@@ -194,74 +194,98 @@
    </channel>
    <channel id="MBC.Bollywood">
      <display-name lang="en">MBC Bollywood</display-name>
-     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
-     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
+     <icon src="https://i.ibb.co/bMCq97Gc/MBC-Bollywood-HD.png" />
+     <icon src="https://iili.io/KEREwLN.png" />
      <url>https://www.mbcbollywood.com</url>
    </channel>
    <channel id="MBC.Bollywood.HD">
      <display-name lang="en">MBC Bollywood HD</display-name>
-     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
-     <icon src="https://i.ibb.co/FkrVCSMw/aXjGWgW.png" />
+     <icon src="https://i.ibb.co/bMCq97Gc/MBC-Bollywood-HD.png" />
+     <icon src="https://iili.io/KEREwLN.png" />
      <url>https://www.mbcbollywood.com</url>
    </channel>
-   <channel id="Bollywood HD">
+   <channel id="87418">
      <display-name lang="en">Bollywood HD</display-name>
-     <icon src="https://i.ibb.co/vCvnxxXg/uxybmm9.png" />
-     <icon src="https://i.ibb.co/vCvnxxXg/uxybmm9.png" />
-     <url>https://www.bollywoodhd.com</url>
+     <icon src="https://i.ibb.co/BHJwvghD/Bollywood-HD.png" />
+     <icon src="https://iili.io/KEu9Flp.png" />
+     <url>https://www.distro.tv/live/</url>
    </channel>
+   <channel id="ts730">
+    <display-name lang="en">B4U Kadak</display-name>
+    <icon src="https://i.ibb.co/xtqQ3tg4/B4-U-Kadak.png" />
+    <icon src="https://iili.io/KER7BFj.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+   <channel id="ts7">
+    <display-name lang="en">B4U Movies</display-name>
+    <icon src="https://i.ibb.co/nNHtyr6f/B4-U-Movies.png" />
+    <icon src="https://iili.io/KERau4a.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
    <channel id="B4u.Movies.Apac">
      <display-name lang="en">B4U Movies APAC</display-name>
      <icon src="https://i.ibb.co/zTmrBZf4/YO3fnxj.png" />
      <icon src="https://i.ibb.co/zTmrBZf4/YO3fnxj.png" />
      <url>https://www.b4umovies.com</url>
    </channel>
+   <channel id="B4U.Music">
+    <display-name lang="en">B4U Music</display-name>
+    <icon src="https://i.ibb.co/CZX0GBW/B4-U-Music.png" />
+    <icon src="https://iili.io/KERlRbp.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
    <channel id="Shemaroo.Bollywood">
      <display-name lang="en">Shemaroo Bollywood</display-name>
-     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
-     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <icon src="https://i.ibb.co/NdGxrZbL/Shemaroo-Bollywood.png" />
+     <icon src="https://iili.io/KEAYoGa.png" />
      <url>https://www.Shemaroo.com</url>
    </channel>
-   <channel id="Shemaroo.Bollywood.1">
+   <channel id="3075">
      <display-name lang="en">Shemaroo Bollywood 1</display-name>
-     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
-     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <icon src="https://i.ibb.co/NdGxrZbL/Shemaroo-Bollywood.png" />
+     <icon src="https://iili.io/KEAYoGa.png" />
      <url>https://www.Shemaroo.com</url>
    </channel>
-   <channel id="Shemaroo.Bollywood.2">
+   <channel id="5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d">
      <display-name lang="en">Shemaroo Bollywood 2</display-name>
-     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
-     <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
+     <icon src="https://i.ibb.co/NdGxrZbL/Shemaroo-Bollywood.png" />
+     <icon src="https://iili.io/KEAYoGa.png" />
      <url>https://www.Shemaroo.com</url>
    </channel>
    <channel id="123698">
      <display-name lang="en">Shemaroo Filmi Gaane</display-name>
-     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <icon src="https://i.ibb.co/Z1ktDyng/Shemaroo-Filmy-Ganne.png" />
+     <icon src="https://iili.io/KEA6Wt2.png" />
      <url>https://www.shemaroofilmigaane.in</url>
    </channel>
    <channel id="123698">
      <display-name lang="en">Shemaroo Filmigaane</display-name>
-     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-     <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
+     <icon src="https://i.ibb.co/Z1ktDyng/Shemaroo-Filmy-Ganne.png" />
+     <icon src="https://iili.io/KEA6Wt2.png" />
      <url>https://www.shemaroofilmigaane.in</url>
    </channel>
    <channel id="123698">
-    <display-name lang="en">Shemaroo Filmy Gaane</display-name>
-    <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-    <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
-    <url>https://www.jiotv.com</url>
+     <display-name lang="en">Shemaroo Filmy Gaane</display-name>
+     <icon src="https://i.ibb.co/Z1ktDyng/Shemaroo-Filmy-Ganne.png" />
+     <icon src="https://iili.io/KEA6Wt2.png" />
+     <url>https://www.jiotv.com</url>
    </channel>
-   <channel id="Goldmines.Bollywood">
-     <display-name lang="en">Goldmines Bollywood</display-name>
-     <icon src="https://i.ibb.co/7xQHHcqp/iVIianQ.png" />
-     <icon src="https://i.ibb.co/7xQHHcqp/iVIianQ.png" />
+   <channel id="143087">
+     <display-name lang="en">Goldmines</display-name>
+     <icon src="https://i.ibb.co/9kWvFNRv/Goldmines.png" />
+     <icon src="https://iili.io/KEztPJs.png" />
      <url>https://www.goldmines.com</url>
    </channel>
-   <channel id="Goldmines.Movies">
+   <channel id="143089">
+     <display-name lang="en">Goldmines Bollywood</display-name>
+     <icon src="https://i.ibb.co/hnzPSjL/Goldmines-Bollywood.png" />
+     <icon src="https://iili.io/KEzLdo7.png" />
+     <url>https://www.goldmines.com</url>
+   </channel>
+   <channel id="142881">
      <display-name lang="en">Goldmines Movies</display-name>
-     <icon src="https://i.ibb.co/qLw0h80C/54LyPSR.png" />
-     <icon src="https://i.ibb.co/qLw0h80C/54LyPSR.png" />
+     <icon src="https://i.ibb.co/pjX1tjGm/Goldmines-Movies.png" />
+     <icon src="https://iili.io/KEIJUSS.png" />
      <url>https://www.Goldmines.com</url>
    </channel>
    <channel id="AXN.HD">
@@ -278,15 +302,57 @@
    </channel>
    <channel id="desi.play.tv">
      <display-name lang="en">Desi Play TV</display-name>
-     <icon src="https://i.ibb.co/hJqPmTWF/pEvBf0W.png" />
-     <icon src="https://i.ibb.co/hJqPmTWF/pEvBf0W.png" />
+     <icon src="https://i.ibb.co/4RgVM6nT/Desi-Play-TV.png" />
+     <icon src="https://iili.io/KEIsdUG.png" />
      <url>https://www.desiplaytv.in</url>
+   </channel>
+   <channel id="ts964">
+     <display-name lang="en">Tata Play Classic TV</display-name>
+     <icon src="https://i.ibb.co/cK5w6MxH/Tata-Play-Classic-TV.png" />
+     <icon src="https://iili.io/KEIDqPI.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
+   <channel id="ts486">
+     <display-name lang="en">Tata Play Bollywood Premiere</display-name>
+     <icon src="https://i.ibb.co/cXhN2m1P/Tata-Play-Bollywood-Premiere.png" />
+     <icon src="https://iili.io/KETvyEx.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
+   <channel id="ts1130">
+     <display-name lang="en">Tata Play Bollywood Masala</display-name>
+     <icon src="https://i.ibb.co/sdMfTw8F/Tata-Play-Bollywood-Masala.png" />
+     <icon src="https://iili.io/KETtNbj.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
+   <channel id="">
+     <display-name lang="en">Tata Play South Talkies</display-name>
+     <icon src="https://i.ibb.co/B5GVv0Vf/Tata-Play-South-Talkies.png" />
+     <icon src="https://iili.io/KERhKmu.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
+   <channel id="ts741">
+     <display-name lang="en">Tata Play Classic Cinema</display-name>
+     <icon src="https://i.ibb.co/x8LmwXTG/Tata-Play-Classic-Cinema.png" />
+     <icon src="https://iili.io/KERS22f.png" />
+     <url>https://www.tataplay.com/</url>
    </channel>
    <channel id="sony.kal">
      <display-name lang="en">Sony Kal</display-name>
      <icon src="https://i.ibb.co/yBgWjTVS/Sony-KAL.png" />
      <icon src="https://iili.io/K1rhmfs.png" />
-     <url>https://www.sonykal.com</url>
+     <url>https://www.sonykal.com/</url>
+   </channel>
+   <channel id="158303">
+     <display-name lang="en">Nazara</display-name>
+     <icon src="https://i.ibb.co/VctqhQK9/Nazara.png" />
+     <icon src="https://iili.io/KET9Hhb.png" />
+     <url>https://www.epicon.in/</url>
+   </channel>
+   <channel id="ts888">
+     <display-name lang="en">Ishara</display-name>
+     <icon src="https://i.ibb.co/sdv7knkj/Ishara.png" />
+     <icon src="https://iili.io/KETEAaj.png" />
+     <url>https://www.epicon.in/</url>
    </channel>
    <channel id="tnt.sports.2.HD">
      <display-name lang="en">TNT Sports 2 HD</display-name>
@@ -318,10 +384,10 @@
     <icon src="https://i.ibb.co/BYGKbGH/GJifoFC.png" />
     <url>https://www.sagamusic.in</url>
   </channel>
-  <channel id="the.movie.club">
+  <channel id="IN38000072R">
     <display-name lang="en">The Movie Club</display-name>
-    <icon src="https://i.ibb.co/JwHrdD0c/2wKp2Al.png" />
-    <icon src="https://i.ibb.co/JwHrdD0c/2wKp2Al.png" />
+    <icon src="https://i.ibb.co/5gdzj9hZ/The-Movie-Club.png" />
+    <icon src="https://iili.io/KEuxXOG.png" />
     <url>https://www.themovieclub.in</url>
   </channel>
   <channel id="Star.Sports.1.HD">
@@ -428,20 +494,44 @@
   </channel>
   <channel id="DD.National">
     <display-name lang="en">DD National</display-name>
-    <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
-    <icon src="https://i.ibb.co/Z6FPZbFw/BqEJ113.png" />
+    <icon src="https://i.ibb.co/DfNxvw5v/DD-National.png" />
+    <icon src="https://iili.io/K1mmhGe.png" />
     <url>https://www.wavespb.com/</url>
   </channel>
   <channel id="DD.National.HD">
     <display-name lang="en">DD National HD</display-name>
-    <icon src="https://i.ibb.co/Pvk1G6dg/DD-National-HD.png" />
-    <icon src="https://i.ibb.co/Pvk1G6dg/DD-National-HD.png" />
+    <icon src="https://i.ibb.co/v6XqTR4t/DD-National-HD.png" />
+    <icon src="https://iili.io/K1pHnVI.png" />
     <url>https://www.wavespb.com/</url>
   </channel>
-  <channel id="DD.Sahyadri">
+  <channel id="ts1370">
+    <display-name lang="en">Sun Neo HD</display-name>
+    <icon src="https://i.ibb.co/mCL4szWP/Sun-Neo-HD.png" />
+    <icon src="https://iili.io/K1pj0gf.png" />
+    <url>https://www.sunnxt.com/</url>
+  </channel>
+  <channel id="ts955">
+    <display-name lang="en">Sun Marathi</display-name>
+    <icon src="https://i.ibb.co/CKx8J3LD/Sun-Marathi.png" />
+    <icon src="https://iili.io/KEThZiB.png" />
+    <url>https://www.sunnxt.com/</url>
+  </channel>
+  <channel id="ts51">
+	<display-name lang="en">Dangal</display-name>
+	<icon src="https://i.ibb.co/YBrkkYmp/Dangal.png"></icon>
+	<icon src="https://iili.io/KEIXPWB.png"></icon>
+	<url>https://www.dangalplay.com/</url>
+  </channel>
+  <channel id="ts194">
+	<display-name lang="en">Dangal 2</display-name>
+	<icon src="https://i.ibb.co/60Db5dZg/Dangal-2.png"></icon>
+	<icon src="https://iili.io/KEIkehG.png"></icon>
+	<url>https://www.dangalplay.com/</url>
+  </channel>
+  <channel id="ts336">
     <display-name lang="en">DD Sahyadri</display-name>
-    <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
-    <icon src="https://i.ibb.co/Y4h54kSL/kGHbsbX.png" />
+    <icon src="https://i.ibb.co/t5pwDKY/DD-Sahyadri.png" />
+    <icon src="https://iili.io/KETVwwQ.png" />
     <url>https://www.wavespb.com/</url>
   </channel>
   <channel id="DD.Sports">
@@ -670,12 +760,6 @@
     <display-name lang="en">E24</display-name>
     <icon src="https://i.ibb.co/j9ry2wdW/h2GorW2.png" />
     <icon src="https://i.ibb.co/j9ry2wdW/h2GorW2.png" />
-    <url>https://www.jiotv.com</url>
-  </channel>
-  <channel id="B4U.Music">
-    <display-name lang="en">B4U Music</display-name>
-    <icon src="https://i.ibb.co/tT24MpNh/McvZYVH.png" />
-    <icon src="https://i.ibb.co/tT24MpNh/McvZYVH.png" />
     <url>https://www.jiotv.com</url>
   </channel>
   <channel id="Discovery">
@@ -1158,22 +1242,22 @@
     <icon src="https://iili.io/K1rEgKQ.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
-  <channel id="NH.BollyFlix">
+  <channel id="IN46000140Q">
     <display-name lang="en">NH BollyFlix</display-name>
-    <icon src="https://i.ibb.co/TDZPBQdc/NH-Bolly-Flix.png" />
-    <icon src="https://i.ibb.co/TDZPBQdc/NH-Bolly-Flix.png" />
+    <icon src="https://i.ibb.co/39sHKGYC/NH-Bolly-Flix.png" />
+    <icon src="https://iili.io/KEuYymP.png" />
     <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
   </channel>
-  <channel id="NH.BollyGold">
+  <channel id="3338">
     <display-name lang="en">NH BollyGold</display-name>
-    <icon src="https://iili.io/Fr0Pzsj.png" />
-    <icon src="https://iili.io/Fr0Pzsj.png" />
+    <icon src="https://i.ibb.co/MkDYr4YT/NH-Bolly-Gold.png" />
+    <icon src="https://iili.io/KEuhgYF.png" />
     <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
   </channel>
-  <channel id="NH.BollyRaga">
+  <channel id="IN460001373">
     <display-name lang="en">NH BollyRaga</display-name>
-    <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
-    <icon src="https://i.ibb.co/ymj9vT0Q/NH-Bolly-Raga.png" />
+    <icon src="https://i.ibb.co/hRJMtXgr/NH-Bolly-Raga.png" />
+    <icon src="https://iili.io/KEugFDP.png" />
     <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
   </channel>
   <channel id="Trace.Urban">
@@ -1214,6 +1298,12 @@
   </channel>
   <channel id="ts508">
     <display-name lang="en">Star Plus HD +1</display-name>
+    <icon src="https://i.ibb.co/NdHTvNpY/Star-Plus-HD.png" />
+    <icon src="https://i.postimg.cc/WzgG1bwm/Star-Plus-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts508">
+    <display-name lang="en">STAR PLUS HD +1</display-name>
     <icon src="https://i.ibb.co/NdHTvNpY/Star-Plus-HD.png" />
     <icon src="https://i.postimg.cc/WzgG1bwm/Star-Plus-HD.png" />
     <url>https://hotstar.com/</url>
@@ -1326,10 +1416,10 @@
     <icon src="https://i.ibb.co/wZyK1PZx/Zee-Bolly-World.png" />
     <url>https://www.distro.tv/live/</url>
   </channel>
-  <channel id="Bollywood.Classic">
+  <channel id="87417">
     <display-name lang="en">Bollywood Classic</display-name>
-    <icon src="https://i.ibb.co/mr2v9qB3/Bollywood-Classic.png" />
-    <icon src="https://i.ibb.co/mr2v9qB3/Bollywood-Classic.png" />
+    <icon src="https://i.ibb.co/Rxh8RS4/Bollywood-Classic.png" />
+    <icon src="https://iili.io/KEu3sig.png" />
     <url>https://www.distro.tv/live/</url>
   </channel>
   <channel id="Zee.TV.in">
@@ -1532,14 +1622,14 @@
   </channel>
   <channel id="Comedy Central.de">
     <display-name lang="en">Comedy Central</display-name>
-    <icon src="https://i.ibb.co/3YyVLK5W/Comedy-Central.png" />
-    <icon src="https://i.ibb.co/3YyVLK5W/Comedy-Central.png" />
+    <icon src="https://i.ibb.co/yFskyRHM/Comedy-Central.png" />
+    <icon src="https://iili.io/K1bzCMJ.png" />
     <url>https://www.comedycentral.com/</url>
   </channel>
   <channel id="ComedyCentHD.uk">
     <display-name lang="en">Comedy Central HD</display-name>
-    <icon src="https://i.ibb.co/3YyVLK5W/Comedy-Central.png" />
-    <icon src="https://i.ibb.co/3YyVLK5W/Comedy-Central.png" />
+    <icon src="https://i.ibb.co/yFskyRHM/Comedy-Central.png" />
+    <icon src="https://iili.io/K1bzCMJ.png" />
     <url>https://www.comedycentral.com/</url>
   </channel>
   <channel id="ComedyXtra.uk">
@@ -1640,8 +1730,8 @@
   </channel>
   <channel id="3071">
     <display-name lang="en">TV Asia Powered by Shemaroo</display-name>
-    <icon src="https://i.ibb.co/ynYsTQQ5/TV-Asia-Powered-By-Shemaroo.png" />
-    <icon src="https://i.ibb.co/ynYsTQQ5/TV-Asia-Powered-By-Shemaroo.png" />
+    <icon src="https://i.ibb.co/B5g33Mjz/TV-Asia-Powered-By-Shemaroo.png" />
+    <icon src="https://iili.io/KEISb44.png" />
     <url>https://www.shemaroo.com/</url>
   </channel>
   <channel id="Cricbuzz 1">
