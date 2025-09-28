@@ -68,8 +68,8 @@
    </channel>
    <channel id="hbo.family">
      <display-name lang="en">HBO Family</display-name>
-     <icon src="https://i.ibb.co/Hpd2fVr7/Drg7JLf.png" />
-     <icon src="https://i.ibb.co/Hpd2fVr7/Drg7JLf.png" />
+     <icon src="https://i.ibb.co/Qv4zxKLB/HBO-Family.png" />
+     <icon src="https://iili.io/K16m7dg.png" />
      <url>https://www.hbofamily.com</url>
    </channel>
    <channel id="tnt.sports.1.HD">
@@ -234,12 +234,6 @@
      <icon src="https://i.ibb.co/BD3WCQT/TtYNKvs.png" />
      <url>https://www.Shemaroo.com</url>
    </channel>
-   <channel id="Shemaroo.Josh.in">
-     <display-name lang="en">Shemaroo Josh</display-name>
-     <icon src="https://i.ibb.co/mrq5sXgZ/Shemaroo-Josh.png" />
-     <icon src="https://i.ibb.co/mrq5sXgZ/Shemaroo-Josh.png" />
-     <url>https://www.shemaroo.in</url>
-   </channel>
    <channel id="123698">
      <display-name lang="en">Shemaroo Filmi Gaane</display-name>
      <icon src="https://i.ibb.co/zSQXtDz/Shemaroo-Filmi-Gaane.png" />
@@ -272,14 +266,14 @@
    </channel>
    <channel id="AXN.HD">
      <display-name lang="en">AXN HD</display-name>
-     <icon src="https://i.ibb.co/Mxchp8D3/mMWycKU.png" />
-     <icon src="https://i.ibb.co/Mxchp8D3/mMWycKU.png" />
+     <icon src="https://i.ibb.co/20Mmzt7D/AXN.png" />
+     <icon src="https://iili.io/K16Q8uV.png" />
      <url>https://www.axn.com</url>
    </channel>
    <channel id="Warner.TV">
      <display-name lang="en">Warner TV</display-name>
-     <icon src="https://i.ibb.co/BHhntdwt/Xbxmg0V.png" />
-     <icon src="https://i.ibb.co/BHhntdwt/Xbxmg0V.png" />
+     <icon src="https://i.ibb.co/9HVHFvYP/Warner-TV.png" />
+     <icon src="https://iili.io/K16t7dG.png" />
      <url>https://www.warnertv.com</url>
    </channel>
    <channel id="desi.play.tv">
@@ -290,8 +284,8 @@
    </channel>
    <channel id="sony.kal">
      <display-name lang="en">Sony Kal</display-name>
-     <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
-     <icon src="https://i.ibb.co/WW1RvMSd/lNc6YaV.png" />
+     <icon src="https://i.ibb.co/yBgWjTVS/Sony-KAL.png" />
+     <icon src="https://iili.io/K1rhmfs.png" />
      <url>https://www.sonykal.com</url>
    </channel>
    <channel id="tnt.sports.2.HD">
@@ -414,11 +408,17 @@
     <icon src="https://i.ibb.co/9mXbHkPL/Star-Sports-2-Tamil-HD.png" />
     <url>https://www.starsports.in</url>
   </channel>
-  <channel id="Star.Utsav">
+  <channel id="ts551">
     <display-name lang="en">Star Utsav</display-name>
-    <icon src="https://i.ibb.co/210QQBfG/6oFKpXB.png" />
-    <icon src="https://i.ibb.co/210QQBfG/6oFKpXB.png" />
-    <url>https://www.starutsav.in</url>
+    <icon src="https://i.ibb.co/zH8NDrbG/Star-Utsav.png" />
+    <icon src="https://iili.io/K1PF6a2.png" />
+    <url>https://www.hotstar.in</url>
+  </channel>
+  <channel id="ts470">
+    <display-name lang="en">Star Utsav Movies</display-name>
+    <icon src="https://i.ibb.co/Kpr8h794/Star-Utsav-Movies.png" />
+    <icon src="https://iili.io/K1PRgYF.png" />
+    <url>https://www.hotstar.in</url>
   </channel>
   <channel id="Big.Magic">
     <display-name lang="en">Big Magic</display-name>
@@ -449,12 +449,6 @@
     <icon src="https://i.ibb.co/wNMtf8BB/DD-Sports.png" />
     <icon src="https://i.ibb.co/wNMtf8BB/DD-Sports.png" />
     <url>https://www.wavespb.com/</url>
-  </channel>
-  <channel id="Colors.Infinity.HD">
-    <display-name lang="en">Colors Infinity HD</display-name>
-    <icon src="https://i.ibb.co/39CnXbg1/O4n669C.png" />
-    <icon src="https://i.ibb.co/39CnXbg1/O4n669C.png" />
-    <url>https://www.colorsinfinity.in</url>
   </channel>
   <channel id="Star.Maa.Gold">
     <display-name lang="en">Star Maa Gold</display-name>
@@ -588,10 +582,10 @@
     <icon src="https://i.ibb.co/0R4fCgWK/3eol8cQ.png" />
     <url>https://www.zoom.com</url>
   </channel>
-  <channel id="Disney.International.HD">
+  <channel id="ts265">
     <display-name lang="en">Disney International HD</display-name>
-    <icon src="https://i.ibb.co/3mbndzSw/nxbdJus.png" />
-    <icon src="https://i.ibb.co/3mbndzSw/nxbdJus.png" />
+    <icon src="https://i.ibb.co/fdBLJ8Rh/Disney-International-HD.png" />
+    <icon src="https://iili.io/K1PHTua.png" />
     <url>https://www.disney.com</url>
   </channel>
   <channel id="Sky.Sports.Cricket">
@@ -710,32 +704,32 @@
   </channel>
   <channel id="Utsav.Plus">
     <display-name lang="en">Utsav Plus</display-name>
-    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
-    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+    <icon src="https://i.ibb.co/hJctfFDr/Utsav-Plus.png" />
+    <icon src="https://iili.io/K14KYnj.png" />
     <url>https://www.sky.com</url>
   </channel>
   <channel id="Utsav.Plus.HD">
     <display-name lang="en">Utsav Plus HD</display-name>
-    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
-    <icon src="https://i.ibb.co/8g7CyHs5/EsDHAOV.png" />
+    <icon src="https://i.ibb.co/3m1CQJV8/Utsav-Plus-HD.png" />
+    <icon src="https://iili.io/K143zil.png" />
     <url>https://www.sky.com</url>
   </channel>
   <channel id="Utsav.Bharat">
     <display-name lang="en">Utsav Bharat</display-name>
-    <icon src="https://i.ibb.co/wZX5zwKN/uFkrLNp.png" />
-    <icon src="https://i.ibb.co/wZX5zwKN/uFkrLNp.png" />
+    <icon src="https://i.ibb.co/67t81v6Y/Utsav-Bharat.png" />
+    <icon src="https://iili.io/K14qXEv.png" />
     <url>https://www.sky.com</url>
   </channel>
   <channel id="Utsav.Gold">
     <display-name lang="en">Utsav Gold</display-name>
-    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
-    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
+    <icon src="https://i.ibb.co/LDxjmBfh/Utsav-Gold.png" />
+    <icon src="https://iili.io/K14Y9zx.png" />
     <url>https://www.sky.com</url>
   </channel>
   <channel id="Utsav.Gold.HD">
     <display-name lang="en">Utsav Gold HD</display-name>
-    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
-    <icon src="https://i.ibb.co/wh0xL6nS/KHIZ3Bl.png" />
+    <icon src="https://i.ibb.co/1FJ2v13/Utsav-Gold-HD.png" />
+    <icon src="https://iili.io/K14CQLu.png" />
     <url>https://www.sky.com</url>
   </channel>
   <channel id="MANGOTV">
@@ -798,17 +792,101 @@
     <icon src="https://i.ibb.co/s4w1RKM/Sony-Movies.png" />
     <url>http://www.sonymovies.com</url>
   </channel>
-  <channel id="Colors.HD.(Astro)">
+  <channel id="ts543">
+    <display-name lang="en">Colors</display-name>
+    <icon src="https://i.ibb.co/9k7WCLvZ/Colors.png" />
+    <icon src="https://iili.io/K1gEw7t.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="ts52">
+    <display-name lang="en">Colors HD</display-name>
+    <icon src="https://i.ibb.co/twnptKSm/Colors-HD.png" />
+    <icon src="https://iili.io/K1gGLcN.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="116.astro">
     <display-name lang="en">Colors HD (Astro)</display-name>
-    <icon src="https://i.ibb.co/VpMTQzG8/image.png" />
-    <icon src="https://i.ibb.co/VpMTQzG8/image.png" />
+    <icon src="https://i.ibb.co/twnptKSm/Colors-HD.png" />
+    <icon src="https://iili.io/K1gGLcN.png" />
     <url>https://content.astro.com.my</url>
   </channel>
-  <channel id="Sony.Max.SG">
-    <display-name lang="en">Sony Max SG</display-name>
-    <icon src="https://i.ibb.co/DP33QFmR/image.png" />
-    <icon src="https://i.ibb.co/DP33QFmR/image.png" />
-    <url>https://starhubtvplus.com/</url>
+  <channel id="ts438">
+    <display-name lang="en">Colors Rishtey</display-name>
+    <icon src="https://i.ibb.co/nNxYL798/Colors-Rishtey.png" />
+    <icon src="https://iili.io/K14lQQj.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="ts438">
+    <display-name lang="en">Rishtey</display-name>
+    <icon src="https://i.ibb.co/nNxYL798/Colors-Rishtey.png" />
+    <icon src="https://iili.io/K14lQQj.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="ts134">
+    <display-name lang="en">Colors Marathi</display-name>
+    <icon src="https://i.ibb.co/YF6Zryhk/Colors-Marathi.png" />
+    <icon src="https://iili.io/K16o4Q1.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="ts308">
+    <display-name lang="en">Colors Marathi HD</display-name>
+    <icon src="https://i.ibb.co/RTYJRYwj/Colors-Marathi-HD.png" />
+    <icon src="https://iili.io/K16AXhQ.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="ts544">
+    <display-name lang="en">Colors Infinity</display-name>
+    <icon src="https://i.ibb.co/jvVtYZb0/Colors-Infinity.png" />
+    <icon src="https://iili.io/K16rQXs.png" />
+    <url>https://www.colorsinfinity.in</url>
+  </channel>
+  <channel id="ts187">
+    <display-name lang="en">Colors Infinity HD</display-name>
+    <icon src="https://i.ibb.co/TqvN2KrT/Colors-Infinity-HD.png" />
+    <icon src="https://iili.io/K16PCOP.png" />
+    <url>https://www.colorsinfinity.in</url>
+  </channel>
+  <channel id="">
+    <display-name lang="en">Colors Cineplex</display-name>
+    <icon src="https://i.ibb.co/qYDxRtS1/Colors-Cineplex.png" />
+    <icon src="https://iili.io/K1iEeig.png" />
+    <url>https://www.jiotv.in</url>
+  </channel>
+  <channel id="">
+    <display-name lang="en">Colors Cineplex HD</display-name>
+    <icon src="https://i.ibb.co/HDKHjDQy/Colors-Cineplex-HD.png" />
+    <icon src="https://iili.io/K1ijomv.png" />
+    <url>https://www.jiotv.in</url>
+  </channel>
+  <channel id="">
+    <display-name lang="en">Colors Cineplex Bollywood</display-name>
+    <icon src="https://i.ibb.co/xSgd6Xs1/Colors-Cineplex-Bollywood.png" />
+    <icon src="https://iili.io/K1iNIfI.png" />
+    <url>https://www.jiotv.in</url>
+  </channel>
+  <channel id="">
+    <display-name lang="en">Colors Cineplex Superhits</display-name>
+    <icon src="https://i.ibb.co/gFF2c4j1/Colors-Cineplex-Superhits.png" />
+    <icon src="https://iili.io/K1ieLlI.png" />
+    <url>https://www.jiotv.in</url>
+  </channel>
+  <channel id="ts818">
+    <display-name lang="en">Shemaroo TV</display-name>
+    <icon src="https://i.ibb.co/dvsqKvv/Shemaroo-TV.png" />
+    <icon src="https://iili.io/K14jSDB.png" />
+    <url>https://www.shemaroo.com/</url>
+  </channel>
+  <channel id="ts1045">
+    <display-name lang="en">Shemaroo Umang</display-name>
+    <icon src="https://i.ibb.co/Pvwn283d/Shemaroo-Umang.png" />
+    <icon src="https://iili.io/K162kdP.png" />
+    <url>https://www.shemaroo.com/</url>
+  </channel>
+  <channel id="ts1269">
+    <display-name lang="en">Shemaroo Josh</display-name>
+    <icon src="https://i.ibb.co/CsHKdVcw/Shemaroo-Josh.png" />
+    <icon src="https://iili.io/K16Kphg.png" />
+    <url>https://www.shemaroo.com/</url>
   </channel>
   <channel id="Star.Maa.Movies">
     <display-name lang="en">Star Maa Movies</display-name>
@@ -824,8 +902,8 @@
   </channel>
   <channel id="706.astro">
     <display-name lang="en">Hits HD</display-name>
-    <icon src="https://i.ibb.co/HLDrkJPs/Hits-HD.png" />
-    <icon src="https://i.ibb.co/HLDrkJPs/Hits-HD.png" />
+    <icon src="https://i.ibb.co/S4YPmw0T/HITS.png" />
+    <icon src="https://iili.io/K16ywx4.png" />
     <url>https://content.astro.com.my</url>
   </channel>
   <channel id="401.astro">
@@ -866,44 +944,44 @@
   </channel>
   <channel id="SET">
     <display-name lang="en">SET</display-name>
-    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
-    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
+    <icon src="https://i.ibb.co/6fLCDcp/SET.png" />
+    <icon src="https://i.postimg.cc/zBLMpKqr/SET.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="SET.HD">
     <display-name lang="en">SET HD</display-name>
-    <icon src="https://i.ibb.co/8gQfH5jQ/SET-HD.png" />
-    <icon src="https://i.ibb.co/8gQfH5jQ/SET-HD.png" />
+    <icon src="https://i.ibb.co/Y7c9cS7z/SET-HD.png" />
+    <icon src="https://i.postimg.cc/B6Wc9Kxn/SET-HD.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="SET (HINDI)">
     <display-name lang="en">SET SG</display-name>
-    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
-    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
+    <icon src="https://i.ibb.co/6fLCDcp/SET.png" />
+    <icon src="https://i.postimg.cc/zBLMpKqr/SET.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="SET USA">
     <display-name lang="en">SET USA</display-name>
-    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
-    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
+    <icon src="https://i.ibb.co/6fLCDcp/SET.png" />
+    <icon src="https://i.postimg.cc/zBLMpKqr/SET.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="SET UK">
     <display-name lang="en">SET UK</display-name>
-    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
-    <icon src="https://i.ibb.co/MxkpWzKD/SET.png" />
+    <icon src="https://i.ibb.co/6fLCDcp/SET.png" />
+    <icon src="https://i.postimg.cc/zBLMpKqr/SET.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Pix">
     <display-name lang="en">Sony Pix</display-name>
-    <icon src="https://i.ibb.co/DfGzFBLp/Sony-Pix.png" />
-    <icon src="https://i.ibb.co/DfGzFBLp/Sony-Pix.png" />
+    <icon src="https://i.ibb.co/cK39xcrY/Sony-PIX.png" />
+    <icon src="https://iili.io/K1rki5G.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Pix.HD">
     <display-name lang="en">Sony Pix HD</display-name>
-    <icon src="https://i.ibb.co/BHY1ymZL/Sony-Pix-HD.png" />
-    <icon src="https://i.ibb.co/BHY1ymZL/Sony-Pix-HD.png" />
+    <icon src="https://i.ibb.co/Q3J0f87D/Sony-Pix-HD.png" />
+    <icon src="https://iili.io/K1rki5G.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.BBC.Earth">
@@ -920,158 +998,164 @@
   </channel>
   <channel id="Sony.Pal">
     <display-name lang="en">Sony Pal</display-name>
-    <icon src="https://i.ibb.co/FqktZPSG/Sony-Pal.png" />
-    <icon src="https://i.ibb.co/FqktZPSG/Sony-Pal.png" />
+    <icon src="https://i.ibb.co/WNzt7rqv/Sony-PAL.png" />
+    <icon src="https://iili.io/K1rgDlI.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Aath">
     <display-name lang="en">Sony Aath</display-name>
-    <icon src="https://i.ibb.co/676Pjw3q/Sony-Aath.png" />
-    <icon src="https://i.ibb.co/676Pjw3q/Sony-Aath.png" />
+    <icon src="https://i.ibb.co/hRG3XQ68/Sony-AATH.png" />
+    <icon src="https://iili.io/K1rwp94.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.SAB">
     <display-name lang="en">Sony SAB</display-name>
-    <icon src="https://i.ibb.co/Vc3MKHbb/Sony-SAB.png" />
-    <icon src="https://i.ibb.co/Vc3MKHbb/Sony-SAB.png" />
+    <icon src="https://i.ibb.co/FbVMsTp9/Sony-SAB.png" />
+    <icon src="https://iili.io/K1g8SrF.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.SAB.HD">
     <display-name lang="en">Sony SAB HD</display-name>
-    <icon src="https://i.ibb.co/C5vGp9k9/Sony-SAB-HD.png" />
-    <icon src="https://i.ibb.co/C5vGp9k9/Sony-SAB-HD.png" />
+    <icon src="https://i.ibb.co/5WM4Jmnz/Sony-SAB-HD.png" />
+    <icon src="https://iili.io/K1gUCPI.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Yay!">
     <display-name lang="en">Sony Yay!</display-name>
-    <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
-    <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
+    <icon src="https://i.ibb.co/S4wVw8SY/Sony-YAY.png" />
+    <icon src="https://iili.io/K1ggg29.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Yay">
     <display-name lang="en">Sony Yay</display-name>
-    <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
-    <icon src="https://i.ibb.co/1JRcJ5XZ/Sony-Yay.png" />
+    <icon src="https://i.ibb.co/S4wVw8SY/Sony-YAY.png" />
+    <icon src="https://iili.io/K1ggg29.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Marathi">
     <display-name lang="en">Sony Marathi</display-name>
-    <icon src="https://i.ibb.co/xncPKZQ/Sony-Marathi.png" />
-    <icon src="https://i.ibb.co/xncPKZQ/Sony-Marathi.png" />
+    <icon src="https://i.ibb.co/d0HJqrhP/Sony-Marathi.png" />
+    <icon src="https://iili.io/K1g6nzG.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Max">
     <display-name lang="en">Sony Max</display-name>
-    <icon src="https://i.ibb.co/67TL1Pj5/Sony-Max.png" />
-    <icon src="https://i.ibb.co/67TL1Pj5/Sony-Max.png" />
+    <icon src="https://i.ibb.co/ZRmLrbQ9/Sony-MAX.png" />
+    <icon src="https://iili.io/K1gbMrb.png" />
     <url>https://www.sonypicturesnetworks.com</url>
+  </channel>
+  <channel id="Sony.Max.SG">
+    <display-name lang="en">Sony Max SG</display-name>
+    <icon src="https://i.ibb.co/ZRmLrbQ9/Sony-MAX.png" />
+    <icon src="https://iili.io/K1gbMrb.png" />
+    <url>https://starhubtvplus.com/</url>
   </channel>
   <channel id="Sony.Max.HD">
     <display-name lang="en">Sony Max HD</display-name>
-    <icon src="https://i.ibb.co/d01bJKxY/Sony-Max-HD.png" />
-    <icon src="https://i.ibb.co/d01bJKxY/Sony-Max-HD.png" />
+    <icon src="https://i.ibb.co/jn5bDJV/Sony-MAX-HD.png" />
+    <icon src="https://iili.io/K1gydB9.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.MAX.1">
     <display-name lang="en">Sony MAX 1</display-name>
-    <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
-    <icon src="https://i.ibb.co/MDnht7Tn/Sony-MAX-1.png" />
+    <icon src="https://i.ibb.co/Xr51yXcH/Sony-MAX-1.png" />
+    <icon src="https://iili.io/K1rH2Hb.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Max.2">
     <display-name lang="en">Sony Max 2</display-name>
-    <icon src="https://i.ibb.co/Fb1RfDKt/Sony-Max-2.png" />
-    <icon src="https://i.ibb.co/Fb1RfDKt/Sony-Max-2.png" />
+    <icon src="https://i.ibb.co/pjdLzWR4/Sony-MAX-2.png" />
+    <icon src="https://iili.io/K1rJR2e.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Wah">
     <display-name lang="en">Sony Wah</display-name>
-    <icon src="https://i.ibb.co/k6VGtX5M/Sony-Wah.png" />
-    <icon src="https://i.ibb.co/k6VGtX5M/Sony-Wah.png" />
+    <icon src="https://i.ibb.co/99RG4rVm/Sony-WAH.png" />
+    <icon src="https://iili.io/K1r2Hlt.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.1">
     <display-name lang="en">Sony Sports Ten 1</display-name>
-    <icon src="https://i.ibb.co/27Hcbgsh/Sony-Sports-Ten-1.png" />
-    <icon src="https://i.ibb.co/27Hcbgsh/Sony-Sports-Ten-1.png" />
+    <icon src="https://i.ibb.co/XxH6VDCh/Sony-Sports-TEN-1.png" />
+    <icon src="https://iili.io/K1rqNUB.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.1.HD">
     <display-name lang="en">Sony Sports Ten 1 HD</display-name>
-    <icon src="https://i.ibb.co/Z6YN7Yt5/Sony-Sports-Ten-1-HD.png" />
-    <icon src="https://i.ibb.co/Z6YN7Yt5/Sony-Sports-Ten-1-HD.png" />
+    <icon src="https://i.ibb.co/Gvmtqsyv/Sony-Sports-TEN-1-HD.png" />
+    <icon src="https://iili.io/K1rCojn.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.2">
     <display-name lang="en">Sony Sports Ten 2</display-name>
-    <icon src="https://i.ibb.co/vC9rptGN/Sony-Sports-Ten-2.png" />
-    <icon src="https://i.ibb.co/vC9rptGN/Sony-Sports-Ten-2.png" />
+    <icon src="https://i.ibb.co/JjnMbLjV/Sony-Sports-TEN-2.png" />
+    <icon src="https://iili.io/K1rniUQ.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.2.HD">
     <display-name lang="en">Sony Sports Ten 2 HD</display-name>
-    <icon src="https://i.ibb.co/KcWTNQDM/Sony-Sports-Ten-2-HD.png" />
-    <icon src="https://i.ibb.co/KcWTNQDM/Sony-Sports-Ten-2-HD.png" />
+    <icon src="https://i.ibb.co/jnG8Vmx/Sony-Sports-TEN-2-HD.png" />
+    <icon src="https://iili.io/K1rz2tt.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.3">
     <display-name lang="en">Sony Sports Ten 3</display-name>
-    <icon src="https://i.ibb.co/Q7fC6SrG/Sony-Sports-Ten-3.png" />
-    <icon src="https://i.ibb.co/Q7fC6SrG/Sony-Sports-Ten-3.png" />
+    <icon src="https://i.ibb.co/d0zSVj2J/Sony-Sports-TEN-3-Hindi.png" />
+    <icon src="https://iili.io/K1rT4Sf.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.3.HD">
     <display-name lang="en">Sony Sports Ten 3 HD</display-name>
-    <icon src="https://i.ibb.co/YFgrQjWG/Sony-Sports-Ten-3-HD.png" />
-    <icon src="https://i.ibb.co/YFgrQjWG/Sony-Sports-Ten-3-HD.png" />
+    <icon src="https://i.ibb.co/2YcbfwBR/Sony-Sports-TEN-3-Hindi-HD.png" />
+    <icon src="https://iili.io/K1r5gX2.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.3.Hindi">
     <display-name lang="en">Sony Sports Ten 3 Hindi</display-name>
-    <icon src="https://i.ibb.co/fzg6ktWm/Sony-Sports-Ten-3-Hindi.png" />
-    <icon src="https://i.ibb.co/fzg6ktWm/Sony-Sports-Ten-3-Hindi.png" />
+    <icon src="https://i.ibb.co/d0zSVj2J/Sony-Sports-TEN-3-Hindi.png" />
+    <icon src="https://iili.io/K1rT4Sf.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.3.Hindi.HD">
     <display-name lang="en">Sony Sports Ten 3 Hindi HD</display-name>
-    <icon src="https://i.ibb.co/SXSNCSgc/Sony-Sports-Ten-3-Hindi-HD.png" />
-    <icon src="https://i.ibb.co/SXSNCSgc/Sony-Sports-Ten-3-Hindi-HD.png" />
+    <icon src="https://i.ibb.co/2YcbfwBR/Sony-Sports-TEN-3-Hindi-HD.png" />
+    <icon src="https://iili.io/K1r5gX2.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.4">
     <display-name lang="en">Sony Sports Ten 4</display-name>
-    <icon src="https://i.ibb.co/GvXVN6bb/Sony-Sports-Ten-4.png" />
-    <icon src="https://i.ibb.co/GvXVN6bb/Sony-Sports-Ten-4.png" />
+    <icon src="https://i.ibb.co/kVxKbhmm/Sony-Sports-TEN-4-Tamil.png" />
+    <icon src="https://iili.io/K1raKVp.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.4.HD">
     <display-name lang="en">Sony Sports Ten 4 HD</display-name>
-    <icon src="https://i.ibb.co/CKP0cypw/Sony-Sports-Ten-4-HD.png" />
-    <icon src="https://i.ibb.co/CKP0cypw/Sony-Sports-Ten-4-HD.png" />
+    <icon src="https://i.ibb.co/1f99QfMq/Sony-Sports-TEN-4-Telugu.png" />
+    <icon src="https://iili.io/K1rcQ6B.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.4.Tamil">
     <display-name lang="en">Sony Sports Ten 4 Tamil</display-name>
-    <icon src="https://i.ibb.co/6jT9K3Q/Sony-Sports-Ten-4-Tamil.png" />
-    <icon src="https://i.ibb.co/6jT9K3Q/Sony-Sports-Ten-4-Tamil.png" />
+    <icon src="https://i.ibb.co/kVxKbhmm/Sony-Sports-TEN-4-Tamil.png" />
+    <icon src="https://iili.io/K1raKVp.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.4.Telugu">
     <display-name lang="en">Sony Sports Ten 4 Telugu</display-name>
-    <icon src="https://i.ibb.co/ymPn8LhB/Sony-Sports-Ten-4-Telugu.png" />
-    <icon src="https://i.ibb.co/ymPn8LhB/Sony-Sports-Ten-4-Telugu.png" />
+    <icon src="https://i.ibb.co/1f99QfMq/Sony-Sports-TEN-4-Telugu.png" />
+    <icon src="https://iili.io/K1rcQ6B.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.5">
     <display-name lang="en">Sony Sports Ten 5</display-name>
-    <icon src="https://i.ibb.co/9HBm6JSs/Sony-Sports-Ten-5.png" />
-    <icon src="https://i.ibb.co/9HBm6JSs/Sony-Sports-Ten-5.png" />
+    <icon src="https://i.ibb.co/Kz6HCnQY/Sony-Sports-TEN-5.png" />
+    <icon src="https://iili.io/K1r1BhG.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Sports.Ten.5.HD">
     <display-name lang="en">Sony Sports Ten 5 HD</display-name>
-    <icon src="https://i.ibb.co/dJfWNcH2/Sony-Sports-Ten-5-HD.png" />
-    <icon src="https://i.ibb.co/dJfWNcH2/Sony-Sports-Ten-5-HD.png" />
+    <icon src="https://i.ibb.co/20sWnRQR/Sony-Sports-TEN-5-HD.png" />
+    <icon src="https://iili.io/K1rEgKQ.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="NH.BollyFlix">
@@ -1116,22 +1200,94 @@
     <icon src="https://i.ibb.co/200w3GK4/Cartoon-Network-HD.png" />
     <url>https://hotstar.com/</url>
   </channel>
+  <channel id="ts550">
+    <display-name lang="en">Star Plus</display-name>
+    <icon src="https://i.ibb.co/69n8G1S/Star-Plus.png" />
+    <icon src="https://i.postimg.cc/wBqRhBxJ/Star-Plus.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts8">
+    <display-name lang="en">Star Plus HD</display-name>
+    <icon src="https://i.ibb.co/NdHTvNpY/Star-Plus-HD.png" />
+    <icon src="https://i.postimg.cc/WzgG1bwm/Star-Plus-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts508">
+    <display-name lang="en">Star Plus HD +1</display-name>
+    <icon src="https://i.ibb.co/NdHTvNpY/Star-Plus-HD.png" />
+    <icon src="https://i.postimg.cc/WzgG1bwm/Star-Plus-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts86">
+    <display-name lang="en">Star Bharat</display-name>
+    <icon src="https://i.ibb.co/KjzfRDzc/Star-Bharat.png" />
+    <icon src="https://iili.io/K1genxS.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts244">
+    <display-name lang="en">Star Bharat HD</display-name>
+    <icon src="https://i.ibb.co/dwBrLDSs/Star-Bharat-HD.png" />
+    <icon src="https://iili.io/K1gkABt.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts466">
+    <display-name lang="en">Star Pravah</display-name>
+    <icon src="https://i.ibb.co/4nd9R3RS/Star-Pravah.png" />
+    <icon src="https://iili.io/K16v3X4.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts469">
+    <display-name lang="en">Star Pravah HD</display-name>
+    <icon src="https://i.ibb.co/mCNqYTtQ/Star-Pravah-HD.png" />
+    <icon src="https://iili.io/K16GyEG.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Gold">
+    <display-name lang="en">Star Gold</display-name>
+    <icon src="https://i.ibb.co/bR1xjx2t/Star-Gold.png" />
+    <icon src="https://iili.io/K1iFKcQ.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Gold.HD">
+    <display-name lang="en">Star Gold HD</display-name>
+    <icon src="https://i.ibb.co/B2FzjwKt/Star-Gold-HD.png" />
+    <icon src="https://iili.io/K1iCGcJ.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Gold.2">
+    <display-name lang="en">Star Gold 2</display-name>
+    <icon src="https://i.ibb.co/vx0pHvVp/Star-Gold-2.png" />
+    <icon src="https://iili.io/K1iT38u.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
   <channel id="Star.Gold.2.HD">
     <display-name lang="en">Star Gold 2 HD</display-name>
-    <icon src="https://i.ibb.co/0RLBMryy/Star-Gold-2-HD.png" />
-    <icon src="https://i.ibb.co/0RLBMryy/Star-Gold-2-HD.png" />
+    <icon src="https://i.ibb.co/Mxb9DDPW/Star-Gold-2-HD.png" />
+    <icon src="https://iili.io/K1ixtln.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Gold.Thrills">
+  <channel id="Star.Gold.Select">
+    <display-name lang="en">Star Gold Select</display-name>
+    <icon src="https://i.ibb.co/0jj9QsfL/Star-Gold-Select.png" />
+    <icon src="https://iili.io/K1iAQ8F.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Gold.Select.HD">
+    <display-name lang="en">Star Gold Select HD</display-name>
+    <icon src="https://i.ibb.co/gqK0pHy/Star-Gold-Select-HD.png" />
+    <icon src="https://iili.io/K1ildF4.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts494">
     <display-name lang="en">Star Gold Thrills</display-name>
-    <icon src="https://i.ibb.co/R442d3JN/Star-Gold-Thrills.png" />
-    <icon src="https://i.ibb.co/R442d3JN/Star-Gold-Thrills.png" />
+    <icon src="https://i.ibb.co/nsv9q8DX/Star-Gold-Thrills.png" />
+    <icon src="https://iili.io/K1PLJn9.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Gold.Romance">
+  <channel id="ts493">
     <display-name lang="en">Star Gold Romance</display-name>
-    <icon src="https://i.ibb.co/s9f29CHn/Star-Gold-Romance.png" />
-    <icon src="https://i.ibb.co/s9f29CHn/Star-Gold-Romance.png" />
+    <icon src="https://i.ibb.co/3YN1HxBD/Star-Gold-Romance.png" />
+    <icon src="https://iili.io/K1PlPTX.png" />
     <url>https://hotstar.com/</url>
   </channel>
   <channel id="Star.Pravah.Picture.HD">
