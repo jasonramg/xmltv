@@ -156,24 +156,6 @@
      <icon src="https://i.ibb.co/wNvwgJ17/C3vKJdc.png" />
      <url>https://www.astro.au</url>
    </channel>
-   <channel id="HBO Hits">
-     <display-name lang="en">HBO Hits</display-name>
-     <icon src="https://i.ibb.co/mFgn55FJ/E3MuJC1.png" />
-     <icon src="https://i.ibb.co/mFgn55FJ/E3MuJC1.png" />
-     <url>https://www.HBO.com</url>
-   </channel>
-   <channel id="HBO.HD">
-     <display-name lang="en">HBO HD</display-name>
-     <icon src="https://i.ibb.co/W6xgb3C/HBO.png" />
-     <icon src="https://i.ibb.co/W6xgb3C/HBO.png" />
-     <url>https://www.HBO.com</url>
-   </channel>
-   <channel id="Cinemax.HD">
-     <display-name lang="en">Cinemax HD</display-name>
-     <icon src="https://i.ibb.co/PzQYnC8y/fon2q0Y.png" />
-     <icon src="https://i.ibb.co/PzQYnC8y/fon2q0Y.png" />
-     <url>https://www.cinemax.com</url>
-   </channel>
    <channel id="zee.chitramandir">
      <display-name lang="en">Zee Chitramandir</display-name>
      <icon src="https://i.ibb.co/Rpzg20dB/Zee-Chitramandir.png" />
@@ -270,6 +252,18 @@
      <icon src="https://iili.io/KEA6Wt2.png" />
      <url>https://www.jiotv.com</url>
    </channel>
+   <channel id="ts800">
+     <display-name lang="en">Shemaroo MarathiBana</display-name>
+     <icon src="https://i.ibb.co/JWYXdQJS/Shemaroo-Marathi-Bana.png" />
+     <icon src="https://iili.io/KEbWDNf.png" />
+     <url>https://www.jiotv.com</url>
+   </channel>
+   <channel id="ts192">
+	 <display-name>Fakt Marathi</display-name>
+	 <icon src="https://i.ibb.co/yF7vfBqh/Fakt-Marathi.png"></icon>
+	 <icon src="https://iili.io/KEbrNyl.png" />
+     <url>https://www.jiotv.com</url>
+	</channel>
    <channel id="143087">
      <display-name lang="en">Goldmines</display-name>
      <icon src="https://i.ibb.co/9kWvFNRv/Goldmines.png" />
@@ -324,7 +318,13 @@
      <icon src="https://iili.io/KETtNbj.png" />
      <url>https://www.tataplay.com/</url>
    </channel>
-   <channel id="">
+   <channel id="ts789">
+     <display-name lang="en">Tata Play Hollywood Local</display-name>
+     <icon src="https://i.ibb.co/9mnHxnGF/Tata-Play-Hollywood-Local.png" />
+     <icon src="https://iili.io/KEDgBTP.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
+   <channel id="Tata.Play.South.Talkies">
      <display-name lang="en">Tata Play South Talkies</display-name>
      <icon src="https://i.ibb.co/B5GVv0Vf/Tata-Play-South-Talkies.png" />
      <icon src="https://iili.io/KERhKmu.png" />
@@ -334,6 +334,18 @@
      <display-name lang="en">Tata Play Classic Cinema</display-name>
      <icon src="https://i.ibb.co/x8LmwXTG/Tata-Play-Classic-Cinema.png" />
      <icon src="https://iili.io/KERS22f.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
+   <channel id="ts1444">
+     <display-name lang="en">Tata Play Marathi Classics</display-name>
+     <icon src="https://i.ibb.co/hRhkcqBZ/Tata-Play-Marathi-Classics.png" />
+     <icon src="https://iili.io/KEbbvEl.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
+   <channel id="ts1260">
+     <display-name lang="en">Tata Play Telugu Classics</display-name>
+     <icon src="https://i.ibb.co/840RgxpG/Tata-Play-Telugu-Classics.png" />
+     <icon src="https://iili.io/KEp9BJp.png" />
      <url>https://www.tataplay.com/</url>
    </channel>
    <channel id="sony.kal">
@@ -390,6 +402,12 @@
     <icon src="https://iili.io/KEuxXOG.png" />
     <url>https://www.themovieclub.in</url>
   </channel>
+  <channel id="Star.Sports.1">
+    <display-name lang="en">Star Sports 1</display-name>
+    <icon src="https://i.ibb.co/Fkqpkb7B/Star-Sports-1.png" />
+    <icon src="https://iili.io/KEy5gqu.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
   <channel id="Star.Sports.1.HD">
     <display-name lang="en">Star Sports 1 HD</display-name>
     <icon src="https://i.ibb.co/ZpZ34wvk/Star-Sports-1-HD.png" />
@@ -406,6 +424,12 @@
     <display-name lang="en">Star Sports 1 Hindi HD</display-name>
     <icon src="https://i.ibb.co/rKcrdb5P/Star-Sports-1-Hindi-HD.png" />
     <icon src="https://i.ibb.co/rKcrdb5P/Star-Sports-1-Hindi-HD.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="Star.Sports.2">
+    <display-name lang="en">Star Sports 2</display-name>
+    <icon src="https://i.ibb.co/jP25qNR2/Star-Sports-2.png" />
+    <icon src="https://iili.io/KEycWj2.png" />
     <url>https://hotstar.com/</url>
   </channel>
   <channel id="Star.Sports.2.HD">
@@ -540,29 +564,35 @@
     <icon src="https://i.ibb.co/wNMtf8BB/DD-Sports.png" />
     <url>https://www.wavespb.com/</url>
   </channel>
-  <channel id="Star.Maa.Gold">
+  <channel id="ts954">
     <display-name lang="en">Star Maa Gold</display-name>
-    <icon src="https://i.ibb.co/YFtb6Jv7/NbF0YSA.png" />
-    <icon src="https://i.ibb.co/YFtb6Jv7/NbF0YSA.png" />
-    <url>https://www.starmaagold.in</url>
+    <icon src="https://i.ibb.co/NgW8xk9h/Star-Maa-Gold.png" />
+    <icon src="https://iili.io/KEmNlDu.png" />
+    <url>https://www.hotstar.com/</url>
   </channel>
-  <channel id="Romedy.Now">
+  <channel id="ts562">
+    <display-name lang="en">Movies Now HD</display-name>
+    <icon src="https://i.ibb.co/Cp2LZ5w8/Movies-Now-HD.png" />
+    <icon src="https://iili.io/KEpMkg9.png" />
+    <url>https://www.timesplay.com/</url>
+  </channel>
+  <channel id="ts174">
     <display-name lang="en">Romedy Now</display-name>
-    <icon src="https://i.ibb.co/XxLt54tB/JBMNKmN.png" />
-    <icon src="https://i.ibb.co/XxLt54tB/JBMNKmN.png" />
-    <url>https://www.romedynow.in</url>
+    <icon src="https://i.ibb.co/sdN2HCsR/Romedy-Now.png" />
+    <icon src="https://iili.io/KEpI4ob.png" />
+    <url>https://www.timesplay.com/</url>
   </channel>
-  <channel id="MNX.HD">
+  <channel id="ts599">
     <display-name lang="en">MNX HD</display-name>
-    <icon src="https://i.ibb.co/273G0x9d/4sH8ccX.png" />
-    <icon src="https://i.ibb.co/273G0x9d/4sH8ccX.png" />
-    <url>https://www.mnx.in</url>
+    <icon src="https://i.ibb.co/p6ZtCXtt/MNX-HD.png" />
+    <icon src="https://iili.io/KEp5ACu.png" />
+    <url>https://www.timesplay.com/</url>
   </channel>
-  <channel id="MN+.HD">
+  <channel id="ts210">
     <display-name lang="en">MN+ HD</display-name>
-    <icon src="https://i.ibb.co/qLm5dxsG/jqMl7xp.png" />
-    <icon src="https://i.ibb.co/qLm5dxsG/jqMl7xp.png" />
-    <url>https://www.mnplus.in</url>
+    <icon src="https://i.ibb.co/ZRfVxL2k/MN-HD.png" />
+    <icon src="https://iili.io/KEpc0la.png" />
+    <url>https://www.timesplay.com/</url>
   </channel>
   <channel id="Pogo">
     <display-name lang="en">Pogo</display-name>
@@ -818,8 +848,8 @@
   </channel>
   <channel id="MANGOTV">
     <display-name lang="en">Mango TV</display-name>
-    <icon src="https://i.ibb.co/3ySWPndx/w44hyWt.png" />
-    <icon src="https://i.ibb.co/3ySWPndx/w44hyWt.png" />
+    <icon src="https://i.ibb.co/23fhRszz/Mango-Mobile-TV.png" />
+    <icon src="https://iili.io/KEmZePp.png" />
     <url>https://www.mangomobile.com</url>
   </channel>
   <channel id="Bflix">
@@ -930,25 +960,25 @@
     <icon src="https://iili.io/K16PCOP.png" />
     <url>https://www.colorsinfinity.in</url>
   </channel>
-  <channel id="">
+  <channel id="ts53">
     <display-name lang="en">Colors Cineplex</display-name>
     <icon src="https://i.ibb.co/qYDxRtS1/Colors-Cineplex.png" />
     <icon src="https://iili.io/K1iEeig.png" />
     <url>https://www.jiotv.in</url>
   </channel>
-  <channel id="">
+  <channel id="ts61">
     <display-name lang="en">Colors Cineplex HD</display-name>
     <icon src="https://i.ibb.co/HDKHjDQy/Colors-Cineplex-HD.png" />
     <icon src="https://iili.io/K1ijomv.png" />
     <url>https://www.jiotv.in</url>
   </channel>
-  <channel id="">
+  <channel id="ts1000">
     <display-name lang="en">Colors Cineplex Bollywood</display-name>
     <icon src="https://i.ibb.co/xSgd6Xs1/Colors-Cineplex-Bollywood.png" />
     <icon src="https://iili.io/K1iNIfI.png" />
     <url>https://www.jiotv.in</url>
   </channel>
-  <channel id="">
+  <channel id="ts1025">
     <display-name lang="en">Colors Cineplex Superhits</display-name>
     <icon src="https://i.ibb.co/gFF2c4j1/Colors-Cineplex-Superhits.png" />
     <icon src="https://iili.io/K1ieLlI.png" />
@@ -972,16 +1002,52 @@
     <icon src="https://iili.io/K16Kphg.png" />
     <url>https://www.shemaroo.com/</url>
   </channel>
-  <channel id="Star.Maa.Movies">
-    <display-name lang="en">Star Maa Movies</display-name>
-    <icon src="https://i.ibb.co/SX08Tyzf/Star-Maa-Movies.png" />
-    <icon src="https://i.ibb.co/SX08Tyzf/Star-Maa-Movies.png" />
+  <channel id="ts277">
+    <display-name lang="en">Maa Movies</display-name>
+    <icon src="https://i.ibb.co/nsMWJQ9R/Star-Maa-Movies.png" />
+    <icon src="https://iili.io/KEmAbpt.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Movies.Select.HD">
+  <channel id="ts277">
+    <display-name lang="en">Star Maa Movies</display-name>
+    <icon src="https://i.ibb.co/nsMWJQ9R/Star-Maa-Movies.png" />
+    <icon src="https://iili.io/KEmAbpt.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts957">
+    <display-name lang="en">Maa Movies HD</display-name>
+    <icon src="https://i.ibb.co/Ywv9633/Star-Maa-Movies-HD.png" />
+    <icon src="https://iili.io/KEmc3ep.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts957">
+    <display-name lang="en">Star Maa Movies HD</display-name>
+    <icon src="https://i.ibb.co/Ywv9633/Star-Maa-Movies-HD.png" />
+    <icon src="https://iili.io/KEmc3ep.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts273">
+    <display-name lang="en">Star Movies</display-name>
+    <icon src="https://i.ibb.co/twxgxmb6/Star-Movies.png" />
+    <icon src="https://iili.io/KEpDYfR.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts560">
+    <display-name lang="en">Star Movies HD</display-name>
+    <icon src="https://i.ibb.co/MyTQXx1V/Star-Movies-HD.png" />
+    <icon src="https://iili.io/KEpyKmP.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts1069">
+    <display-name lang="en">Star Movies Select</display-name>
+    <icon src="https://i.ibb.co/CsnVGGsm/Star-Movies-Select.png" />
+    <icon src="https://iili.io/KEy9plj.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts593">
     <display-name lang="en">Star Movies Select HD</display-name>
-    <icon src="https://i.ibb.co/MD3NN3BP/Star-Movies-Select-HD.png" />
-    <icon src="https://i.ibb.co/MD3NN3BP/Star-Movies-Select-HD.png" />
+    <icon src="https://i.ibb.co/v4gQH8WG/Star-Movies-Select-HD.png" />
+    <icon src="https://iili.io/KEyJYhP.png" />
     <url>https://hotstar.com/</url>
   </channel>
   <channel id="706.astro">
@@ -990,10 +1056,28 @@
     <icon src="https://iili.io/K16ywx4.png" />
     <url>https://content.astro.com.my</url>
   </channel>
+  <channel id="415.astro">
+     <display-name lang="en">HBO Hits</display-name>
+     <icon src="https://i.ibb.co/RpN19Kg0/HBO-Hits.png" />
+     <icon src="https://iili.io/KEpO9yP.png" />
+     <url>https://www.HBO.com</url>
+   </channel>
+   <channel id="411.astro">
+     <display-name lang="en">HBO HD</display-name>
+     <icon src="https://i.ibb.co/h17BSxL8/HBO.png" />
+     <icon src="https://iili.io/KEpj2ZG.png" />
+     <url>https://www.HBO.com</url>
+   </channel>
+   <channel id="412.astro">
+     <display-name lang="en">Cinemax HD</display-name>
+     <icon src="https://i.ibb.co/0yKm7rpm/Cinemax.png" />
+     <icon src="https://iili.io/KEpvdw7.png" />
+     <url>https://www.cinemax.com</url>
+   </channel>
   <channel id="401.astro">
     <display-name lang="en">Hits Movies HD</display-name>
-    <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
-    <icon src="https://i.ibb.co/DgrLhyGN/HITS-MOVIES.png" />
+    <icon src="https://i.ibb.co/4wMKQKmy/Hits-Movies.png" />
+    <icon src="https://iili.io/KEpsWmb.png" />
     <url>https://content.astro.com.my</url>
   </channel>
   <channel id="702.astro">
@@ -1004,8 +1088,8 @@
   </channel>
   <channel id="413.astro">
     <display-name lang="en">SHOWCASE</display-name>
-    <icon src="https://i.ibb.co/h1gktPrJ/Astro-Showcase.png" />
-    <icon src="https://i.ibb.co/h1gktPrJ/Astro-Showcase.png" />
+    <icon src="https://i.ibb.co/7t1VpHG8/Astro-Showcase.png" />
+    <icon src="https://iili.io/KEyxoCv.png" />
     <url>https://content.astro.com.my</url>
   </channel>
   <channel id="717.astro">
@@ -1014,10 +1098,16 @@
     <icon src="https://i.ibb.co/7xF302DF/BBC-Lifestyle.png" />
     <url>https://content.astro.com.my</url>
   </channel>
+  <channel id="718.astro">
+    <display-name lang="en">MTV Live</display-name>
+    <icon src="https://i.ibb.co/B5m65Wt0/MTV-Live.png" />
+    <icon src="https://iili.io/KEbnShQ.png" />
+    <url>https://content.astro.com.my</url>
+  </channel>
   <channel id="TeluguOne.TV">
     <display-name lang="en">TeluguOne TV</display-name>
-    <icon src="https://i.ibb.co/vxdyGQGp/Telugu-One-TV.png" />
-    <icon src="https://i.ibb.co/vxdyGQGp/Telugu-One-TV.png" />
+    <icon src="https://i.ibb.co/VWLhC27z/Telugu-One-TV.png" />
+    <icon src="https://iili.io/KEmbXR9.png" />
     <url>https://www.teluguone.com</url>
   </channel>
   <channel id="Tabbar.Hits">
@@ -1380,10 +1470,28 @@
     <icon src="https://iili.io/K1PlPTX.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Pravah.Picture.HD">
+  <channel id="ts985">
+    <display-name lang="en">Star Pravah Picture</display-name>
+    <icon src="https://i.ibb.co/C3KfWxzf/Star-Pravah-Pictures.png" />
+    <icon src="https://iili.io/KEDsnZN.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts985">
+    <display-name lang="en">Star Pravah Pictures</display-name>
+    <icon src="https://i.ibb.co/C3KfWxzf/Star-Pravah-Pictures.png" />
+    <icon src="https://iili.io/KEDsnZN.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts1175">
     <display-name lang="en">Star Pravah Picture HD</display-name>
-    <icon src="https://i.ibb.co/WZFDPsC/Star-Pravah-Picture-HD.png" />
-    <icon src="https://i.ibb.co/WZFDPsC/Star-Pravah-Picture-HD.png" />
+    <icon src="https://i.ibb.co/1fB5d16t/Star-Pravah-Pictures-HD.png" />
+    <icon src="https://iili.io/KEDbvPp.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts1175">
+    <display-name lang="en">Star Pravah Pictures HD</display-name>
+    <icon src="https://i.ibb.co/1fB5d16t/Star-Pravah-Pictures-HD.png" />
+    <icon src="https://iili.io/KEDbvPp.png" />
     <url>https://hotstar.com/</url>
   </channel>
   <channel id="Star.Maa.Music">
@@ -1397,6 +1505,12 @@
     <icon src="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png" />
     <icon src="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png" />
     <url>https://www.tensportstv.com/</url>
+  </channel>
+  <channel id="ts362">
+    <display-name lang="en">Gemini Movies HD</display-name>
+    <icon src="https://i.ibb.co/Z6tcbcjQ/Gemini-Movies-HD.png" />
+    <icon src="https://iili.io/KEmfbFn.png" />
+    <url>https://www.sunnxt.com/live</url>
   </channel>
   <channel id="Gemini.Music.HD">
     <display-name lang="en">Gemini Music HD</display-name>
@@ -1758,4 +1872,16 @@
     <icon src="https://i.ibb.co/kg0hQTSF/Cric-Life-Max.png" />
     <url>https://www.cricbuzz.com/</url>
   </channel>
+  <channel id="ts1321">
+     <display-name lang="en">ALL Time MOVIES</display-name>
+     <icon src="https://i.ibb.co/ZprW2G9v/All-Time-Movies.png" />
+     <icon src="https://iili.io/KED8nQs.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
+   <channel id="ts1341">
+     <display-name lang="en">ETV Cinema HD</display-name>
+     <icon src="https://i.ibb.co/nMSX4zXK/ETV-Cinema-HD.png" />
+     <icon src="https://iili.io/KEmrAfn.png" />
+     <url>https://www.etvwin.com/</url>
+   </channel>
 </tv>
