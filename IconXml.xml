@@ -1,69 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="none" generator-info-url="none">
-  <channel id="9x.jhakaas">
-    <display-name lang="en">9X Jhakaas</display-name>
-    <icon src="https://i.ibb.co/0jBZtbs1/Jn46K25.png" />
-    <icon src="https://i.ibb.co/0jBZtbs1/Jn46K25.png" />
-    <url>https://www.9xjhakaas.in</url>
-  </channel>
-  <channel id="9x.tashan">
-    <display-name lang="en">9X Tashan</display-name>
-    <icon src="https://i.ibb.co/93NbCdjZ/NihJa3t.png" />
-    <icon src="https://i.ibb.co/93NbCdjZ/NihJa3t.png" />
-    <url>https://www.9xtashan.in</url>
-  </channel>
-  <channel id="balle.balle">
-    <display-name lang="en">Balle Balle</display-name>
-    <icon src="https://i.ibb.co/vNFFWmy/rg24j5z.png" />
-    <icon src="https://i.ibb.co/vNFFWmy/rg24j5z.png" />
-    <url>https://www.balleballe.in</url>
-  </channel>
-  <channel id="maiboli">
-    <display-name lang="en">Maiboli</display-name>
-    <icon src="https://i.ibb.co/CKPPNF55/NL4OB5s.png" />
-    <icon src="https://i.ibb.co/CKPPNF55/NL4OB5s.png" />
-    <url>https://www.maiboli.in</url>
-  </channel>
-  <channel id="9xjalwa">
-     <display-name lang="en">9X Jalwa</display-name>
-     <icon src="https://i.ibb.co/cK2WR5kV/HeQJ4WK.png" />
-     <icon src="https://i.ibb.co/cK2WR5kV/HeQJ4WK.png" />
-     <url>https://www.9xjalwa.in</url>
-   </channel>
-   <channel id="only.music">
-     <display-name lang="en">Only Music</display-name>
-     <icon src="https://i.ibb.co/87GvQK5/Only-Music.png" />
-     <icon src="https://i.ibb.co/87GvQK5/Only-Music.png" />
-     <url>https://www.onlymusic.in</url>
-   </channel>
-   <channel id="music.india">
-     <display-name lang="en">Music India</display-name>
-     <icon src="https://i.ibb.co/gMJXcvMy/yCWhzqD.png" />
-     <icon src="https://i.ibb.co/gMJXcvMy/yCWhzqD.png" />
-     <url>https://www.musicindia.in</url>
-   </channel>
-   <channel id="yrf.music">
-     <display-name lang="en">YRF Music</display-name>
-     <icon src="https://i.ibb.co/TBpzh5Fh/v9xYsMR.png" />
-     <icon src="https://i.ibb.co/TBpzh5Fh/v9xYsMR.png" />
-     <url>https://www.yrfmusic.in</url>
-   </channel>
-   <channel id="Showbox">
-     <display-name lang="en">Showbox</display-name>
-     <icon src="https://i.ibb.co/FLmmyHRw/gcfmJtL.png" />
-     <icon src="https://i.ibb.co/FLmmyHRw/gcfmJtL.png" />
-     <url>https://www.showbox.in</url>
-   </channel>
-   <channel id="brit.asia.tv">
-     <display-name lang="en">Brit Asia TV</display-name>
-     <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
-     <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
-     <url>https://www.britasiatv.in</url>
-   </channel>
    <channel id="wild.earth">
      <display-name lang="en">Wild Earth</display-name>
-     <icon src="https://i.ibb.co/bMsxycVy/2tGfNnM.png" />
-     <icon src="https://i.ibb.co/bMsxycVy/2tGfNnM.png" />
+     <icon src="https://i.ibb.co/p6VNcfKx/Wild-Earth.png" />
+     <icon src="https://iili.io/KGFzJ3u.png" />
      <url>https://www.wildearth.in</url>
    </channel>
    <channel id="hbo.family">
@@ -71,12 +11,6 @@
      <icon src="https://i.ibb.co/Qv4zxKLB/HBO-Family.png" />
      <icon src="https://iili.io/K16m7dg.png" />
      <url>https://www.hbofamily.com</url>
-   </channel>
-   <channel id="tnt.sports.1.HD">
-     <display-name lang="en">TNT Sports 1 HD</display-name>
-     <icon src="https://i.ibb.co/VcLv31y2/MUlrUTG.png" />
-     <icon src="https://i.ibb.co/VcLv31y2/MUlrUTG.png" />
-     <url>https://www.tntsports.com</url>
    </channel>
    <channel id="fox.sports.501">
      <display-name lang="en">Fox Sports 501</display-name>
@@ -366,28 +300,40 @@
      <icon src="https://iili.io/KETEAaj.png" />
      <url>https://www.epicon.in/</url>
    </channel>
+   <channel id="ts126">
+     <display-name lang="en">Epic</display-name>
+     <icon src="https://i.ibb.co/gFjzGMXm/Epic.png" />
+     <icon src="https://iili.io/KGFYq1p.png" />
+     <url>https://www.epicon.in/</url>
+   </channel>
+   <channel id="tnt.sports.1.HD">
+     <display-name lang="en">TNT Sports 1 HD</display-name>
+     <icon src="https://i.ibb.co/GKV1Z3R/TNT-Sports-1.png" />
+     <icon src="https://iili.io/KGHDcyN.png" />
+     <url>https://www.tntsports.com</url>
+   </channel>
    <channel id="tnt.sports.2.HD">
      <display-name lang="en">TNT Sports 2 HD</display-name>
-     <icon src="https://i.ibb.co/BV8tYkGb/f0fl2wt.png" />
-     <icon src="https://i.ibb.co/BV8tYkGb/f0fl2wt.png" />
+     <icon src="https://i.ibb.co/DDYqNVsC/TNT-Sports-2.png" />
+     <icon src="https://iili.io/KGHmypp.png" />
      <url>https://www.tntsports.com</url>
    </channel>
    <channel id="tnt.sports.3.HD">
      <display-name lang="en">TNT Sports 3 HD</display-name>
-     <icon src="https://i.ibb.co/TxTDngrP/8mI3r49.png" />
-     <icon src="https://i.ibb.co/TxTDngrP/8mI3r49.png" />
+     <icon src="https://i.ibb.co/rGWzcTtS/TNT-Sports-3.png" />
+     <icon src="https://iili.io/KGJJole.png" />
      <url>https://www.tntsports.com</url>
    </channel>
    <channel id="tnt.sports.4.HD">
      <display-name lang="en">TNT Sports 4 HD</display-name>
-     <icon src="https://i.ibb.co/dwYPKZFH/YvHdEmD.png" />
-     <icon src="https://i.ibb.co/dwYPKZFH/YvHdEmD.png" />
+     <icon src="https://i.ibb.co/ksXL3n4x/TNT-Sports-4.png" />
+     <icon src="https://iili.io/KGJKyf2.png" />
      <url>https://www.tntsports.com</url>
    </channel>
    <channel id="tnt.sports.5.HD">
      <display-name lang="en">TNT Sports 5 HD</display-name>
-     <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
-     <icon src="https://i.ibb.co/Q75TpxHR/D7DzaV7.png" />
+     <icon src="https://i.ibb.co/kVN3PsS3/TNT-Sports-5.png" />
+     <icon src="https://iili.io/KGJq4yX.png" />
      <url>https://www.tntsports.com</url>
    </channel>
    <channel id="saga.music">
@@ -594,41 +540,101 @@
     <icon src="https://iili.io/KEpc0la.png" />
     <url>https://www.timesplay.com/</url>
   </channel>
-  <channel id="Pogo">
+  <channel id="ts239">
     <display-name lang="en">Pogo</display-name>
-    <icon src="https://i.ibb.co/CKn0k7Nh/2CgI8Yy.png" />
-    <icon src="https://i.ibb.co/CKn0k7Nh/2CgI8Yy.png" />
-    <url>https://www.pogo.in</url>
+    <icon src="https://i.ibb.co/BV59tNZQ/Pogo.png" />
+    <icon src="https://iili.io/KGJQfUl.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts138">
+    <display-name lang="en">Nick</display-name>
+    <icon src="https://i.ibb.co/VYS6DsRb/Nick.png" />
+    <icon src="https://iili.io/KGdItZ7.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts118">
+    <display-name lang="en">Nick Jr</display-name>
+    <icon src="https://i.ibb.co/352xWCMR/Nick-Jr.png" />
+    <icon src="https://iili.io/KGdEyzu.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts433">
+    <display-name lang="en">Nick HD+</display-name>
+    <icon src="https://i.ibb.co/pv8b7Kqc/Nick-HD.png" />
+    <icon src="https://iili.io/KGd5gdg.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts127">
+    <display-name>Sonic</display-name>
+    <icon src="https://i.ibb.co/WWRr5XY5/Sonic.png" />
+    <icon src="https://iili.io/KG22ONa.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts119">
+    <display-name>Discovery Kids</display-name>
+    <icon src="https://i.ibb.co/kkG8VkM/Discovery-Kids.png" />
+    <icon src="https://iili.io/KG2Igfe.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts45">
+    <display-name>SONY YAY</display-name>
+    <icon src="https://i.ibb.co/S4wVw8SY/Sony-YAY.png" />
+    <icon src="https://iili.io/K1ggg29.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts45">
+    <display-name>SONY YAY!</display-name>
+    <icon src="https://i.ibb.co/S4wVw8SY/Sony-YAY.png" />
+    <icon src="https://iili.io/K1ggg29.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts994">
+    <display-name>Tata Play Toons+</display-name>
+    <icon src="https://i.ibb.co/zWDsNgPg/Tata-Play-Toons.png" />
+    <icon src="https://iili.io/KG2523X.png" />
+    <url>https://www.Tataplay.com</url>
+  </channel>
+  <channel id="ts867">
+    <display-name>Gubbare</display-name>
+    <icon src="https://i.ibb.co/Kcg3Rxck/Gubbare.png" />
+    <icon src="https://iili.io/KG21r1R.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts1340">
+    <display-name>ETV Bal Bharat HD</display-name>
+    <icon src="https://i.ibb.co/TB0gJBCG/ETV-Bal-Bharat-HD.png" />
+    <icon src="https://iili.io/KG2VIv2.png" />
+    <url>https://www.Tataplay.com</url>
+  </channel>
+  <channel id="ts1164">
+    <display-name>Unique TV</display-name>
+    <icon src="https://i.ibb.co/J6dBK8V/Unique-TV.png" />
+    <icon src="https://iili.io/KG24tqv.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts144">
+    <display-name>Disney Junior</display-name>
+    <icon src="https://i.ibb.co/BHM43zJr/Disney-Junior.png" />
+    <icon src="https://iili.io/KG2O0VS.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts816">
+    <display-name>CBeeBies</display-name>
+    <icon src="https://i.ibb.co/BKfnPWQs/CbeeBies.png" />
+    <icon src="https://iili.io/KG2ZdIS.png" />
+    <url>https://www.tataplay.com</url>
+  </channel>
+  <channel id="ts1787">
+    <display-name lang="en">Tata Play Cartoon Network Forever</display-name>
+    <icon src="https://i.ibb.co/1JvPmSYy/Tata-Play-Cartoon-Network-Forever.png" />
+    <icon src="https://iili.io/KGdgnS9.png" />
+    <url>https://www.tataplay.com</url>
   </channel>
   <channel id="Cricket.Gold">
     <display-name lang="en">Cricket Gold</display-name>
-    <icon src="https://i.ibb.co/M59R3R07/zTraJSt.png" />
-    <icon src="https://i.ibb.co/M59R3R07/zTraJSt.png" />
+    <icon src="https://i.ibb.co/4RkGgfjp/Cricket-Gold.png" />
+    <icon src="https://iili.io/KGJIeRV.png" />
     <url>https://www.cricketgold.in</url>
-  </channel>
-  <channel id="Nat.Geo.Wild">
-    <display-name lang="en">Nat Geo Wild</display-name>
-    <icon src="https://i.ibb.co/Z6WqNy99/evsgLP4.png" />
-    <icon src="https://i.ibb.co/Z6WqNy99/evsgLP4.png" />
-    <url>https://www.Natgeowild.in</url>
-  </channel>
-  <channel id="Nat.Geo.Wild.HD">
-    <display-name lang="en">Nat Geo Wild HD</display-name>
-    <icon src="https://i.ibb.co/7xNzTFh2/eRF90ex.png" />
-    <icon src="https://i.ibb.co/7xNzTFh2/eRF90ex.png" />
-    <url>https://www.nationalgeographic.in</url>
-  </channel>
-  <channel id="National.Geographic">
-    <display-name lang="en">National Geographic</display-name>
-    <icon src="https://i.ibb.co/VpQzrKLR/cVOuidR.png" />
-    <icon src="https://i.ibb.co/VpQzrKLR/cVOuidR.png" />
-    <url>https://www.nationalgeographic.in</url>
-  </channel>
-  <channel id="National.Geographic.HD">
-    <display-name lang="en">National Geographic HD</display-name>
-    <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
-    <icon src="https://i.ibb.co/C3w32f3M/RGNInxG.png" />
-    <url>https://www.nationalgeographic.in</url>
   </channel>
   <channel id="Fashion.TV">
     <display-name lang="en">Fashion TV</display-name>
@@ -672,12 +678,6 @@
     <icon src="https://i.ibb.co/xKd4H6RF/PSwYaD8.png" />
     <url>https://www.fancode.com</url>
   </channel>
-  <channel id="Saregama.Music">
-    <display-name lang="en">Saregama Music</display-name>
-    <icon src="https://i.ibb.co/8nsd8zqS/4DQtB4f.png" />
-    <icon src="https://i.ibb.co/8nsd8zqS/4DQtB4f.png" />
-    <url>https://www.saregama.com</url>
-  </channel>
   <channel id="Superhit.Beats">
     <display-name lang="en">Superhit Beats</display-name>
     <icon src="https://i.ibb.co/CDyn6k5/HsS3L3L.png" />
@@ -695,12 +695,6 @@
     <icon src="https://i.ibb.co/nqdsXtCg/Zing.png" />
     <icon src="https://i.ibb.co/nqdsXtCg/Zing.png" />
     <url>https://www.zee5.com</url>
-  </channel>
-  <channel id="Zoom">
-    <display-name lang="en">Zoom</display-name>
-    <icon src="https://i.ibb.co/0R4fCgWK/3eol8cQ.png" />
-    <icon src="https://i.ibb.co/0R4fCgWK/3eol8cQ.png" />
-    <url>https://www.zoom.com</url>
   </channel>
   <channel id="ts265">
     <display-name lang="en">Disney International HD</display-name>
@@ -774,22 +768,16 @@
     <icon src="https://i.ibb.co/4R16JTVV/Eurosport.png" />
     <url>https://www.jiotv.com</url>
   </channel>
-  <channel id="Mastiii">
-    <display-name lang="en">Mastiii</display-name>
-    <icon src="https://i.ibb.co/0j2Jtzh1/8pJp3og.png" />
-    <icon src="https://i.ibb.co/0j2Jtzh1/8pJp3og.png" />
+  <channel id="ts130">
+    <display-name lang="en">Animal Planet</display-name>
+    <icon src="https://i.ibb.co/zdp6xdk/Animal-Planet.png" />
+    <icon src="https://iili.io/KG3I2B1.png" />
     <url>https://www.jiotv.com</url>
   </channel>
-  <channel id="GOOD.TiMES">
-    <display-name lang="en">GOOD TiMES</display-name>
-    <icon src="https://i.ibb.co/WvFxsYht/o3MzAjr.png" />
-    <icon src="https://i.ibb.co/WvFxsYht/o3MzAjr.png" />
-    <url>https://www.jiotv.com</url>
-  </channel>
-  <channel id="E24">
-    <display-name lang="en">E24</display-name>
-    <icon src="https://i.ibb.co/j9ry2wdW/h2GorW2.png" />
-    <icon src="https://i.ibb.co/j9ry2wdW/h2GorW2.png" />
+  <channel id="ts287">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <icon src="https://i.ibb.co/23Q7RXKq/Animal-Planet-HD.png" />
+    <icon src="https://iili.io/KG3ujzQ.png" />
     <url>https://www.jiotv.com</url>
   </channel>
   <channel id="Discovery">
@@ -815,6 +803,78 @@
     <icon src="https://i.ibb.co/TMGHVB5W/Discovery-HD-World.png" />
     <icon src="https://i.ibb.co/TMGHVB5W/Discovery-HD-World.png" />
     <url>https://www.discovery.com</url>
+  </channel>
+  <channel id="ts172">
+    <display-name lang="en">History TV18</display-name>
+    <icon src="https://i.ibb.co/jPNzGDJX/History-TV-18.png" />
+    <icon src="https://iili.io/KG3GYI1.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts616">
+    <display-name lang="en">History TV18 HD</display-name>
+    <icon src="https://i.ibb.co/DgGwn0Pq/History-TV-18-HD.png" />
+    <icon src="https://iili.io/KG3WYIS.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts605">
+    <display-name>National Geographic HD</display-name>
+    <icon src="https://i.ibb.co/zWDXj0Xv/National-Geographic-HD.png" />
+    <icon src="https://iili.io/KG36eO7.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts137">
+    <display-name>National Geographic</display-name>
+    <icon src="https://i.ibb.co/1YfmTv8G/National-Geographic.png" />
+    <icon src="https://iili.io/KG3s7lj.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts413">
+    <display-name>Nat Geo Wild HD</display-name>
+    <icon src="https://i.ibb.co/Ps3bPYVn/Nat-Geo-Wild-HD.png" />
+    <icon src="https://iili.io/KG3ZoRR.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts184">
+    <display-name>Nat Geo Wild</display-name>
+    <icon src="https://i.ibb.co/PzZbQDg5/Nat-Geo-Wild.png" />
+    <icon src="https://iili.io/KG3DW8b.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts228">
+    <display-name>Discovery Turbo</display-name>
+    <icon src="https://i.ibb.co/21GmYqrP/Discovery-Turbo.png" />
+    <icon src="https://iili.io/KGFJkmu.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts113">
+    <display-name>Discovery Science</display-name>
+    <icon src="https://i.ibb.co/TMWQrpwz/Discovery-Science.png" />
+    <icon src="https://iili.io/KGFKaN1.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts135">
+    <display-name>TLC</display-name>
+    <icon src="https://i.ibb.co/Lh8Wxq7c/TLC.png" />
+    <icon src="https://iili.io/KGFMLIS.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts480">
+    <display-name>TLC HD</display-name>
+    <icon src="https://i.ibb.co/272fcY2J/TLC-HD.png" />
+    <icon src="https://iili.io/KGFXA1n.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts117">
+    <display-name>Food Food</display-name>
+    <icon src="https://i.ibb.co/99qwt8hS/Food-Food.png" />
+    <icon src="https://iili.io/KGFsYYv.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts136">
+    <display-name lang="en">GOOD TiMES</display-name>
+    <icon src="https://i.ibb.co/chpXRhwF/GOOD-Ti-MES.png" />
+    <icon src="https://iili.io/KGFZJhN.png" />
+    <url>https://www.jiotv.com</url>
   </channel>
   <channel id="Utsav.Plus">
     <display-name lang="en">Utsav Plus</display-name>
@@ -1194,18 +1254,6 @@
     <icon src="https://iili.io/K1gUCPI.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
-  <channel id="Sony.Yay!">
-    <display-name lang="en">Sony Yay!</display-name>
-    <icon src="https://i.ibb.co/S4wVw8SY/Sony-YAY.png" />
-    <icon src="https://iili.io/K1ggg29.png" />
-    <url>https://www.sonypicturesnetworks.com</url>
-  </channel>
-  <channel id="Sony.Yay">
-    <display-name lang="en">Sony Yay</display-name>
-    <icon src="https://i.ibb.co/S4wVw8SY/Sony-YAY.png" />
-    <icon src="https://iili.io/K1ggg29.png" />
-    <url>https://www.sonypicturesnetworks.com</url>
-  </channel>
   <channel id="Sony.Marathi">
     <display-name lang="en">Sony Marathi</display-name>
     <icon src="https://i.ibb.co/d0HJqrhP/Sony-Marathi.png" />
@@ -1352,8 +1400,8 @@
   </channel>
   <channel id="Trace.Urban">
     <display-name lang="en">Trace Urban</display-name>
-    <icon src="https://i.ibb.co/84mfFDKT/Trace-Urban.png" />
-    <icon src="https://i.ibb.co/84mfFDKT/Trace-Urban.png" />
+    <icon src="https://i.ibb.co/SDPrfq9G/Trace-Urban.png" />
+    <icon src="https://iili.io/KGqzdOb.png" />
     <url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
   </channel>
   <channel id="Disney.Channel.in">
@@ -1368,11 +1416,29 @@
     <icon src="https://i.ibb.co/FbCyYQtK/Disney-Chaneel-HD.png" />
     <url>https://hotstar.com/</url>
   </channel>
+  <channel id="ts345">
+    <display-name lang="en">Hungama</display-name>
+    <icon src="https://i.ibb.co/5WnQDyLv/Hungama.png" />
+    <icon src="https://iili.io/KGJ8uzQ.png" />
+    <url>https://jiotv.com/</url>
+  </channel>
+  <channel id="ts587">
+    <display-name lang="en">Super Hungama</display-name>
+    <icon src="https://i.ibb.co/gF43KB8f/Super-Hungama.png" />
+    <icon src="https://iili.io/KGJrd37.png" />
+    <url>https://jiotv.com/</url>
+  </channel>
+  <channel id="ts238">
+    <display-name lang="en">Cartoon Network</display-name>
+    <icon src="https://i.ibb.co/206kRc1F/Cartoon-Network.png" />
+    <icon src="https://iili.io/KGJ5T6F.png" />
+    <url>https://jiotv.com/</url>
+  </channel>
   <channel id="ts681">
     <display-name lang="en">Cartoon Network HD+</display-name>
-    <icon src="https://i.ibb.co/200w3GK4/Cartoon-Network-HD.png" />
-    <icon src="https://i.ibb.co/200w3GK4/Cartoon-Network-HD.png" />
-    <url>https://hotstar.com/</url>
+    <icon src="https://i.ibb.co/hxcLJNp3/Cartoon-Network-HD.png" />
+    <icon src="https://iili.io/KGJ1OJt.png" />
+    <url>https://jiotv.com/</url>
   </channel>
   <channel id="ts550">
     <display-name lang="en">Star Plus</display-name>
@@ -1512,10 +1578,16 @@
     <icon src="https://iili.io/KEmfbFn.png" />
     <url>https://www.sunnxt.com/live</url>
   </channel>
-  <channel id="Gemini.Music.HD">
+  <channel id="898">
     <display-name lang="en">Gemini Music HD</display-name>
-    <icon src="https://i.ibb.co/xtYv9z0w/Gemini-Music-HD.png" />
-    <icon src="https://i.ibb.co/xtYv9z0w/Gemini-Music-HD.png" />
+    <icon src="https://i.ibb.co/W44YfPhw/Gemini-Music.png" />
+    <icon src="https://iili.io/KGBFQ94.png" />
+    <url>https://www.sunnxt.com/live</url>
+  </channel>
+  <channel id="ts360">
+    <display-name lang="en">Gemini Comedy</display-name>
+    <icon src="https://i.ibb.co/N6gKVsMV/Gemini-Comedy.png" />
+    <icon src="https://iili.io/KGBHgO7.png" />
     <url>https://www.sunnxt.com/live</url>
   </channel>
   <channel id="Pasand">
@@ -1883,5 +1955,113 @@
      <icon src="https://i.ibb.co/nMSX4zXK/ETV-Cinema-HD.png" />
      <icon src="https://iili.io/KEmrAfn.png" />
      <url>https://www.etvwin.com/</url>
+   </channel>
+   <channel id="ts103">
+    <display-name lang="en">MTV</display-name>
+    <icon src="https://i.ibb.co/Gf2BjvFc/MTV.png" />
+    <icon src="https://iili.io/KGKFnff.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="ts406">
+    <display-name lang="en">MTV HD</display-name>
+    <icon src="https://i.ibb.co/9mFRcQNx/MTV-HD.png" />
+    <icon src="https://iili.io/KGKqEJ4.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="ts139">
+    <display-name lang="en">9XM</display-name>
+    <icon src="https://i.ibb.co/Q3TmfRRN/9XM.png" />
+    <icon src="https://iili.io/KGKAWa1.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="440">
+    <display-name lang="en">9X Jalwa</display-name>
+    <icon src="https://i.ibb.co/cKkRYmmv/9X-Jalwa.png" />
+    <icon src="https://iili.io/KGK1j9V.png" />
+    <url>https://www.jiotv.com/</url>
+  </channel>
+  <channel id="ts733">
+    <display-name lang="en">Showbox</display-name>
+    <icon src="https://i.ibb.co/whd50qgz/Showbox.png" />
+    <icon src="https://iili.io/KGKSWLG.png" />
+    <url>https://www.showbox.in</url>
+   </channel>
+   <channel id="ts17">
+    <display-name lang="en">Mastiii</display-name>
+    <icon src="https://i.ibb.co/sdXJByT3/Mastiii.png" />
+    <icon src="https://iili.io/KGKgm0v.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="ts224">
+    <display-name lang="en">E24</display-name>
+    <icon src="https://i.ibb.co/kVtDGHy6/E24.png" />
+    <icon src="https://iili.io/KGK6jJR.png" />
+    <url>https://www.jiotv.com</url>
+  </channel>
+  <channel id="250">
+     <display-name lang="en">Music India</display-name>
+     <icon src="https://i.ibb.co/0RbD4NTz/Music-India.png" />
+     <icon src="https://iili.io/KGKtAhl.png" />
+     <url>https://www.musicindia.in</url>
+   </channel>
+   <channel id="2065">
+    <display-name lang="en">Saregama Music</display-name>
+    <icon src="https://i.ibb.co/20NCwHc4/Saregama-Music.png" />
+    <icon src="https://iili.io/KGKpWHF.png" />
+    <url>https://www.saregama.com</url>
+  </channel>
+  <channel id="903">
+     <display-name lang="en">Only Music</display-name>
+     <icon src="https://i.ibb.co/mV0nVV5Q/Only-Music.png" />
+     <icon src="https://iili.io/KGfDJg1.png" />
+     <url>https://www.onlymusic.in</url>
+   </channel>
+   <channel id="ts1512">
+     <display-name lang="en">YRF Music</display-name>
+     <icon src="https://i.ibb.co/jkqqvWST/YRF-Music.png" />
+     <icon src="https://iili.io/KGfm0J9.png" />
+     <url>https://www.yrfmusic.in</url>
+   </channel>
+   <channel id="ts96">
+    <display-name lang="en">Zoom</display-name>
+    <icon src="https://i.ibb.co/mF2Yj1NZ/Zoom.png" />
+    <icon src="https://iili.io/KGqqHJf.png" />
+    <url>https://www.zoom.com</url>
+  </channel>
+  <channel id="441">
+    <display-name lang="en">9X Jhakaas</display-name>
+    <icon src="https://i.ibb.co/C3sHBLbn/9-X-Jhakaas.png" />
+    <icon src="https://iili.io/KGqaBqb.png" />
+    <url>https://www.9xjhakaas.in</url>
+  </channel>
+  <channel id="ts1509">
+    <display-name lang="en">Maiboli</display-name>
+    <icon src="https://i.ibb.co/C3QcD7wS/Maiboli.png" />
+    <icon src="https://iili.io/KGqgFS4.png" />
+    <url>https://www.maiboli.in</url>
+   </channel>
+   <channel id="ts217">
+    <display-name lang="en">Sangeet Marathi</display-name>
+    <icon src="https://i.ibb.co/d0y1pYFy/Sangeet-Marathi.png" />
+    <icon src="https://iili.io/KGqtLyg.png" />
+    <url>https://www.jiotv.com</url>
+   </channel>
+  <channel id="142504">
+    <display-name lang="en">9X Tashan</display-name>
+    <icon src="https://i.ibb.co/XxfLZNy6/9-X-Tashan.png" />
+    <icon src="https://iili.io/KGqMSln.png" />
+    <url>https://www.9xtashan.in</url>
+  </channel>
+  <channel id="ts1503">
+    <display-name lang="en">Balle Balle</display-name>
+    <icon src="https://i.ibb.co/Vc8Hr98q/Balle-Balle.png" />
+    <icon src="https://iili.io/KGqejOF.png" />
+    <url>https://www.balleballe.in</url>
+  </channel>
+   <channel id="brit.asia.tv">
+     <display-name lang="en">Brit Asia TV</display-name>
+     <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
+     <icon src="https://i.ibb.co/wNdmtf5M/nDJ7iaT.png" />
+     <url>https://www.britasiatv.in</url>
    </channel>
 </tv>
