@@ -282,6 +282,12 @@
      <icon src="https://iili.io/KEp9BJp.png" />
      <url>https://www.tataplay.com/</url>
    </channel>
+   <channel id="ts1489">
+     <display-name lang="en">Tata Play Fancode Sports</display-name>
+     <icon src="https://i.ibb.co/gbVtdGzZ/Tata-Play-Fancode-Sports.png" />
+     <icon src="https://iili.io/KGrhXzQ.png" />
+     <url>https://www.tataplay.com/</url>
+   </channel>
    <channel id="sony.kal">
      <display-name lang="en">Sony Kal</display-name>
      <icon src="https://i.ibb.co/yBgWjTVS/Sony-KAL.png" />
@@ -348,109 +354,133 @@
     <icon src="https://iili.io/KEuxXOG.png" />
     <url>https://www.themovieclub.in</url>
   </channel>
-  <channel id="Star.Sports.1">
+  <channel id="ts600">
     <display-name lang="en">Star Sports 1</display-name>
     <icon src="https://i.ibb.co/Fkqpkb7B/Star-Sports-1.png" />
     <icon src="https://iili.io/KEy5gqu.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.1.HD">
+  <channel id="ts78">
     <display-name lang="en">Star Sports 1 HD</display-name>
     <icon src="https://i.ibb.co/yFmNtkFx/Star-Sports-1-HD.png" />
     <icon src="https://iili.io/KGGeGOx.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.1.Hindi">
+  <channel id="ts601">
     <display-name lang="en">Star Sports 1 Hindi</display-name>
     <icon src="https://i.ibb.co/8g47SfJ9/Star-Sports-1-Hindi.png" />
     <icon src="https://iili.io/KGGkZ41.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.1.Hindi.HD">
+  <channel id="ts24">
     <display-name lang="en">Star Sports 1 Hindi HD</display-name>
     <icon src="https://i.ibb.co/846XbmsW/Star-Sports-1-Hindi-HD.png" />
     <icon src="https://iili.io/KGG8tea.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.2">
+  <channel id="ts609">
     <display-name lang="en">Star Sports 2</display-name>
     <icon src="https://i.ibb.co/jP25qNR2/Star-Sports-2.png" />
     <icon src="https://iili.io/KEycWj2.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.2.HD">
+  <channel id="ts235">
     <display-name lang="en">Star Sports 2 HD</display-name>
     <icon src="https://i.ibb.co/Vr4qXjj/Star-Sports-2-HD.png" />
     <icon src="https://iili.io/KGGguDb.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="star.sports.2.hindi">
+  <channel id="ts980">
     <display-name lang="en">Star Sports 2 Hindi</display-name>
     <icon src="https://i.ibb.co/vxJ79kRx/Star-Sports-2-Hindi.png" />
     <icon src="https://iili.io/KG1Vp7S.png" />
     <url>https://www.starsports.in</url>
   </channel>
-  <channel id="star.sports.2.hindi.hd">
+  <channel id="ts1033">
     <display-name lang="en">Star Sports 2 Hindi HD</display-name>
     <icon src="https://i.ibb.co/n4tT5fN/Star-Sports-2-Hindi-HD.png" />
     <icon src="https://iili.io/KG1hRJp.png" />
     <url>https://www.starsports.in</url>
   </channel>
-  <channel id="Star.Sports.3">
+  <channel id="ts664">
     <display-name lang="en">Star Sports 3</display-name>
     <icon src="https://i.ibb.co/XxwXZnNL/Star-Sports-3.png" />
     <icon src="https://iili.io/KG1wWD7.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.Select.1">
+  <channel id="ts141">
     <display-name lang="en">Star Sports Select 1</display-name>
     <icon src="https://i.ibb.co/21jshQth/Star-Sports-Select-1.png" />
     <icon src="https://iili.io/KGM9u3X.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.Select.1.HD">
+  <channel id="ts246">
     <display-name lang="en">Star Sports Select 1 HD</display-name>
     <icon src="https://i.ibb.co/99KtFHMv/Star-Sports-Select-1-HD.png" />
     <icon src="https://iili.io/KGMHhlt.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.Select.2">
+  <channel id="ts603">
     <display-name lang="en">Star Sports Select 2</display-name>
     <icon src="https://i.ibb.co/WN9qVq4R/Star-Sports-Select-2.png" />
     <icon src="https://iili.io/KGMdbcP.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.Select.2.HD">
+  <channel id="ts463">
     <display-name lang="en">Star Sports Select 2 HD</display-name>
     <icon src="https://i.ibb.co/V0pKtfhL/Star-Sports-Select-2-HD.png" />
     <icon src="https://iili.io/KGM3n1V.png" />
     <url>https://hotstar.com/</url>
   </channel>
-  <channel id="Star.Sports.Khel">
+  <channel id="ts1494">
     <display-name lang="en">Star Sports Khel</display-name>
     <icon src="https://i.ibb.co/99t31tkG/Star-Sports-Khel.png" />
     <icon src="https://iili.io/KG1OQup.png" />
     <url>https://www.starsports.in</url>
   </channel>
-  <channel id="star.sports.2.telugu">
+  <channel id="ts77">
+    <display-name lang="en">Star Sports 1 Tamil</display-name>
+    <icon src="https://i.ibb.co/MydFLcQm/Star-Sports-1-Tamil.png" />
+    <icon src="https://iili.io/KGgzSKF.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts1067">
+    <display-name lang="en">Star Sports 1 Tamil HD</display-name>
+    <icon src="https://i.ibb.co/VYvnK9RG/Star-Sports-1-Tamil-HD.png" />
+    <icon src="https://iili.io/KGUrudN.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts688">
+    <display-name lang="en">Star Sports 1 Telugu</display-name>
+    <icon src="https://i.ibb.co/n8BNW0KY/Star-Sports-1-Telugu.png" />
+    <icon src="https://iili.io/KGg5K8X.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts1068">
+    <display-name lang="en">Star Sports 1 Telugu HD</display-name>
+    <icon src="https://i.ibb.co/qL01jT7Z/Star-Sports-1-Telugu-HD.png" />
+    <icon src="https://iili.io/KGUZWzB.png" />
+    <url>https://hotstar.com/</url>
+  </channel>
+  <channel id="ts1186">
     <display-name lang="en">Star Sports 2 Telugu</display-name>
     <icon src="https://i.ibb.co/BHHMpHxP/Star-Sports-2-Telugu.png" />
     <icon src="https://iili.io/KG1rqes.png" />
     <url>https://www.starsports.in</url>
   </channel>
-  <channel id="star.sports.2.telugu.hd">
+  <channel id="ts1496">
     <display-name lang="en">Star Sports 2 Telugu HD</display-name>
     <icon src="https://i.ibb.co/6RLzN3zn/Star-Sports-2-Telugu-HD.png" />
     <icon src="https://iili.io/KGEoVzF.png" />
     <url>https://www.starsports.in</url>
   </channel>
-  <channel id="star.sports.2.tamil">
+  <channel id="ts1187">
     <display-name lang="en">Star Sports 2 Tamil</display-name>
     <icon src="https://i.ibb.co/whjtsZyt/Star-Sports-2-Tamil.png" />
     <icon src="https://iili.io/KG1iPl2.png" />
     <url>https://www.starsports.in</url>
   </channel>
-  <channel id="star.sports.2.tamil.hd">
+  <channel id="ts1495">
     <display-name lang="en">Star Sports 2 Tamil HD</display-name>
     <icon src="https://i.ibb.co/tp43k8G7/Star-Sports-2-Tamil-HD.png" />
     <icon src="https://iili.io/KGEzq8l.png" />
@@ -1232,14 +1262,14 @@
   </channel>
   <channel id="Sony.BBC.Earth">
     <display-name lang="en">Sony BBC Earth</display-name>
-    <icon src="https://i.ibb.co/zVhJPbFG/Sony-BBC-Earth.png" />
-    <icon src="https://i.ibb.co/zVhJPbFG/Sony-BBC-Earth.png" />
+    <icon src="https://i.ibb.co/BVrJZFC3/Sony-BBC-Earth.png" />
+    <icon src="https://iili.io/KGrgCSp.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.BBC.Earth.HD">
     <display-name lang="en">Sony BBC Earth HD</display-name>
-    <icon src="https://i.ibb.co/MDrfFBGS/Sony-BBC-Earth-HD.png" />
-    <icon src="https://i.ibb.co/MDrfFBGS/Sony-BBC-Earth-HD.png" />
+    <icon src="https://i.ibb.co/Y71rNmHf/Sony-BBC-Earth-HD.png" />
+    <icon src="https://iili.io/KGrrbyB.png" />
     <url>https://www.sonypicturesnetworks.com</url>
   </channel>
   <channel id="Sony.Pal">
@@ -1808,8 +1838,8 @@
   </channel>
   <channel id="24/7 Hindi Movies">
     <display-name lang="en">24/7 Hindi Movies</display-name>
-    <icon src="https://i.ibb.co/gFfTzPvG/24-7-Hindi-Movies-White.png" />
-    <icon src="https://i.ibb.co/gFfTzPvG/24-7-Hindi-Movies-White.png" />
+    <icon src="https://i.ibb.co/r2nq9pXL/24-7-Hindi-Movies.png" />
+    <icon src="https://iili.io/KGWtasI.png" />
     <url>https://www.tplay.live</url>
   </channel>
   <channel id="Manoranjan.Prime.in">
