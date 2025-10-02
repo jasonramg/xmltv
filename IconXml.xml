@@ -2076,6 +2076,24 @@
 		<icon src="https://iili.io/KEbnShQ.png"/>
 		<url>https://content.astro.com.my</url>
 	</channel>
+	<channel id="Deluxe.Music">
+		<display-name lang="en">Deluxe Music</display-name>
+		<icon src="https://i.ibb.co/Jg2cK3j/Deluxe-Music.png"/>
+		<icon src="https://iili.io/KVqa7yv.png"/>
+		<url>https://deluxemusic.de/</url>
+	</channel>
+	<channel id="MTV.Hits">
+		<display-name lang="en">MTV Hits</display-name>
+		<icon src="https://i.ibb.co/C3764VKw/MTV-Hits.png"/>
+		<icon src="https://iili.io/KVB1VCQ.png"/>
+		<url>https://izzigo.tv</url>
+	</channel>
+	<channel id="Club.MTV">
+		<display-name lang="en">Club MTV</display-name>
+		<icon src="https://i.ibb.co/CKK1MCgL/Club-MTV.png"/>
+		<icon src="https://iili.io/KVBlKtR.png"/>
+		<url>https://izzigo.tv</url>
+	</channel>
 	<channel id="ts139">
 		<display-name lang="en">9XM</display-name>
 		<icon src="https://i.ibb.co/Q3TmfRRN/9XM.png"/>
