@@ -198,7 +198,13 @@
 		<icon src="https://iili.io/KEIJUSS.png"/>
 		<url>https://www.Goldmines.com</url>
 	</channel>
-	<channel id="AXN.HD">
+	<channel id="701.astro">
+		<display-name lang="en">AXN</display-name>
+		<icon src="https://i.ibb.co/20Mmzt7D/AXN.png"/>
+		<icon src="https://iili.io/K16Q8uV.png"/>
+		<url>https://www.axn.com</url>
+	</channel>
+	<channel id="701.astro">
 		<display-name lang="en">AXN HD</display-name>
 		<icon src="https://i.ibb.co/20Mmzt7D/AXN.png"/>
 		<icon src="https://iili.io/K16Q8uV.png"/>
@@ -690,6 +696,18 @@
 		<icon src="https://iili.io/KMdtgxs.png"/>
 		<url>https://www.fancode.com</url>
 	</channel>
+	<channel id="Fancode.1">
+		<display-name lang="en">Fancode 1</display-name>
+		<icon src="https://i.ibb.co/9xyD0VN/Fancode.png"/>
+		<icon src="https://iili.io/KMdtgxs.png"/>
+		<url>https://www.fancode.com</url>
+	</channel>
+	<channel id="Fancode.2">
+		<display-name lang="en">Fancode 2</display-name>
+		<icon src="https://i.ibb.co/9xyD0VN/Fancode.png"/>
+		<icon src="https://iili.io/KMdtgxs.png"/>
+		<url>https://www.fancode.com</url>
+	</channel>
 	<channel id="142913">
 		<display-name>KOREAN DRAMA ACTIVE</display-name>
 		<icon src="https://i.ibb.co/dsCVPJWv/Korean-Drama-Active.png"/>
@@ -936,10 +954,16 @@
 		<icon src="https://i.ibb.co/gZ7xw82J/ttbJ67u.png"/>
 		<url>https://www.Bflix.com</url>
 	</channel>
+	<channel id="Zee.Bollymovies">
+		<display-name lang="en">Zee Bollymovies</display-name>
+		<icon src="https://i.ibb.co/vC7tbt6T/Zee-Bollymovies.png"/>
+		<icon src="https://iili.io/KVQliqx.png"/>
+		<url>https://www.zeebollymovies.zeeafrica.tv</url>
+	</channel>
 	<channel id="Zee.Bolly.Movies">
 		<display-name lang="en">Zee Bolly Movies</display-name>
-		<icon src="https://i.ibb.co/j9bq8Zjt/vcrkDhm.png"/>
-		<icon src="https://i.ibb.co/j9bq8Zjt/vcrkDhm.png"/>
+		<icon src="https://i.ibb.co/vC7tbt6T/Zee-Bollymovies.png"/>
+		<icon src="https://iili.io/KVQliqx.png"/>
 		<url>https://www.zeebollymovies.zeeafrica.tv</url>
 	</channel>
 	<channel id="Zee.One">
@@ -956,8 +980,8 @@
 	</channel>
 	<channel id="HBO.Signature">
 		<display-name lang="en">HBO Signature</display-name>
-		<icon src="https://i.ibb.co/JW2Td57g/HBO-Signature.png"/>
-		<icon src="https://i.ibb.co/JW2Td57g/HBO-Signature.png"/>
+		<icon src="https://i.ibb.co/fdHf4VZk/HBO-Signature.png"/>
+		<icon src="https://iili.io/KVQdpee.png"/>
 		<url>https://www.hbo.com</url>
 	</channel>
 	<channel id="Sony.Movies">
@@ -1170,11 +1194,35 @@
 		<icon src="https://iili.io/KEyxoCv.png"/>
 		<url>https://content.astro.com.my</url>
 	</channel>
+	<channel id="550.astro">
+		<display-name lang="en">Love Nature</display-name>
+		<icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png"/>
+		<icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png"/>
+		<url>https://www.astro.my/</url>
+	</channel>
+	<channel id="549.astro">
+		<display-name lang="en">Love Nature 4K</display-name>
+		<icon src="https://i.ibb.co/dsnG5dHk/Love-Nature-4-K.png"/>
+		<icon src="https://i.ibb.co/dsnG5dHk/Love-Nature-4-K.png"/>
+		<url>https://www.astro.my/</url>
+	</channel>
+	<channel id="554.astro">
+		<display-name lang="en">BBC Earth</display-name>
+		<icon src="https://i.ibb.co/KjJQR4fG/BBC-Earth.png"/>
+		<icon src="https://iili.io/KVLbzyx.png"/>
+		<url>https://www.astro.my/</url>
+	</channel>
 	<channel id="717.astro">
 		<display-name lang="en">BBC Lifestyle</display-name>
 		<icon src="https://i.ibb.co/7xF302DF/BBC-Lifestyle.png"/>
 		<icon src="https://i.ibb.co/7xF302DF/BBC-Lifestyle.png"/>
 		<url>https://content.astro.com.my</url>
+	</channel>
+	<channel id="Discovery.Channel.SD">
+		<display-name lang="en">Discovery Channel SD</display-name>
+		<icon src="https://i.ibb.co/3yDVBG7z/Discovery-Channel.png"/>
+		<icon src="https://i.ibb.co/3yDVBG7z/Discovery-Channel.png"/>
+		<url>https://www.discovery.com</url>
 	</channel>
 	<channel id="TeluguOne.TV">
 		<display-name lang="en">TeluguOne TV</display-name>
@@ -1946,57 +1994,45 @@
 	</channel>
 	<channel id="Sony.One.Action.Hits">
 		<display-name lang="en">Sony One Action Hits</display-name>
-		<icon src="https://i.ibb.co/cB5x6hp/Sony-One-Action-Hits.png"/>
-		<icon src="https://i.ibb.co/cB5x6hp/Sony-One-Action-Hits.png"/>
+		<icon src="https://i.ibb.co/7x51DcCy/Sony-One-Action-Hits.png"/>
+		<icon src="https://iili.io/KVZHIMQ.png"/>
 		<url>https://www.sonypictures.com/</url>
 	</channel>
 	<channel id="Sony.One.Comedy.Hits">
 		<display-name lang="en">Sony One Comedy Hits</display-name>
-		<icon src="https://i.ibb.co/bMrd8bVQ/Sony-One-Comedy-Hits.png"/>
-		<icon src="https://i.ibb.co/bMrd8bVQ/Sony-One-Comedy-Hits.png"/>
+		<icon src="https://i.ibb.co/rRZKMtxy/Sony-One-Comedy-Hits.png"/>
+		<icon src="https://iili.io/KVZdm91.png"/>
 		<url>https://www.sonypictures.com/</url>
 	</channel>
 	<channel id="Sony.One.Thriller.TV">
 		<display-name lang="en">Sony One Thriller TV</display-name>
-		<icon src="https://i.ibb.co/JjrXm5qT/Sony-One-Thriller-TV.png"/>
-		<icon src="https://i.ibb.co/JjrXm5qT/Sony-One-Thriller-TV.png"/>
+		<icon src="https://i.ibb.co/m5x7Jm1s/Sony-One-Thriller-TV.png"/>
+		<icon src="https://iili.io/KVZFVyP.png"/>
 		<url>https://www.sonypictures.com/</url>
 	</channel>
 	<channel id="Sony.One.Comedy.TV">
 		<display-name lang="en">Sony One Comedy TV</display-name>
-		<icon src="https://i.ibb.co/dsV8td8f/Sony-One-Comedy-TV.png"/>
-		<icon src="https://i.ibb.co/dsV8td8f/Sony-One-Comedy-TV.png"/>
+		<icon src="https://i.ibb.co/9k9gtz3V/Sony-One-Comedy-TV.png"/>
+		<icon src="https://iili.io/KVZqZKJ.png"/>
 		<url>https://www.sonypictures.com/</url>
 	</channel>
 	<channel id="Sony.One.Faves">
 		<display-name lang="en">Sony One Faves</display-name>
-		<icon src="https://i.ibb.co/mCWzJY5Z/Sony-One-Faves.png"/>
-		<icon src="https://i.ibb.co/mCWzJY5Z/Sony-One-Faves.png"/>
+		<icon src="https://i.ibb.co/N20FNr7n/Sony-One-Faves.png"/>
+		<icon src="https://iili.io/KVZooDN.png"/>
 		<url>https://www.sonypictures.com/</url>
 	</channel>
 	<channel id="Miramax.Movie.Channel">
 		<display-name lang="en">Miramax Movie Channel</display-name>
-		<icon src="https://i.ibb.co/CKFzjbs7/Miramax-Movie-Channel.png"/>
-		<icon src="https://i.ibb.co/CKFzjbs7/Miramax-Movie-Channel.png"/>
+		<icon src="https://i.ibb.co/SXGfM7S6/Miramax-Movie-Channel.png"/>
+		<icon src="https://iili.io/KVZ1neI.png"/>
 		<url>https://www.miramax.com/</url>
 	</channel>
 	<channel id="TOLLY.TV">
 		<display-name lang="en">Tolly TV</display-name>
-		<icon src="https://i.ibb.co/jvZZ1mLV/TOLLY-TV.png"/>
-		<icon src="https://i.ibb.co/jvZZ1mLV/TOLLY-TV.png"/>
+		<icon src="https://i.ibb.co/rKWtCK2k/Tolly-TV.png"/>
+		<icon src="https://iili.io/KVLPQff.png"/>
 		<url>https://www.yupptv.com/channels/tolly-tv/</url>
-	</channel>
-	<channel id="550.astro">
-		<display-name lang="en">Love Nature</display-name>
-		<icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png"/>
-		<icon src="https://i.ibb.co/1GV5x5ZL/Love-Nature.png"/>
-		<url>https://www.astro.my/</url>
-	</channel>
-	<channel id="549.astro">
-		<display-name lang="en">Love Nature 4K</display-name>
-		<icon src="https://i.ibb.co/dsnG5dHk/Love-Nature-4-K.png"/>
-		<icon src="https://i.ibb.co/dsnG5dHk/Love-Nature-4-K.png"/>
-		<url>https://www.astro.my/</url>
 	</channel>
 	<channel id="Zee.Dil.Se">
 		<display-name lang="en">Zee Dil Se</display-name>
@@ -2086,6 +2122,12 @@
 		<display-name lang="en">CARTOON NTWK HD</display-name>
 		<icon src="https://i.ibb.co/206kRc1F/Cartoon-Network.png"/>
 		<icon src="https://iili.io/KGJ5T6F.png"/>
+		<url>https://content.astro.com.my</url>
+	</channel>
+	<channel id="616.astro">
+		<display-name lang="en">Nickelodeon SD</display-name>
+		<icon src="https://i.ibb.co/nqVKSjGv/Nickelodeon.png"/>
+		<icon src="https://iili.io/KMdsF4I.png"/>
 		<url>https://content.astro.com.my</url>
 	</channel>
 	<channel id="616.astro">
