@@ -14,14 +14,14 @@
 	</channel>
 	<channel id="fox.sports.501">
 		<display-name lang="en">Fox Sports 501</display-name>
-		<icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png"/>
-		<icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png"/>
+		<icon src="https://i.ibb.co/wZZqvvtx/Fox-Cricket.png"/>
+		<icon src="https://iili.io/KW2ST37.png"/>
 		<url>https://www.foxsports.com</url>
 	</channel>
 	<channel id="FOX Cricket FS1.au">
 		<display-name lang="en">Fox Cricket</display-name>
-		<icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png"/>
-		<icon src="https://i.ibb.co/YTkbf6wQ/WxQEQ6G.png"/>
+		<icon src="https://i.ibb.co/wZZqvvtx/Fox-Cricket.png"/>
+		<icon src="https://iili.io/KW2ST37.png"/>
 		<url>https://www.foxsports.com</url>
 	</channel>
 	<channel id="willow.hd">
@@ -212,6 +212,12 @@
 	</channel>
 	<channel id="Warner.TV">
 		<display-name lang="en">Warner TV</display-name>
+		<icon src="https://i.ibb.co/Rkgd6BXd/Warner-TV.png"/>
+		<icon src="https://iili.io/KG1cOFt.png"/>
+		<url>https://www.warnertv.com</url>
+	</channel>
+	<channel id="Warner.TV.MX">
+		<display-name lang="en">Warner TV MX</display-name>
 		<icon src="https://i.ibb.co/Rkgd6BXd/Warner-TV.png"/>
 		<icon src="https://iili.io/KG1cOFt.png"/>
 		<url>https://www.warnertv.com</url>
@@ -734,8 +740,20 @@
 	</channel>
 	<channel id="Sky.Sports.Cricket">
 		<display-name lang="en">Sky Sports Cricket</display-name>
-		<icon src="https://i.ibb.co/LDRPgdD2/rlUGrkA.png"/>
-		<icon src="https://i.ibb.co/LDRPgdD2/rlUGrkA.png"/>
+		<icon src="https://i.ibb.co/WWvqQRVL/Sky-Sports-Cricket.png"/>
+		<icon src="https://iili.io/KW3YSHX.png"/>
+		<url>https://www.skysports.com</url>
+	</channel>
+	<channel id="Sky.Sports.Main.Event">
+		<display-name lang="en">Sky Sports Main Event</display-name>
+		<icon src="https://i.ibb.co/zHGTvMFK/Sky-Sports-Main-Event.png"/>
+		<icon src="https://iili.io/KW3EKN9.png"/>
+		<url>https://www.skysports.com</url>
+	</channel>
+	<channel id="Sky.Sports.Main.Event.UHD">
+		<display-name lang="en">Sky Sports Main Event UHD</display-name>
+		<icon src="https://i.ibb.co/HfyKTpmS/Sky-Sports-Main-Event-UHD.png"/>
+		<icon src="https://iili.io/KW3VZgf.png"/>
 		<url>https://www.skysports.com</url>
 	</channel>
 	<channel id="Cricket.Blockbusters.24x7">
@@ -2261,5 +2279,89 @@
 		<icon src="https://i.ibb.co/PZrvh6Gs/Brit-Asia-TV.png"/>
 		<icon src="https://iili.io/KGVaJBR.png"/>
 		<url>https://www.britasiatv.in</url>
+	</channel>
+	<channel id="James.Bond.007!.us2">
+		<display-name lang="en">James Bond 007!</display-name>
+		<icon src="https://i.ibb.co/Y7j4Wzk7/James-Bond-007.png"/>
+		<icon src="https://iili.io/KWY990Q.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="ActionMAX.HD.us2">
+		<display-name lang="en">ActionMAX HD</display-name>
+		<icon src="https://i.ibb.co/RGCNR2mM/Action-Max.png"/>
+		<icon src="https://iili.io/KWYFMkQ.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="MoreMax.HD.us2">
+		<display-name lang="en">MoreMax HD</display-name>
+		<icon src="https://i.ibb.co/234jxvT0/MoreMax.png"/>
+		<icon src="https://iili.io/KWYfgst.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Cinemax.HD.(Pacific).us2">
+		<display-name lang="en">MoreMax HD</display-name>
+		<icon src="https://i.ibb.co/1YtF8sxv/Cinemax.png"/>
+		<icon src="https://iili.io/KWYn7hQ.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="5.StarMAX.HD.East.us2">
+		<display-name lang="en">MoreMax HD</display-name>
+		<icon src="https://i.ibb.co/Vc71C479/5StarMax.png"/>
+		<icon src="https://iili.io/KWYzZFI.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="HBO.East.us2">
+		<display-name lang="en">HBO East</display-name>
+		<icon src="https://i.ibb.co/JFgn4VC0/HBO-East.png"/>
+		<icon src="https://iili.io/KWYR1et.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="HBO.Zone.HD.us2">
+		<display-name lang="en">HBO Zone HD</display-name>
+		<icon src="https://i.ibb.co/RkhNMw9x/HBO-Zone.png"/>
+		<icon src="https://iili.io/KWYaBZF.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="HBO.Comedy.HD.us2">
+		<display-name lang="en">HBO Comedy HD</display-name>
+		<icon src="https://i.ibb.co/svrTdvvg/HBO-Comedy-HD.png"/>
+		<icon src="https://iili.io/KWYl1kl.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="HBO.West.us2">
+		<display-name lang="en">HBO West</display-name>
+		<icon src="https://i.ibb.co/JFgn4VC0/HBO-East.png"/>
+		<icon src="https://iili.io/KWYR1et.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="HBO2.HD.us2">
+		<display-name lang="en">HBO2 HD</display-name>
+		<icon src="https://i.ibb.co/WvfzfR2g/HBO-2-HD.png"/>
+		<icon src="https://iili.io/KWYG38J.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="HBO.Signature.HD.us2">
+		<display-name lang="en">HBO Signature HD</display-name>
+		<icon src="https://i.ibb.co/fzvQ6T5S/HBO-Signature-HD.png"/>
+		<icon src="https://iili.io/KWYX6dX.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.HD.us2">
+		<display-name lang="en">Starz HD</display-name>
+		<icon src="https://i.ibb.co/sLdn2cH/Starz-HD.png"/>
+		<icon src="https://iili.io/KWYgBdx.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.in.Black.HD.us2">
+		<display-name lang="en">Starz in Black HD</display-name>
+		<icon src="https://i.ibb.co/ksZ6Xkhk/Starz-in-Black.png"/>
+		<icon src="https://iili.io/KWY6JzN.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.HD.(Pacific).us2">
+		<display-name lang="en">Starz HD (Pacific)</display-name>
+		<icon src="https://i.ibb.co/sLdn2cH/Starz-HD.png"/>
+		<icon src="https://iili.io/KWYgBdx.png"/>
+		<url>https://www.amazonusa.com</url>
 	</channel>
 </tv>
