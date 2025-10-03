@@ -90,24 +90,6 @@
 		<icon src="https://iili.io/KMdamOl.png"/>
 		<url>https://www.astro.au</url>
 	</channel>
-	<channel id="zee.chitramandir">
-		<display-name lang="en">Zee Chitramandir</display-name>
-		<icon src="https://i.ibb.co/Rpzg20dB/Zee-Chitramandir.png"/>
-		<icon src="https://i.ibb.co/Rpzg20dB/Zee-Chitramandir.png"/>
-		<url>https://www.zee5.com</url>
-	</channel>
-	<channel id="zee.Yuva.in">
-		<display-name lang="en">Zee Yuva</display-name>
-		<icon src="https://i.ibb.co/B5Th8frk/Zee-Yuva.png"/>
-		<icon src="https://i.ibb.co/B5Th8frk/Zee-Yuva.png"/>
-		<url>https://www.zee5.com</url>
-	</channel>
-	<channel id="zee.Zest.HD.in">
-		<display-name lang="en">Zee Zest HD</display-name>
-		<icon src="https://i.ibb.co/LDCSdBPr/Zee-Zest-HD.png"/>
-		<icon src="https://i.ibb.co/LDCSdBPr/Zee-Zest-HD.png"/>
-		<url>https://www.zee5.com</url>
-	</channel>
 	<channel id="MBC.Bollywood">
 		<display-name lang="en">MBC Bollywood</display-name>
 		<icon src="https://i.ibb.co/bMCq97Gc/MBC-Bollywood-HD.png"/>
@@ -486,6 +468,18 @@
 		<icon src="https://iili.io/KGEzq8l.png"/>
 		<url>https://www.starsports.in</url>
 	</channel>
+	<channel id="ts690">
+		<display-name lang="en">Star Sports 1 Kannada</display-name>
+		<icon src="https://i.ibb.co/k2qtBGwV/Star-Sports-1-Kannada.png"/>
+		<icon src="https://iili.io/KVsNvgs.png"/>
+		<url>https://www.starsports.in</url>
+	</channel>
+	<channel id="ts683">
+		<display-name lang="en">Star Sports 2 Kannada</display-name>
+		<icon src="https://i.ibb.co/3LPsVkH/Star-Sports-2-Kannada.png"/>
+		<icon src="https://iili.io/KVse5MP.png"/>
+		<url>https://www.starsports.in</url>
+	</channel>
 	<channel id="ts551">
 		<display-name lang="en">Star Utsav</display-name>
 		<icon src="https://i.ibb.co/zH8NDrbG/Star-Utsav.png"/>
@@ -497,12 +491,6 @@
 		<icon src="https://i.ibb.co/Kpr8h794/Star-Utsav-Movies.png"/>
 		<icon src="https://iili.io/K1PRgYF.png"/>
 		<url>https://www.hotstar.in</url>
-	</channel>
-	<channel id="Big.Magic">
-		<display-name lang="en">Big Magic</display-name>
-		<icon src="https://i.ibb.co/cPDkZbs/Big-Magic.png"/>
-		<icon src="https://i.ibb.co/cPDkZbs/Big-Magic.png"/>
-		<url>https://www.bigmagic.in</url>
 	</channel>
 	<channel id="DD.National">
 		<display-name lang="en">DD National</display-name>
@@ -696,24 +684,6 @@
 		<icon src="https://i.ibb.co/dJbzRVFh/foodxp.png"/>
 		<url>https://www.foodxp.in</url>
 	</channel>
-	<channel id="Zee.Marathi.HD">
-		<display-name lang="en">Zee Marathi HD</display-name>
-		<icon src="https://i.ibb.co/RTTkZbZs/QGHM7Fg.png"/>
-		<icon src="https://i.ibb.co/RTTkZbZs/QGHM7Fg.png"/>
-		<url>https://www.zeemarathi.in</url>
-	</channel>
-	<channel id="Zee.Bollywood">
-		<display-name lang="en">Zee Bollywood</display-name>
-		<icon src="https://i.ibb.co/Lhn8Pc61/Zee-Bollywood.png"/>
-		<icon src="https://i.ibb.co/Lhn8Pc61/Zee-Bollywood.png"/>
-		<url>https://www.zee5.com</url>
-	</channel>
-	<channel id="Zee.Classic">
-		<display-name lang="en">Zee Classic</display-name>
-		<icon src="https://i.ibb.co/C3MwGYx8/Zee-Classic.png"/>
-		<icon src="https://i.ibb.co/C3MwGYx8/Zee-Classic.png"/>
-		<url>https://www.zeeclassic.in</url>
-	</channel>
 	<channel id="Fancode">
 		<display-name lang="en">Fancode</display-name>
 		<icon src="https://i.ibb.co/9xyD0VN/Fancode.png"/>
@@ -737,12 +707,6 @@
 		<icon src="https://i.ibb.co/4kdGh89/JL3Wuqu.png"/>
 		<icon src="https://i.ibb.co/4kdGh89/JL3Wuqu.png"/>
 		<url>https://www.samsung.com</url>
-	</channel>
-	<channel id="Zing">
-		<display-name lang="en">Zing</display-name>
-		<icon src="https://i.ibb.co/nqdsXtCg/Zing.png"/>
-		<icon src="https://i.ibb.co/nqdsXtCg/Zing.png"/>
-		<url>https://www.zee5.com</url>
 	</channel>
 	<channel id="ts265">
 		<display-name lang="en">Disney International HD</display-name>
@@ -989,24 +953,6 @@
 		<icon src="https://i.ibb.co/Vf2GgTD/Tata-Play-Anime-Local.png"/>
 		<icon src="https://i.ibb.co/Vf2GgTD/Tata-Play-Anime-Local.png"/>
 		<url>https://www.tataplay.com</url>
-	</channel>
-	<channel id="Zee.Cinema.HD.(Astro)">
-		<display-name lang="en">Zee Cinema HD (Astro)</display-name>
-		<icon src="https://i.ibb.co/RpvzRP3X/Zee-Cinema-HD.png"/>
-		<icon src="https://i.ibb.co/RpvzRP3X/Zee-Cinema-HD.png"/>
-		<url>https://content.astro.com.my</url>
-	</channel>
-	<channel id="GB3700007OZ">
-		<display-name lang="en">&amp;TV HD UK</display-name>
-		<icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png"/>
-		<icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png"/>
-		<url>https://www.samsung.uk</url>
-	</channel>
-	<channel id="and.TV.us2">
-		<display-name lang="en">&amp;TV HD USA</display-name>
-		<icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png"/>
-		<icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png"/>
-		<url>https://www.zee5.com</url>
 	</channel>
 	<channel id="HBO.Signature">
 		<display-name lang="en">HBO Signature</display-name>
@@ -1680,12 +1626,6 @@
 		<icon src="https://i.ibb.co/3ysj9JzT/Pasand.png"/>
 		<url>https://www.jiotv.com/</url>
 	</channel>
-	<channel id="Zee.BollyWorld">
-		<display-name lang="en">Zee BollyWorld</display-name>
-		<icon src="https://i.ibb.co/wZyK1PZx/Zee-Bolly-World.png"/>
-		<icon src="https://i.ibb.co/wZyK1PZx/Zee-Bolly-World.png"/>
-		<url>https://www.distro.tv/live/</url>
-	</channel>
 	<channel id="87417">
 		<display-name lang="en">Bollywood Classic</display-name>
 		<icon src="https://i.ibb.co/Rxh8RS4/Bollywood-Classic.png"/>
@@ -1694,177 +1634,261 @@
 	</channel>
 	<channel id="Zee.TV.in">
 		<display-name lang="en">Zee TV</display-name>
-		<icon src="https://i.ibb.co/jPcYK7mF/Zee-TV.png"/>
-		<icon src="https://i.ibb.co/jPcYK7mF/Zee-TV.png"/>
+		<icon src="https://i.ibb.co/p6Z68BKL/Zee-TV.png"/>
+		<icon src="https://iili.io/KVPp2Z7.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
 	<channel id="Zee.TV.HD.in">
 		<display-name lang="en">Zee TV HD</display-name>
-		<icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png"/>
-		<icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png"/>
+		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
+		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
 	<channel id="Zee.TV.HD.in">
 		<display-name lang="en">Zee TV HD UK</display-name>
-		<icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png"/>
-		<icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png"/>
+		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
+		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
 	<channel id="Zee.TV.HD.in">
 		<display-name lang="en">Zee TV ME</display-name>
-		<icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png"/>
-		<icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png"/>
+		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
+		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
 	<channel id="Zee TV HD USA">
 		<display-name lang="en">Zee TV HD USA</display-name>
-		<icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png"/>
-		<icon src="https://i.ibb.co/nqrjxDjv/Zee-TV-HD.png"/>
+		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
+		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="and.TV.in">
+	<channel id="ts578">
 		<display-name lang="en">&amp;TV</display-name>
-		<icon src="https://i.ibb.co/ns9X2g41/TV.png"/>
-		<icon src="https://i.ibb.co/ns9X2g41/TV.png"/>
+		<icon src="https://i.ibb.co/FLVF1twM/amp-TV.png"/>
+		<icon src="https://iili.io/KViJu5J.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="and.TV.HD.in">
+	<channel id="ts40">
 		<display-name lang="en">&amp;TV HD</display-name>
-		<icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png"/>
-		<icon src="https://i.ibb.co/FqjWWGyZ/TV-HD.png"/>
+		<icon src="https://i.ibb.co/xtpvcHrQ/amp-TV-HD.png"/>
+		<icon src="https://iili.io/KViJtdg.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Zee.Cafe.HD.in">
-		<display-name lang="en">Zee Cafe HD</display-name>
-		<icon src="https://i.ibb.co/8L1f2HBd/Zee-Cafe-HD.png"/>
-		<icon src="https://i.ibb.co/8L1f2HBd/Zee-Cafe-HD.png"/>
-		<url>https://www.zee5.com/</url>
+	<channel id="GB3700007OZ">
+		<display-name lang="en">&amp;TV HD UK</display-name>
+		<icon src="https://i.ibb.co/xtpvcHrQ/amp-TV-HD.png"/>
+		<icon src="https://iili.io/KViJtdg.png"/>
+		<url>https://www.samsung.uk</url>
 	</channel>
-	<channel id="Zee.Cinema.in">
-		<display-name lang="en">Zee Cinema</display-name>
-		<icon src="https://i.ibb.co/ksYy3hvc/Zee-Cinema.png"/>
-		<icon src="https://i.ibb.co/ksYy3hvc/Zee-Cinema.png"/>
-		<url>https://www.zee5.com/</url>
+	<channel id="and.TV.us2">
+		<display-name lang="en">&amp;TV HD USA</display-name>
+		<icon src="https://i.ibb.co/xtpvcHrQ/amp-TV-HD.png"/>
+		<icon src="https://iili.io/KViJtdg.png"/>
+		<url>https://www.zee5.com</url>
 	</channel>
-	<channel id="Zee.Cinema.HD.in">
-		<display-name lang="en">Zee Cinema HD</display-name>
-		<icon src="https://i.ibb.co/RpvzRP3X/Zee-Cinema-HD.png"/>
-		<icon src="https://i.ibb.co/RpvzRP3X/Zee-Cinema-HD.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="and.Pictures.in">
-		<display-name lang="en">&amp;Pictures</display-name>
-		<icon src="https://i.ibb.co/8DHq4QX8/Pictures.png"/>
-		<icon src="https://i.ibb.co/8DHq4QX8/Pictures.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="and.Pictures.HD.in">
-		<display-name lang="en">&amp;Pictures HD</display-name>
-		<icon src="https://i.ibb.co/Vccc4G2y/Pictures-HD.png"/>
-		<icon src="https://i.ibb.co/Vccc4G2y/Pictures-HD.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="and.xplor.HD.in">
-		<display-name lang="en">&amp;xplor HD</display-name>
-		<icon src="https://i.ibb.co/zHhC99qM/xplor-HD.png"/>
-		<icon src="https://i.ibb.co/zHhC99qM/xplor-HD.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="and.flix.HD.in">
-		<display-name lang="en">&amp;flix HD</display-name>
-		<icon src="https://i.ibb.co/spZN9P07/Flix-HD.png"/>
-		<icon src="https://i.ibb.co/spZN9P07/Flix-HD.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="and.Prive.HD.in">
-		<display-name lang="en">&amp;Prive HD</display-name>
-		<icon src="https://i.ibb.co/dw1CTPk9/Prive-HD.png"/>
-		<icon src="https://i.ibb.co/dw1CTPk9/Prive-HD.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="Zee.Talkies.in">
-		<display-name lang="en">Zee Talkies</display-name>
-		<icon src="https://i.ibb.co/WWj8BNy1/Zee-Talkies.png"/>
-		<icon src="https://i.ibb.co/WWj8BNy1/Zee-Talkies.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="Zee.Talkies.HD.in">
-		<display-name lang="en">Zee Talkies HD</display-name>
-		<icon src="https://i.ibb.co/Jjg3Jr5S/Zee-Talkies-HD.png"/>
-		<icon src="https://i.ibb.co/Jjg3Jr5S/Zee-Talkies-HD.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="Zee.Marathi.in">
-		<display-name lang="en">Zee Marathi</display-name>
-		<icon src="https://i.ibb.co/bjjDpX4b/Zee-Marathi.png"/>
-		<icon src="https://i.ibb.co/bjjDpX4b/Zee-Marathi.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="Zee.Marathi.HD.in">
-		<display-name lang="en">Zee Marathi HD</display-name>
-		<icon src="https://i.ibb.co/pgz4c96/Zee-Marathi-HD.png"/>
-		<icon src="https://i.ibb.co/pgz4c96/Zee-Marathi-HD.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="Zee.Action.in">
-		<display-name lang="en">Zee Action</display-name>
-		<icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png"/>
-		<icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="Action.Cinema.in">
-		<display-name lang="en">Action Cinema</display-name>
-		<icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png"/>
-		<icon src="https://i.ibb.co/HpFsyxDz/Zee-Action.png"/>
-		<url>https://www.zee5.com/</url>
-	</channel>
-	<channel id="Zee.Anmol.in">
+	<channel id="ts523">
 		<display-name lang="en">Zee Anmol</display-name>
 		<icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png"/>
 		<icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Anmol.TV.in">
+	<channel id="ts523">
 		<display-name lang="en">Anmol TV</display-name>
 		<icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png"/>
 		<icon src="https://i.ibb.co/Mxsxd5jb/Anmol-TV.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Zee.Anmol.Cinema.in">
+	<channel id="ts297">
+		<display-name lang="en">Big Magic</display-name>
+		<icon src="https://i.ibb.co/0RqXVyJ5/Big-Magic.png"/>
+		<icon src="https://iili.io/KViCM7I.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
+	<channel id="ts517">
+		<display-name lang="en">Zing</display-name>
+		<icon src="https://i.ibb.co/m5FnDqwt/Zing.png"/>
+		<icon src="https://iili.io/KVioeJ2.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
+	<channel id="ts251">
+		<display-name lang="en">Zee Marathi</display-name>
+		<icon src="https://i.ibb.co/wNb8d1bJ/Zee-Marathi.png"/>
+		<icon src="https://iili.io/KVi6vv1.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts501">
+		<display-name lang="en">Zee Marathi HD</display-name>
+		<icon src="https://i.ibb.co/ZR0nYX4s/Zee-Marathi-HD.png"/>
+		<icon src="https://iili.io/KViPf99.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts602">
+		<display-name lang="en">Zee Cafe</display-name>
+		<icon src="https://i.ibb.co/GQ6zFLtS/Zee-Cafe.png"/>
+		<icon src="https://iili.io/KVizM6G.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts502">
+		<display-name lang="en">Zee Cafe HD</display-name>
+		<icon src="https://i.ibb.co/VYRtCD1W/Zee-Cafe-HD.png"/>
+		<icon src="https://iili.io/KViAQ5v.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts148">
+		<display-name lang="en">&amp;Pictures</display-name>
+		<icon src="https://i.ibb.co/zVR2rWyH/amp-Pictures.png"/>
+		<icon src="https://iili.io/KVilSa9.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts267">
+		<display-name lang="en">&amp;Pictures HD</display-name>
+		<icon src="https://i.ibb.co/VXqFQ48/amp-Pictures-HD.png"/>
+		<icon src="https://iili.io/KVi1ZkF.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts1183">
+		<display-name lang="en">&amp;xplor HD</display-name>
+		<icon src="https://i.ibb.co/zHhC99qM/xplor-HD.png"/>
+		<icon src="https://i.ibb.co/zHhC99qM/xplor-HD.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts123">
+		<display-name lang="en">Zee Cinema</display-name>
+		<icon src="https://i.ibb.co/4RYRWG8Y/Zee-Cinema.png"/>
+		<icon src="https://iili.io/KVi7JRf.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts503">
+		<display-name lang="en">Zee Cinema HD</display-name>
+		<icon src="https://i.ibb.co/3Y7vhNGH/Zee-Cinema-HD.png"/>
+		<icon src="https://iili.io/KViYAkG.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="251.astro">
+		<display-name lang="en">Zee Cinema HD (Astro)</display-name>
+		<icon src="https://i.ibb.co/3Y7vhNGH/Zee-Cinema-HD.png"/>
+		<icon src="https://iili.io/KViYAkG.png"/>
+		<url>https://content.astro.com.my</url>
+	</channel>
+	<channel id="251.astro">
+		<display-name lang="en">Zee Cinema HD (Samsung)</display-name>
+		<icon src="https://i.ibb.co/3Y7vhNGH/Zee-Cinema-HD.png"/>
+		<icon src="https://iili.io/KViYAkG.png"/>
+		<url>https://content.astro.com.my</url>
+	</channel>
+	<channel id="126290">
+		<display-name lang="en">Zee BollyWorld</display-name>
+		<icon src="https://i.ibb.co/Gff2yM5R/Zee-Bollyworld.png"/>
+		<icon src="https://iili.io/KVijHt1.png"/>
+		<url>https://www.distro.tv/live/</url>
+	</channel>
+	<channel id="ts64">
 		<display-name lang="en">Zee Anmol Cinema</display-name>
 		<icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png"/>
 		<icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Anmol.Cinema.in">
+	<channel id="ts64">
 		<display-name lang="en">Anmol Cinema</display-name>
 		<icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png"/>
 		<icon src="https://i.ibb.co/0j6fVJS5/Anmol-Cinema.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Zee.Anmol.Cinema.2.in">
+	<channel id="ts12">
 		<display-name lang="en">Zee Anmol Cinema 2</display-name>
 		<icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png"/>
 		<icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Anmol.Cinema.2.in">
+	<channel id="ts12">
 		<display-name lang="en">Anmol Cinema 2</display-name>
 		<icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png"/>
 		<icon src="https://i.ibb.co/gbyLsfYf/Anmol-Cinema-2.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Zee.Cinemalu.in">
-		<display-name lang="en">Zee Cinemalu</display-name>
-		<icon src="https://i.ibb.co/dw5K8YNH/Zee-Cinemalu.png"/>
-		<icon src="https://i.ibb.co/dw5K8YNH/Zee-Cinemalu.png"/>
+	<channel id="ts100">
+		<display-name lang="en">Zee Action</display-name>
+		<icon src="https://i.ibb.co/6RwSyF7R/Zee-Action.png"/>
+		<icon src="https://iili.io/KViwNrG.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Zee.Cinemalu.HD.in">
-		<display-name lang="en">Zee Cinemalu HD</display-name>
-		<icon src="https://i.ibb.co/YBH8p6Bj/Zee-Cinemalu-HD.png"/>
-		<icon src="https://i.ibb.co/YBH8p6Bj/Zee-Cinemalu-HD.png"/>
+	<channel id="ts100">
+		<display-name lang="en">Action Cinema</display-name>
+		<icon src="https://i.ibb.co/6RwSyF7R/Zee-Action.png"/>
+		<icon src="https://iili.io/KViwNrG.png"/>
 		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts175">
+		<display-name lang="en">Zee Bollywood</display-name>
+		<icon src="https://i.ibb.co/SwRz029c/Zee-Bollywood.png"/>
+		<icon src="https://iili.io/KVigRhx.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
+	<channel id="ts727">
+		<display-name lang="en">Zee Classic</display-name>
+		<icon src="https://i.ibb.co/nMFNBTLX/Zee-Classic.png"/>
+		<icon src="https://iili.io/KVirYwG.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
+	<channel id="ts249">
+		<display-name lang="en">Zee Talkies</display-name>
+		<icon src="https://i.ibb.co/VY9H2ycJ/Zee-Talkies.png"/>
+		<icon src="https://iili.io/KViigqv.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts515">
+		<display-name lang="en">Zee Talkies HD</display-name>
+		<icon src="https://i.ibb.co/GvGYstnS/Zee-Talkies-HD.png"/>
+		<icon src="https://iili.io/KViL9na.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts248">
+		<display-name lang="en">Zee Yuva</display-name>
+		<icon src="https://i.ibb.co/DfLq2pfx/Zee-Yuva.png"/>
+		<icon src="https://iili.io/KViZFIt.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
+	<channel id="144442">
+		<display-name lang="en">Zee Chitramandir</display-name>
+		<icon src="https://i.ibb.co/dwLs1mk2/Zee-Chitramandir.png"/>
+		<icon src="https://iili.io/KViDmBe.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
+	<channel id="ts252">
+		<display-name lang="en">Zee Cinemalu</display-name>
+		<icon src="https://i.ibb.co/Q31dw31x/Zee-Cinemalu.png"/>
+		<icon src="https://iili.io/KViyeFn.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts636">
+		<display-name lang="en">Zee Cinemalu HD</display-name>
+		<icon src="https://i.ibb.co/wtVdx4B/Zee-Cinemalu-HD.png"/>
+		<icon src="https://iili.io/KVs90VS.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts506">
+		<display-name lang="en">&amp;flix HD</display-name>
+		<icon src="https://i.ibb.co/spZN9P07/Flix-HD.png"/>
+		<icon src="https://i.ibb.co/spZN9P07/Flix-HD.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts530">
+		<display-name lang="en">&amp;Prive HD</display-name>
+		<icon src="https://i.ibb.co/dw1CTPk9/Prive-HD.png"/>
+		<icon src="https://i.ibb.co/dw1CTPk9/Prive-HD.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="ts504">
+		<display-name lang="en">Zee Zest</display-name>
+		<icon src="https://i.ibb.co/RpssVpXH/Zee-Zest.png"/>
+		<icon src="https://iili.io/KVs2hrP.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
+	<channel id="ts382">
+		<display-name lang="en">Zee Zest HD</display-name>
+		<icon src="https://i.ibb.co/N6GpDwb4/Zee-Zest-HD.png"/>
+		<icon src="https://iili.io/KVs3S9e.png"/>
+		<url>https://www.zee5.com</url>
 	</channel>
 	<channel id="24/7 Hindi Movies">
 		<display-name lang="en">24/7 Hindi Movies</display-name>
@@ -2006,8 +2030,8 @@
 	</channel>
 	<channel id="3071">
 		<display-name lang="en">TV Asia Powered by Shemaroo</display-name>
-		<icon src="https://i.ibb.co/B5g33Mjz/TV-Asia-Powered-By-Shemaroo.png"/>
-		<icon src="https://iili.io/KEISb44.png"/>
+		<icon src="https://i.ibb.co/vbGjRg5/TV-Asia-Powered-By-Shemaroo.png"/>
+		<icon src="https://iili.io/KVsu30u.png"/>
 		<url>https://www.shemaroo.com/</url>
 	</channel>
 	<channel id="Cricbuzz 1">
