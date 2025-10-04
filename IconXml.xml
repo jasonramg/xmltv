@@ -2364,4 +2364,106 @@
 		<icon src="https://iili.io/KWYgBdx.png"/>
 		<url>https://www.amazonusa.com</url>
 	</channel>
+	<channel id="Starz.Encore.Action.HD.us2">
+		<display-name lang="en">Starz Encore Action HD</display-name>
+		<icon src="https://i.ibb.co/PZhQGCDN/Starz-Encore-Action-HD.png"/>
+		<icon src="https://iili.io/KWWMeYx.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.Edge.HD.us2">
+		<display-name lang="en">Starz Edge HD</display-name>
+		<icon src="https://i.ibb.co/1GPXD2dG/Starz-Edge-HD.png"/>
+		<icon src="https://iili.io/KWWg0a2.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.Encore.HD.us2">
+		<display-name lang="en">Starz Encore HD</display-name>
+		<icon src="https://i.ibb.co/Pvq48Jh2/Starz-Encore-HD.png"/>
+		<icon src="https://iili.io/KWW6Fj9.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.Comedy.HD.us2">
+		<display-name lang="en">Starz Comedy HD</display-name>
+		<icon src="https://i.ibb.co/GKXVN92/Starz-Comedy-HD.png"/>
+		<icon src="https://iili.io/KWWPWHQ.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.Cinema.HD.us2">
+		<display-name lang="en">Starz Cinema HD</display-name>
+		<icon src="https://i.ibb.co/fzXqJ8L5/Starz-Cinema-HD.png"/>
+		<icon src="https://iili.io/KWWsuu2.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.Kids.HD.us2">
+		<display-name lang="en">Starz Kids HD</display-name>
+		<icon src="https://i.ibb.co/99PLk1JN/Starz-Kids-HD.png"/>
+		<icon src="https://iili.io/KWWLZqF.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="ReelzChannel.HD.us2">
+		<display-name lang="en">ReelzChannel HD</display-name>
+		<icon src="https://i.ibb.co/R4YJR0x3/Reelz-Channel-HD.png"/>
+		<icon src="https://iili.io/KWWt7Ox.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="ScreenPix.Action.us2">
+		<display-name lang="en">ScreenPix Action</display-name>
+		<icon src="https://i.ibb.co/8DCXvGjr/Screen-Pix-Action.png"/>
+		<icon src="https://iili.io/KWWbG9a.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="ScreenPix.Westerns.us2">
+		<display-name lang="en">ScreenPix Westerns</display-name>
+		<icon src="https://i.ibb.co/8nRNMNbR/Screen-Pix-Westerns.png"/>
+		<icon src="https://iili.io/KWWyKZv.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="ScreenPix.us2">
+		<display-name lang="en">ScreenPix</display-name>
+		<icon src="https://i.ibb.co/m55HMt28/Screen-Pix.png"/>
+		<icon src="https://iili.io/KWXH63N.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="MGM+.Drive-In.us2">
+		<display-name lang="en">MGM+ Drive-in</display-name>
+		<icon src="https://i.ibb.co/KzbX3f1g/MGM-Drive-In.png"/>
+		<icon src="https://iili.io/KWX3wiJ.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="MGM+.Hits.HD.us2">
+		<display-name lang="en">MGM+ Hits HD</display-name>
+		<icon src="https://i.ibb.co/Zpkx7pJG/MGM-Hits-HD.png"/>
+		<icon src="https://iili.io/KWXq0LF.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="MGM+.Marquee.HD.us2">
+		<display-name lang="en">MGM+ Marquee HD</display-name>
+		<icon src="https://i.ibb.co/HpMkmXMC/MGM-Marquee.png"/>
+		<icon src="https://iili.io/KWXCmbV.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="MGM+.HD.us2">
+		<display-name lang="en">MGM+ HD</display-name>
+		<icon src="https://i.ibb.co/XrjR1sJ5/MGM-HD.png"/>
+		<icon src="https://iili.io/KWXKkuI.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="AMC+.us2">
+		<display-name lang="en">AMC+</display-name>
+		<icon src="https://i.ibb.co/jZzdNR2p/AMC.png"/>
+		<icon src="https://iili.io/KWXzKdu.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="AMC.HD.us2">
+		<display-name lang="en">AMC HD</display-name>
+		<icon src="https://i.ibb.co/wNmWt18s/AMC-HD.png"/>
+		<icon src="https://iili.io/KWXIYF9.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Amazon.Movies.us2">
+		<display-name lang="en">Amazon Movies</display-name>
+		<icon src="https://i.ibb.co/8pZYK8j/Amazon-Movies.png"/>
+		<icon src="https://iili.io/KWXulhx.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
 </tv>
