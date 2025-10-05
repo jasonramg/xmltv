@@ -2298,6 +2298,24 @@
 		<icon src="https://iili.io/KXz3t8x.png"/>
 		<url>https://www.jiotv.com</url>
 	</channel>
+	<channel id="ts399">
+		<display-name lang="en">MH One</display-name>
+		<icon src="https://i.ibb.co/VYJdWWTh/MH-One.png"/>
+		<icon src="https://iili.io/KXIlbp4.png"/>
+		<url>https://www.jiotv.com</url>
+	</channel>
+	<channel id="ts399">
+		<display-name lang="en">mh1 (Music)</display-name>
+		<icon src="https://i.ibb.co/VYJdWWTh/MH-One.png"/>
+		<icon src="https://iili.io/KXIlbp4.png"/>
+		<url>https://www.jiotv.com</url>
+	</channel>
+	<channel id="1925">
+		<display-name lang="en">MH1 Dil Se</display-name>
+		<icon src="https://i.ibb.co/G4zx0fjh/MH1-Dil-Se.png"/>
+		<icon src="https://iili.io/KXIOwAP.png"/>
+		<url>https://www.jiotv.com</url>
+	</channel>
 	<channel id="James.Bond.007!.us2">
 		<display-name lang="en">James Bond 007!</display-name>
 		<icon src="https://i.ibb.co/Y7j4Wzk7/James-Bond-007.png"/>
