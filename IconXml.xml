@@ -2280,6 +2280,24 @@
 		<icon src="https://iili.io/KGVaJBR.png"/>
 		<url>https://www.britasiatv.in</url>
 	</channel>
+	<channel id="ts1644">
+		<display-name lang="en">Saga Music</display-name>
+		<icon src="https://i.ibb.co/JwsxMV1Q/Saga-Music-HD.png"/>
+		<icon src="https://iili.io/KXxDrfp.png"/>
+		<url>https://www.jiotv.com</url>
+	</channel>
+	<channel id="2751">
+		<display-name lang="en">Saga Music Haryanvi</display-name>
+		<icon src="https://i.ibb.co/nMvJCw7c/Saga-Music-Haryanvi.png"/>
+		<icon src="https://iili.io/KXz39rG.png"/>
+		<url>https://www.jiotv.com</url>
+	</channel>
+	<channel id="2752">
+		<display-name lang="en">Ghaint Punjab</display-name>
+		<icon src="https://i.ibb.co/XfTMhSTY/Ghaint-Punjab.png"/>
+		<icon src="https://iili.io/KXz3t8x.png"/>
+		<url>https://www.jiotv.com</url>
+	</channel>
 	<channel id="James.Bond.007!.us2">
 		<display-name lang="en">James Bond 007!</display-name>
 		<icon src="https://i.ibb.co/Y7j4Wzk7/James-Bond-007.png"/>
