@@ -216,11 +216,83 @@
 		<icon src="https://iili.io/KG1cOFt.png"/>
 		<url>https://www.warnertv.com</url>
 	</channel>
-	<channel id="Warner.TV.MX">
-		<display-name lang="en">Warner TV MX</display-name>
+	<channel id="Canal.Warner.TV.(MÃ©xico).mx">
+		<display-name lang="en">Canal Warner TV (México)</display-name>
 		<icon src="https://i.ibb.co/Rkgd6BXd/Warner-TV.png"/>
 		<icon src="https://iili.io/KG1cOFt.png"/>
 		<url>https://www.warnertv.com</url>
+	</channel>
+	<channel id="Canal.Paramount.Channel.(MÃ©xico).mx">
+		<display-name lang="en">Canal Paramount Channel (México)</display-name>
+		<icon src="https://i.ibb.co/SDPM7K8s/Paramount-Network.png"/>
+		<icon src="https://iili.io/KMd8GCF.png"/>
+		<url>http://www.paramount.com</url>
+	</channel>
+	<channel id="Canal.Animal.Planet.(MÃ©xico).mx">
+		<display-name lang="en">Canal Animal Planet (México)</display-name>
+		<icon src="https://i.ibb.co/wNGjydXj/Animal-Planet.png"/>
+		<icon src="https://i.ibb.co/wNGjydXj/Animal-Planet.png"/>
+		<url>http://www.paramount.com</url>
+	</channel>
+	<channel id="Canal.Discovery.Science.(LatinoamÃ©rica).mx">
+		<display-name lang="en">Canal Discovery Science Latinoamérica</display-name>
+		<icon src="https://i.ibb.co/RG0S9z4Z/Discovery-Science-HD.png"/>
+		<icon src="https://iili.io/KXTvZCX.png"/>
+		<url>http://www.discovery.com</url>
+	</channel>
+	<channel id="Canal.Discovery.Turbo.(LatinoamÃ©rica)">
+		<display-name lang="en">Canal Discovery Turbo (Latinoamérica)</display-name>
+		<icon src="https://i.ibb.co/9kwXJmZ1/Discovery-Turbo-HD.png"/>
+		<icon src="https://iili.io/KXTSqxI.png"/>
+		<url>http://www.discovery.com</url>
+	</channel>
+	<channel id="Canal.HBO.(MÃ©xico).mx">
+		<display-name lang="en">Canal HBO (México)</display-name>
+		<icon src="https://i.ibb.co/h17BSxL8/HBO.png"/>
+		<icon src="https://iili.io/KEpj2ZG.png"/>
+		<url>https://www.HBO.com</url>
+	</channel>
+	<channel id="Canal.HBO.Plus.mx">
+		<display-name lang="en">Canal HBO Plus</display-name>
+		<icon src="https://i.ibb.co/whfCK45M/HBO.png"/>
+		<icon src="https://i.ibb.co/whfCK45M/HBO.png"/>
+		<url>https://www.hbo.com</url>
+	</channel>
+	<channel id="Canal.HBO.2.LatinoamÃ©rica.mx">
+		<display-name lang="en">Canal HBO 2 Latinoamérica</display-name>
+		<icon src="https://i.ibb.co/Z6ftMXWB/HBO-2.png"/>
+		<icon src="https://i.ibb.co/Z6ftMXWB/HBO-2.png"/>
+		<url>https://www.hbo.com</url>
+	</channel>
+	<channel id="Canal.HBO.Family.LatinoamÃ©rica.mx">
+		<display-name lang="en">Canal HBO Family Latinoamérica</display-name>
+		<icon src="https://i.ibb.co/VpVysmBg/HBO-Family-HD.png"/>
+		<icon src="https://i.ibb.co/VpVysmBg/HBO-Family-HD.png"/>
+		<url>https://www.hbo.com</url>
+	</channel>
+	<channel id="Canal.HBO.Mundi.mx">
+		<display-name lang="en">Canal HBO Mundi</display-name>
+		<icon src="https://i.ibb.co/93HGHGQ7/HBO-Mundi.png"/>
+		<icon src="https://i.ibb.co/93HGHGQ7/HBO-Mundi.png"/>
+		<url>https://www.hbo.com</url>
+	</channel>
+	<channel id="Canal.HBO.Pop.mx">
+		<display-name lang="en">Canal HBO Pop</display-name>
+		<icon src="https://i.ibb.co/sdD0QY1d/HBO-PoP.png"/>
+		<icon src="https://i.ibb.co/sdD0QY1d/HBO-PoP.png"/>
+		<url>https://www.hbo.com</url>
+	</channel>
+	<channel id="Canal.HBO.Signature.LatinoamÃ©rica.mx">
+		<display-name lang="en">Canal HBO Signature Latinoamérica</display-name>
+		<icon src="https://i.ibb.co/8gbKRfct/Canal-HBO-Signature.png"/>
+		<icon src="https://i.ibb.co/8gbKRfct/Canal-HBO-Signature.png"/>
+		<url>https://www.hbo.com</url>
+	</channel>
+	<channel id="Canal.HBO.Xtreme.LatinoamÃ©rica.mx">
+		<display-name lang="en">Canal HBO Xtreme Latinoamérica</display-name>
+		<icon src="https://i.ibb.co/669mHKQ/HBO-Xtreme.png"/>
+		<icon src="https://i.ibb.co/669mHKQ/HBO-Xtreme.png"/>
+		<url>https://www.hbo.com</url>
 	</channel>
 	<channel id="desi.play.tv">
 		<display-name lang="en">Desi Play TV</display-name>
@@ -335,12 +407,6 @@
 		<icon src="https://i.ibb.co/kVN3PsS3/TNT-Sports-5.png"/>
 		<icon src="https://iili.io/KGJq4yX.png"/>
 		<url>https://www.tntsports.com</url>
-	</channel>
-	<channel id="saga.music">
-		<display-name lang="en">Saga Music</display-name>
-		<icon src="https://i.ibb.co/BYGKbGH/GJifoFC.png"/>
-		<icon src="https://i.ibb.co/BYGKbGH/GJifoFC.png"/>
-		<url>https://www.sagamusic.in</url>
 	</channel>
 	<channel id="IN38000072R">
 		<display-name lang="en">The Movie Club</display-name>
@@ -1019,12 +1085,6 @@
 		<icon src="https://i.ibb.co/3m1qDNRn/Sony-Channel.png"/>
 		<icon src="https://iili.io/KMdNC3Q.png"/>
 		<url>http://www.sonymovies.com</url>
-	</channel>
-	<channel id="Paramount.Network.MX">
-		<display-name lang="en">Paramount Network MX</display-name>
-		<icon src="https://i.ibb.co/SDPM7K8s/Paramount-Network.png"/>
-		<icon src="https://iili.io/KMd8GCF.png"/>
-		<url>http://www.paramount.com</url>
 	</channel>
 	<channel id="ts543">
 		<display-name lang="en">Colors</display-name>
