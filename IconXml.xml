@@ -235,7 +235,7 @@
 		<url>http://www.paramount.com</url>
 	</channel>
 	<channel id="Canal.Discovery.Science.(LatinoamÃ©rica).mx">
-		<display-name lang="en">Canal Discovery Science Latinoamérica</display-name>
+		<display-name lang="en">Canal Discovery Science (Latinoamérica)</display-name>
 		<icon src="https://i.ibb.co/RG0S9z4Z/Discovery-Science-HD.png"/>
 		<icon src="https://iili.io/KXTvZCX.png"/>
 		<url>http://www.discovery.com</url>
@@ -293,6 +293,12 @@
 		<icon src="https://i.ibb.co/669mHKQ/HBO-Xtreme.png"/>
 		<icon src="https://i.ibb.co/669mHKQ/HBO-Xtreme.png"/>
 		<url>https://www.hbo.com</url>
+	</channel>
+	<channel id="Adult.Swim.MX">
+		<display-name lang="en">Adult Swim MX</display-name>
+		<icon src="https://i.ibb.co/XxmM5xkV/Adult-Swim.png"/>
+		<icon src="https://i.ibb.co/XxmM5xkV/Adult-Swim.png"/>
+		<url>https://www.adultswim.com</url>
 	</channel>
 	<channel id="desi.play.tv">
 		<display-name lang="en">Desi Play TV</display-name>
