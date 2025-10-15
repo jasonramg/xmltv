@@ -1603,12 +1603,6 @@
 		<url>https://hotstar.com/</url>
 	</channel>
 	<channel id="ts508">
-		<display-name lang="en">Star Plus HD +1</display-name>
-		<icon src="https://i.ibb.co/NdHTvNpY/Star-Plus-HD.png"/>
-		<icon src="https://i.postimg.cc/WzgG1bwm/Star-Plus-HD.png"/>
-		<url>https://hotstar.com/</url>
-	</channel>
-	<channel id="ts508">
 		<display-name lang="en">STAR PLUS HD +1</display-name>
 		<icon src="https://i.ibb.co/NdHTvNpY/Star-Plus-HD.png"/>
 		<icon src="https://i.postimg.cc/WzgG1bwm/Star-Plus-HD.png"/>
