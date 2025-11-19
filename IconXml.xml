@@ -1542,6 +1542,12 @@
 		<icon src="https://iili.io/KEugFDP.png"/>
 		<url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
 	</channel>
+	<channel id="GBBB5000002PL">
+		<display-name lang="en">Wild Planet</display-name>
+		<icon src="https://i.ibb.co/HfhwM8Px/Wild-Planet.png"/>
+		<icon src="https://iili.io/fdON9se.png"/>
+		<url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
+	</channel>
 	<channel id="Trace.Urban">
 		<display-name lang="en">Trace Urban</display-name>
 		<icon src="https://i.ibb.co/SDPrfq9G/Trace-Urban.png"/>
@@ -2561,5 +2567,47 @@
 		<icon src="https://i.ibb.co/8pZYK8j/Amazon-Movies.png"/>
 		<icon src="https://iili.io/KWXulhx.png"/>
 		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="USA.Network.HD.us2">
+		<display-name lang="en">USA Network HD</display-name>
+		<icon src="https://i.ibb.co/FkRF8sKW/USA-Network.png"/>
+		<icon src="https://iili.io/fdNTWvV.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="USA.Network.HD.(Pacific).us2">
+		<display-name lang="en">USA Network HD (Pacific)</display-name>
+		<icon src="https://i.ibb.co/FkRF8sKW/USA-Network.png"/>
+		<icon src="https://iili.io/fdNTWvV.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="5e20b730f2f8d5003d739db7-66635e41ca7b22f4c3a2d741">
+		<display-name lang="en">CW Gold</display-name>
+		<icon src="https://i.ibb.co/1196sSw/CW-Gold.png"/>
+		<icon src="https://iili.io/fdNMO42.png"/>
+		<url>https://www.plex.tv/</url>
+	</channel>
+	<channel id="5e20b730f2f8d5003d739db7-66635fc0ca7b22f4c3a2d743">
+		<display-name lang="en">CW Forever</display-name>
+		<icon src="https://i.ibb.co/mFCdWBQD/CW-Forever.png"/>
+		<icon src="https://iili.io/fdOduft.png"/>
+		<url>https://www.plex.tv/</url>
+	</channel>
+	<channel id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819">
+		<display-name lang="en">Filmrise Anime</display-name>
+		<icon src="https://i.ibb.co/9Pd6TNP/Filmrise-Anime.png"/>
+		<icon src="https://iili.io/fdOVosj.png"/>
+		<url>https://www.plex.tv/</url>
+	</channel>
+	<channel id="BBC.Entertainment">
+		<display-name lang="en">BBC Entertainment</display-name>
+		<icon src="https://i.ibb.co/Ndt9CKyC/BBC-Entertainment.png"/>
+		<icon src="https://iili.io/fdOBHv9.png"/>
+		<url>https://www.bbc.com/</url>
+	</channel>
+	<channel id="BBC.First">
+		<display-name lang="en">BBC First</display-name>
+		<icon src="https://i.ibb.co/MkhtY59L/BBC-First.png"/>
+		<icon src="https://iili.io/fdOAB6u.png"/>
+		<url>https://www.bbc.com/</url>
 	</channel>
 </tv>
