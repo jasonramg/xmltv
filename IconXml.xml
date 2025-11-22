@@ -984,7 +984,7 @@
 		<icon src="https://iili.io/KGFKaN1.png"/>
 		<url>https://www.jiotv.com</url>
 	</channel>
-	<channel id="">
+	<channel id="PBS.Science.in">
 		<display-name>PBS Science</display-name>
 		<icon src="https://i.ibb.co/7t2m74XS/PBS-Science.png"/>
 		<icon src="https://iili.io/f3khbMN.png"/>
