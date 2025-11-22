@@ -418,7 +418,13 @@
 		<display-name lang="en">The Movie Club</display-name>
 		<icon src="https://i.ibb.co/5gdzj9hZ/The-Movie-Club.png"/>
 		<icon src="https://iili.io/KEuxXOG.png"/>
-		<url>https://www.themovieclub.in</url>
+		<url>https://www.samsung.in</url>
+	</channel>
+	<channel id="IN40000100Y">
+		<display-name lang="en">The Movie Club+2</display-name>
+		<icon src="https://i.ibb.co/G4v57Dz6/The-Movie-Club-2.png"/>
+		<icon src="https://iili.io/f3kw1B2.png"/>
+		<url>https://www.samsung.in</url>
 	</channel>
 	<channel id="ts600">
 		<display-name lang="en">Star Sports 1</display-name>
@@ -977,6 +983,12 @@
 		<icon src="https://i.ibb.co/TMWQrpwz/Discovery-Science.png"/>
 		<icon src="https://iili.io/KGFKaN1.png"/>
 		<url>https://www.jiotv.com</url>
+	</channel>
+	<channel id="">
+		<display-name>PBS Science</display-name>
+		<icon src="https://i.ibb.co/7t2m74XS/PBS-Science.png"/>
+		<icon src="https://iili.io/f3khbMN.png"/>
+		<url>https://www.samsung.com</url>
 	</channel>
 	<channel id="ts135">
 		<display-name>TLC</display-name>
@@ -1730,8 +1742,8 @@
 	</channel>
 	<channel id="Ten Cricket">
 		<display-name lang="en">Ten Cricket</display-name>
-		<icon src="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png"/>
-		<icon src="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png"/>
+		<icon src="https://i.ibb.co/ZpSJ0cmq/Ten-Cricket.png"/>
+		<icon src="https://iili.io/f3kt3np.png"/>
 		<url>https://www.tensportstv.com/</url>
 	</channel>
 	<channel id="ts362">
