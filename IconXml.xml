@@ -24,6 +24,18 @@
 		<icon src="https://iili.io/KW2ST37.png"/>
 		<url>https://www.foxsports.com</url>
 	</channel>
+	<channel id="Seven">
+		<display-name lang="en">Seven</display-name>
+		<icon src="https://i.ibb.co/DfT789P8/Seven.png"/>
+		<icon src="https://iili.io/fCURoeS.png"/>
+		<url>https://7plus.com.au/</url>
+	</channel>
+	<channel id="WWE.HD">
+		<display-name lang="en">WWE HD</display-name>
+		<icon src="https://i.ibb.co/NgKrQsRS/WWE-HD.png"/>
+		<icon src="https://iili.io/fCUYtjI.png"/>
+		<url>https://www.wwe.com</url>
+	</channel>
 	<channel id="willow.hd">
 		<display-name lang="en">Willow HD</display-name>
 		<icon src="https://i.ibb.co/zWKtRXQ1/Willow-HD.png"/>
@@ -245,6 +257,12 @@
 		<icon src="https://i.ibb.co/9kwXJmZ1/Discovery-Turbo-HD.png"/>
 		<icon src="https://iili.io/KXTSqxI.png"/>
 		<url>http://www.discovery.com</url>
+	</channel>
+	<channel id="Canal.TNT Series.(MÃ©xico).mx">
+		<display-name lang="en">Canal TNT Series (México)</display-name>
+		<icon src="https://i.ibb.co/sD0fRdP/TNT-Series.png"/>
+		<icon src="https://iili.io/fCUVcYX.png"/>
+		<url>https://www.tnt.com</url>
 	</channel>
 	<channel id="Canal.HBO.(MÃ©xico).mx">
 		<display-name lang="en">Canal HBO (México)</display-name>
@@ -768,6 +786,12 @@
 		<icon src="https://i.ibb.co/gZcHsFKY/Travelxp-HD.png"/>
 		<url>https://www.travelxp.in</url>
 	</channel>
+	<channel id="Travelxp.4K.HDR">
+		<display-name lang="en">Travelxp 4K HDR</display-name>
+		<icon src="https://i.ibb.co/kV2Mzz5G/Travelxp-4-K-HDR.png"/>
+		<icon src="https://iili.io/fCU0CGt.png"/>
+		<url>https://www.travelxp.in</url>
+	</channel>
 	<channel id="Foodxp">
 		<display-name lang="en">Foodxp</display-name>
 		<icon src="https://i.ibb.co/dJbzRVFh/foodxp.png"/>
@@ -860,8 +884,8 @@
 	</channel>
 	<channel id="Boogle.Bollywood">
 		<display-name lang="en">Boogle Bollywood</display-name>
-		<icon src="https://i.ibb.co/5x1dP0cv/qZthjNa.png"/>
-		<icon src="https://i.ibb.co/5x1dP0cv/qZthjNa.png"/>
+		<icon src="https://i.ibb.co/hR55PQNS/Boogle-Bollywood.png"/>
+		<icon src="https://iili.io/fCXUbI4.png"/>
 		<url>https://www.jiotv.com</url>
 	</channel>
 	<channel id="Punjabi.Hits">
@@ -2214,6 +2238,12 @@
 		<icon src="https://iili.io/KGKqEJ4.png"/>
 		<url>https://www.jiotv.com/</url>
 	</channel>
+	<channel id="Cartoon.Network.HD.Canada.ca2">
+		<display-name lang="en">Cartoon Network HD Canada</display-name>
+		<icon src="https://i.ibb.co/206kRc1F/Cartoon-Network.png"/>
+		<icon src="https://iili.io/KGJ5T6F.png"/>
+		<url>https://www.cartoonnetwork.ca/</url>
+	</channel>
 	<channel id="615.astro">
 		<display-name lang="en">CARTOON NTWK HD</display-name>
 		<icon src="https://i.ibb.co/206kRc1F/Cartoon-Network.png"/>
@@ -2393,6 +2423,12 @@
 		<icon src="https://i.ibb.co/G4zx0fjh/MH1-Dil-Se.png"/>
 		<icon src="https://iili.io/KXIOwAP.png"/>
 		<url>https://www.jiotv.com</url>
+	</channel>
+	<channel id="Amazon.Prime.Sports">
+		<display-name lang="en">Amazon Prime Sports</display-name>
+		<icon src="https://i.ibb.co/tMLMrBxb/Amazon-Prime-Sports.png"/>
+		<icon src="https://iili.io/fCUSC3G.png"/>
+		<url>https://www.amazonusa.com</url>
 	</channel>
 	<channel id="James.Bond.007!.us2">
 		<display-name lang="en">James Bond 007!</display-name>
@@ -2621,5 +2657,53 @@
 		<icon src="https://i.ibb.co/MkhtY59L/BBC-First.png"/>
 		<icon src="https://iili.io/fdOAB6u.png"/>
 		<url>https://www.bbc.com/</url>
+	</channel>
+	<channel id="Hindi.Hits">
+		<display-name lang="en">Hindi Hits</display-name>
+		<icon src="https://i.ibb.co/Xf3hM239/Hindi-Hits-HD.png"/>
+		<icon src="https://iili.io/fCSyqSp.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="Melody.Hits">
+		<display-name lang="en">Melody Hits</display-name>
+		<icon src="https://i.ibb.co/W4rbqTPY/Melody-Hits.png"/>
+		<icon src="https://iili.io/fCSZLba.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="Evergreen.Hits">
+		<display-name lang="en">Evergreen Hits</display-name>
+		<icon src="https://i.ibb.co/N6D0pMvT/Evergreen-Hits.png"/>
+		<icon src="https://iili.io/fCUdFII.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="Soneri.Cinema">
+		<display-name lang="en">Soneri Cinema</display-name>
+		<icon src="https://i.ibb.co/1GKbkGRf/Soneri-Cinema.png"/>
+		<icon src="https://iili.io/fCUKqu4.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="Mix.Hollywood">
+		<display-name lang="en">Mix Hollywood</display-name>
+		<icon src="https://i.ibb.co/ym9cB3ZN/Mix-Hollywood.png"/>
+		<icon src="https://iili.io/fCUBjNj.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="India.Talkies">
+		<display-name lang="en">India Talkies</display-name>
+		<icon src="https://i.ibb.co/pj02BFT7/India-Talkies.png"/>
+		<icon src="https://iili.io/fCUnATG.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="S.Marathi">
+		<display-name lang="en">S Marathi</display-name>
+		<icon src="https://i.ibb.co/RGqLB7tN/S-Marathi.png"/>
+		<icon src="https://iili.io/fCUzLFV.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="S.Music">
+		<display-name lang="en">S Music</display-name>
+		<icon src="https://i.ibb.co/RGs3hRMD/S-Music.png"/>
+		<icon src="https://iili.io/fCUT0mX.png"/>
+		<url>https://fastway.in/</url>
 	</channel>
 </tv>
