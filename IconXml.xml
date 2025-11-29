@@ -2658,8 +2658,8 @@
 		<icon src="https://iili.io/fdOAB6u.png"/>
 		<url>https://www.bbc.com/</url>
 	</channel>
-	<channel id="Hindi.Hits">
-		<display-name lang="en">Hindi Hits</display-name>
+	<channel id="Hindi.Hits.HD">
+		<display-name lang="en">Hindi Hits HD</display-name>
 		<icon src="https://i.ibb.co/Xf3hM239/Hindi-Hits-HD.png"/>
 		<icon src="https://iili.io/fCSyqSp.png"/>
 		<url>https://fastway.in/</url>
