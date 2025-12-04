@@ -2766,8 +2766,8 @@
 		<icon src="https://iili.io/fIncbUv.png"/>
 		<url>https://www.sky.co.nz/discover/sky-sport/</url>
 	</channel>
-	<channel id="Sky.Sport.Premiere.League.nz">
-		<display-name lang="en">Sky Sport Premiere League</display-name>
+	<channel id="Sky.Sport.Premier.League.nz">
+		<display-name lang="en">Sky Sport Premier League</display-name>
 		<icon src="https://i.ibb.co/gMLFyBGg/Sky-Sport-Premier-League.png"/>
 		<icon src="https://iili.io/fIncTKJ.png"/>
 		<url>https://www.sky.co.nz/discover/sky-sport/</url>
