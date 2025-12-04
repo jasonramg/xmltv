@@ -2706,4 +2706,88 @@
 		<icon src="https://iili.io/fCUT0mX.png"/>
 		<url>https://fastway.in/</url>
 	</channel>
+	<channel id="Sky.Sport.1.nz">
+		<display-name lang="en">Sky Sport 1</display-name>
+		<icon src="https://i.ibb.co/G4LMBdrM/Sky-Sport-1.png"/>
+		<icon src="https://iili.io/fInKWyQ.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.2.nz">
+		<display-name lang="en">Sky Sport 2</display-name>
+		<icon src="https://i.ibb.co/vp03MVq/Sky-Sport-2.png"/>
+		<icon src="https://iili.io/fInTwJt.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.3.nz">
+		<display-name lang="en">Sky Sport 3</display-name>
+		<icon src="https://i.ibb.co/FqX9T4hF/Sky-Sport-3.png"/>
+		<icon src="https://iili.io/fInuC1p.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.4.nz">
+		<display-name lang="en">Sky Sport 4</display-name>
+		<icon src="https://i.ibb.co/mrj7F1g6/Sky-Sport-4.png"/>
+		<icon src="https://iili.io/fInurZJ.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.5.nz">
+		<display-name lang="en">Sky Sport 5</display-name>
+		<icon src="https://i.ibb.co/k68VM9KZ/Sky-Sport-5.png"/>
+		<icon src="https://iili.io/fInAYwg.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.6.nz">
+		<display-name lang="en">Sky Sport 6</display-name>
+		<icon src="https://i.ibb.co/6JLJQ9Sj/Sky-Sport-6.png"/>
+		<icon src="https://iili.io/fIn5rZu.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.7.nz">
+		<display-name lang="en">Sky Sport 7</display-name>
+		<icon src="https://i.ibb.co/8LPh0nH2/Sky-Sport-7.png"/>
+		<icon src="https://iili.io/fIn78Kv.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.8.nz">
+		<display-name lang="en">Sky Sport 8</display-name>
+		<icon src="https://i.ibb.co/6Rpx22rd/Sky-Sport-8.png"/>
+		<icon src="https://iili.io/fInYN72.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.9.nz">
+		<display-name lang="en">Sky Sport 9</display-name>
+		<icon src="https://i.ibb.co/d47K4D8b/Sky-Sport-9.png"/>
+		<icon src="https://iili.io/fInaWj1.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.Select.nz">
+		<display-name lang="en">Sky Sport Select</display-name>
+		<icon src="https://i.ibb.co/DffM9Z6D/Sky-Sport-Select.png"/>
+		<icon src="https://iili.io/fIncbUv.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.Premiere.League.nz">
+		<display-name lang="en">Sky Sport Premiere League</display-name>
+		<icon src="https://i.ibb.co/gMLFyBGg/Sky-Sport-Premier-League.png"/>
+		<icon src="https://iili.io/fIncTKJ.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="Sky.Sport.1.nz">
+		<display-name lang="en">Sky Sport 1 4k UHD</display-name>
+		<icon src="https://i.ibb.co/G4LMBdrM/Sky-Sport-1.png"/>
+		<icon src="https://iili.io/fInKWyQ.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="ESPN..nz">
+		<display-name lang="en">ESPN</display-name>
+		<icon src="https://i.ibb.co/CKhdhvnR/ESPN.png"/>
+		<icon src="https://iili.io/fIn1qAl.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="ESPN2.nz">
+		<display-name lang="en">ESPN2</display-name>
+		<icon src="https://i.ibb.co/CKMK6cXr/ESPN-2.png"/>
+		<icon src="https://iili.io/fInEP2a.png"/>
+		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
 </tv>
