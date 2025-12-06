@@ -114,6 +114,12 @@
 		<icon src="https://iili.io/KEREwLN.png"/>
 		<url>https://www.mbcbollywood.com</url>
 	</channel>
+	<channel id="Shahid.Bollywood">
+		<display-name lang="en">Shahid Bollywood</display-name>
+		<icon src="https://i.ibb.co/Hf1XDTk9/Shahid-Bollywood.png"/>
+		<icon src="https://iili.io/fu9IDVn.png"/>
+		<url>https://www.shahidbollywood.com</url>
+	</channel>
 	<channel id="87418">
 		<display-name lang="en">Bollywood HD</display-name>
 		<icon src="https://i.ibb.co/BHJwvghD/Bollywood-HD.png"/>
@@ -136,6 +142,12 @@
 		<display-name lang="en">B4U Movies APAC</display-name>
 		<icon src="https://i.ibb.co/60mmCZZD/B4-U-Movies-Apac.png"/>
 		<icon src="https://iili.io/KMd775l.png"/>
+		<url>https://www.b4umovies.com</url>
+	</channel>
+	<channel id="B4u.Plus">
+		<display-name lang="en">B4U Plus</display-name>
+		<icon src="https://i.ibb.co/1YNB70ct/B4U-Plus.png"/>
+		<icon src="https://iili.io/fu9zv4f.png"/>
 		<url>https://www.b4umovies.com</url>
 	</channel>
 	<channel id="B4U.Music">
@@ -1092,6 +1104,18 @@
 		<icon src="https://iili.io/KVQliqx.png"/>
 		<url>https://www.zeebollymovies.zeeafrica.tv</url>
 	</channel>
+	<channel id="Zee.Aflam">
+		<display-name lang="en">Zee Aflam</display-name>
+		<icon src="https://i.ibb.co/TDns9Sm3/Zee-Aflam.png"/>
+		<icon src="https://iili.io/fu9Bj87.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
+	<channel id="Zee.Alwan">
+		<display-name lang="en">Zee Alwan</display-name>
+		<icon src="https://i.ibb.co/6R5f1VdC/Zee-Alwan.png"/>
+		<icon src="https://iili.io/fu9nZ4R.png"/>
+		<url>https://www.zee5.com</url>
+	</channel>
 	<channel id="Zee.One">
 		<display-name lang="en">Zee One</display-name>
 		<icon src="https://i.ibb.co/20r6Gwps/Q4LelsN.png"/>
@@ -1283,6 +1307,18 @@
 		<icon src="https://i.ibb.co/RpN19Kg0/HBO-Hits.png"/>
 		<icon src="https://iili.io/KEpO9yP.png"/>
 		<url>https://www.HBO.com</url>
+	</channel>
+	<channel id="Rock.Action">
+		<display-name lang="en">Rock Action</display-name>
+		<icon src="https://i.ibb.co/mC0D1zc6/Rock-Action.png"/>
+		<icon src="https://iili.io/fTOddDG.png"/>
+		<url>https://www.rockentertainment.com</url>
+	</channel>
+	<channel id="Rock.Entertainment">
+		<display-name lang="en">Rock Entertainment</display-name>
+		<icon src="https://i.ibb.co/bRLTy18P/Rock-Entertainment.png"/>
+		<icon src="https://iili.io/fTOdbXj.png"/>
+		<url>https://www.rockentertainment.com</url>
 	</channel>
 	<channel id="411.astro">
 		<display-name lang="en">HBO HD</display-name>
@@ -1628,6 +1664,12 @@
 	</channel>
 	<channel id="ts681">
 		<display-name lang="en">Cartoon Network HD+</display-name>
+		<icon src="https://i.ibb.co/hxcLJNp3/Cartoon-Network-HD.png"/>
+		<icon src="https://iili.io/KGJ1OJt.png"/>
+		<url>https://jiotv.com/</url>
+	</channel>
+	<channel id="ts681">
+		<display-name lang="en">Cartoon Network HD</display-name>
 		<icon src="https://i.ibb.co/hxcLJNp3/Cartoon-Network-HD.png"/>
 		<icon src="https://iili.io/KGJ1OJt.png"/>
 		<url>https://jiotv.com/</url>
@@ -2094,6 +2136,12 @@
 		<icon src="https://iili.io/K1bzCMJ.png"/>
 		<url>https://www.comedycentral.com/</url>
 	</channel>
+	<channel id="Comedy Central.de">
+		<display-name lang="en">Comedy Central Gr</display-name>
+		<icon src="https://i.ibb.co/yFskyRHM/Comedy-Central.png"/>
+		<icon src="https://iili.io/K1bzCMJ.png"/>
+		<url>https://www.comedycentral.com/</url>
+	</channel>
 	<channel id="ComedyCentHD.uk">
 		<display-name lang="en">Comedy Central HD</display-name>
 		<icon src="https://i.ibb.co/yFskyRHM/Comedy-Central.png"/>
@@ -2102,14 +2150,14 @@
 	</channel>
 	<channel id="ComedyXtra.uk">
 		<display-name lang="en">Comedy Central Extra</display-name>
-		<icon src="https://i.ibb.co/dw1tTH81/Comedy-Central-Extra.png"/>
-		<icon src="https://i.ibb.co/dw1tTH81/Comedy-Central-Extra.png"/>
+		<icon src="https://i.ibb.co/B7P3Z5c/Comedy-Central-Extra.png"/>
+		<icon src="https://iili.io/fTNZ86g.png"/>
 		<url>https://www.comedycentral.com/</url>
 	</channel>
 	<channel id="Nick/Comedy Central+1.de">
-		<display-name lang="en">Comedy Central Nick</display-name>
-		<icon src="https://i.ibb.co/FLys3qRY/Comedy-Central-Nick.png"/>
-		<icon src="https://i.ibb.co/FLys3qRY/Comedy-Central-Nick.png"/>
+		<display-name lang="en">Nick_Comedy Central+1</display-name>
+		<icon src="https://i.ibb.co/8LGC4xGc/Nick-Comedy-Central-1.png"/>
+		<icon src="https://iili.io/fTNrQOF.png"/>
 		<url>https://www.comedycentral.com/</url>
 	</channel>
 	<channel id="Sony.One.Action.Hits">
@@ -2248,6 +2296,12 @@
 		<display-name lang="en">CARTOON NTWK HD</display-name>
 		<icon src="https://i.ibb.co/206kRc1F/Cartoon-Network.png"/>
 		<icon src="https://iili.io/KGJ5T6F.png"/>
+		<url>https://content.astro.com.my</url>
+	</channel>
+	<channel id="616.astro">
+		<display-name lang="en">Nickelodeon</display-name>
+		<icon src="https://i.ibb.co/nqVKSjGv/Nickelodeon.png"/>
+		<icon src="https://iili.io/KMdsF4I.png"/>
 		<url>https://content.astro.com.my</url>
 	</channel>
 	<channel id="616.astro">
@@ -2789,5 +2843,10 @@
 		<icon src="https://i.ibb.co/CKMK6cXr/ESPN-2.png"/>
 		<icon src="https://iili.io/fInEP2a.png"/>
 		<url>https://www.sky.co.nz/discover/sky-sport/</url>
+	</channel>
+	<channel id="99991756"><display-name>Xumo Free Bollywood &amp; Indian Cinema</display-name>
+		<icon src="https://i.ibb.co/kVpHfNRb/Xumo-Free-Bollywood-Indian-Cinema.png" />
+		<icon src="https://iili.io/fIn4Qls.png"/>
+		<url>https://play.xumo.com/</url>
 	</channel>
 </tv>
