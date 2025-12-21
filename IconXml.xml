@@ -330,6 +330,42 @@
 		<icon src="https://i.ibb.co/XxmM5xkV/Adult-Swim.png"/>
 		<url>https://www.adultswim.com</url>
 	</channel>
+	<channel id="[UNTVM].Universal.TV.uy">
+		<display-name lang="en">Universal TV</display-name>
+		<icon src="https://i.ibb.co/qZK0WCZ/Universal-TV.png"/>
+		<icon src="https://iili.io/f1vBs1I.png"/>
+		<url>https://universalplus.com/</url>
+	</channel>
+	<channel id="[UNICI].Universal.Cinema.uy">
+		<display-name lang="en">Universal Cinema</display-name>
+		<icon src="https://i.ibb.co/CpWXPp2g/Universal-Cinema.png"/>
+		<icon src="https://iili.io/f1vRmcx.png"/>
+		<url>https://universalplus.com/</url>
+	</channel>
+	<channel id="[UNICO].Universal.Comedy.uy">
+		<display-name lang="en">Universal Comedy</display-name>
+		<icon src="https://i.ibb.co/spdF9rxt/Universal-Comedy.png"/>
+		<icon src="https://iili.io/f1vcT7f.png"/>
+		<url>https://universalplus.com/</url>
+	</channel>
+	<channel id="[UNICR].Universal.Crime.uy">
+		<display-name lang="en">Universal Crime</display-name>
+		<icon src="https://i.ibb.co/pjW41t7x/Universal-Crime.png"/>
+		<icon src="https://iili.io/f1vlmcg.png"/>
+		<url>https://universalplus.com/</url>
+	</channel>
+	<channel id="[UNIPR].Universal.Premiere.uy">
+		<display-name lang="en">Universal Premiere</display-name>
+		<icon src="https://i.ibb.co/Fk1WWXjd/Universal-Premiere.png"/>
+		<icon src="https://iili.io/f1v17Xp.png"/>
+		<url>https://universalplus.com/</url>
+	</channel>
+	<channel id="[UNIRE].Universal.Reality.uy">
+		<display-name lang="en">Universal Reality</display-name>
+		<icon src="https://i.ibb.co/tTQQk5Y7/Universal-Reality.png"/>
+		<icon src="https://iili.io/f1vE8PI.png"/>
+		<url>https://universalplus.com/</url>
+	</channel>
 	<channel id="desi.play.tv">
 		<display-name lang="en">Desi Play TV</display-name>
 		<icon src="https://i.ibb.co/4RgVM6nT/Desi-Play-TV.png"/>
@@ -966,10 +1002,16 @@
 		<icon src="https://i.ibb.co/TMGHVB5W/Discovery-HD-World.png"/>
 		<url>https://www.discovery.com</url>
 	</channel>
-	<channel id="Investigation.Discovery">
+	<channel id="ts633">
 		<display-name lang="en">Investigation Discovery</display-name>
 		<icon src="https://i.ibb.co/wZYYWLcX/Investigation-Discovery.png"/>
 		<icon src="https://iili.io/KGMtyml.png"/>
+		<url>https://www.discovery.com</url>
+	</channel>
+	<channel id="ts1276">
+		<display-name lang="en">Investigation Discovery HD</display-name>
+		<icon src="https://i.ibb.co/fdcQkrbZ/Investigation-Discovery-HD.png"/>
+		<icon src="https://iili.io/f1vwAp1.png"/>
 		<url>https://www.discovery.com</url>
 	</channel>
 	<channel id="ts172">
@@ -1082,6 +1124,12 @@
 	</channel>
 	<channel id="MANGOTV">
 		<display-name lang="en">Mango TV</display-name>
+		<icon src="https://i.ibb.co/23fhRszz/Mango-Mobile-TV.png"/>
+		<icon src="https://iili.io/KEmZePp.png"/>
+		<url>https://www.mangomobile.com</url>
+	</channel>
+	<channel id="MANGOTV">
+		<display-name lang="en">Mango Mobile TV</display-name>
 		<icon src="https://i.ibb.co/23fhRszz/Mango-Mobile-TV.png"/>
 		<icon src="https://iili.io/KEmZePp.png"/>
 		<url>https://www.mangomobile.com</url>
@@ -1626,6 +1674,12 @@
 		<icon src="https://iili.io/KGqzdOb.png"/>
 		<url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
 	</channel>
+	<channel id="Xite.Hits">
+		<display-name lang="en">Xite Hits</display-name>
+		<icon src="https://i.ibb.co/mrCrsJZ0/Xite-Hits.png"/>
+		<icon src="https://iili.io/f1vSnN2.png"/>
+		<url>https://www.samsung.com/us/televisions-home-theater/tvs/tvplus</url>
+	</channel>
 	<channel id="Disney.Channel.Canada.HD.ca2">
 		<display-name lang="en">Disney Channel Canada HD</display-name>
 		<icon src="https://i.ibb.co/Nd2k81ry/Disney-Channel-Canada.png"/>
@@ -1811,6 +1865,24 @@
 		<icon src="https://i.ibb.co/ZpSJ0cmq/Ten-Cricket.png"/>
 		<icon src="https://iili.io/f3kt3np.png"/>
 		<url>https://www.tensportstv.com/</url>
+	</channel>
+	<channel id="Ten.Sports.HD">
+		<display-name lang="en">Ten Sports HD</display-name>
+		<icon src="https://i.ibb.co/0y4t6Ph6/Ten-Sports-HD.png"/>
+		<icon src="https://i.ibb.co/0y4t6Ph6/Ten-Sports-HD.png"/>
+		<url>https://www.tensportstv.com/</url>
+	</channel>
+	<channel id="Myco.Sports">
+		<display-name lang="en">MyCo Sports</display-name>
+		<icon src="https://i.ibb.co/ZznqXmw9/My-Co-Sports.png"/>
+		<icon src="https://iili.io/f1ky9sa.png"/>
+		<url>https://myco.io/</url>
+	</channel>
+	<channel id="Geo.Super">
+		<display-name lang="en">Geo Super</display-name>
+		<icon src="https://i.ibb.co/wFGPtKMq/Geo-Super.png"/>
+		<icon src="https://iili.io/f1vHeUv.png"/>
+		<url>https://myco.io/</url>
 	</channel>
 	<channel id="ts362">
 		<display-name lang="en">Gemini Movies HD</display-name>
@@ -2712,6 +2784,12 @@
 		<icon src="https://iili.io/fdOAB6u.png"/>
 		<url>https://www.bbc.com/</url>
 	</channel>
+	<channel id="Hitz.Entertainment">
+		<display-name lang="en">Hitz Entertainment</display-name>
+		<icon src="https://i.ibb.co/NnHgJdck/Hitz-Entertainment.png"/>
+		<icon src="https://iili.io/f1kU3jS.png"/>
+		<url>https://hitz.in/</url>
+	</channel>
 	<channel id="Hindi.Hits.HD">
 		<display-name lang="en">Hindi Hits HD</display-name>
 		<icon src="https://i.ibb.co/Xf3hM239/Hindi-Hits-HD.png"/>
@@ -2723,6 +2801,12 @@
 		<icon src="https://i.ibb.co/W4rbqTPY/Melody-Hits.png"/>
 		<icon src="https://iili.io/fCSZLba.png"/>
 		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="Vision.Beats">
+		<display-name lang="en">Vision Beats</display-name>
+		<icon src="https://i.ibb.co/Tx2h5pmd/Vision-Beats.png"/>
+		<icon src="https://iili.io/f1kOfCG.png"/>
+		<url>https://visionbeats.in/</url>
 	</channel>
 	<channel id="Evergreen.Hits">
 		<display-name lang="en">Evergreen Hits</display-name>
