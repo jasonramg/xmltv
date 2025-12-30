@@ -240,6 +240,42 @@
 		<icon src="https://iili.io/KG1cOFt.png"/>
 		<url>https://www.warnertv.com</url>
 	</channel>
+	<channel id="Canal.AMC.(MÃ©xico).mx">
+		<display-name>Canal AMC (México)</display-name>
+		<icon src="https://i.ibb.co/7NkP825C/Canal-AMC.png"/>
+		<icon src="https://iili.io/fXFMOrl.png"/>
+		<url>https://www.amc.com</url>
+	</channel>
+	<channel id="Canal.FX.(MÃ©xico).mx">
+		<display-name>Canal FX (México)</display-name>
+		<icon src="https://i.ibb.co/3mfBzPYP/Canal-FX.png"/>
+		<icon src="https://iili.io/fXFhd4j.png"/>
+		<url>https://www.fx.com</url>
+	</channel>
+	<channel id="Canal.Cinemax.(MÃ©xico).mx">
+		<display-name>Canal Cinemax (México)</display-name>
+		<icon src="https://i.ibb.co/rft4XSSd/Cinemax.png"/>
+		<icon src="https://iili.io/fXF08xf.png"/>
+		<url>https://www.cinemax.com</url>
+	</channel>
+	<channel id="Canal.Disney.Channel.(MÃ©xico).mx">
+		<display-name>Canal Disney Channel (México)</display-name>
+		<icon src="https://i.ibb.co/v4HG6PVx/Canal-Disney-Channel.png"/>
+		<icon src="https://iili.io/fXFcSmG.png"/>
+		<url>https://www.Disney.com</url>
+	</channel>
+	<channel id="Canal.Disney.Junior.(MÃ©xico).mx">
+		<display-name>Canal Disney Junior (México)</display-name>
+		<icon src="https://i.ibb.co/BHM43zJr/Disney-Junior.png"/>
+		<icon src="https://iili.io/KG2O0VS.png"/>
+		<url>https://www.Disney.com</url>
+	</channel>
+	<channel id="Canal.AXN.(MÃ©xico).mx">
+		<display-name lang="en">Canal AXN (México)</display-name>
+		<icon src="https://i.ibb.co/20Mmzt7D/AXN.png"/>
+		<icon src="https://iili.io/K16Q8uV.png"/>
+		<url>https://www.axn.com</url>
+	</channel>
 	<channel id="Canal.Warner.TV.(MÃ©xico).mx">
 		<display-name lang="en">Canal Warner TV (México)</display-name>
 		<icon src="https://i.ibb.co/Rkgd6BXd/Warner-TV.png"/>
@@ -1943,6 +1979,12 @@
 		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
 		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
+	</channel>'
+	<channel id="Zee.TV.Canada.ca2">
+		<display-name lang="en">Zee TV Canada</display-name>
+		<icon src="https://i.ibb.co/ymKG7c5K/Zee-TV-Canada.png"/>
+		<icon src="https://iili.io/fX39fcb.png"/>
+		<url>https://www.zee5.com/</url>
 	</channel>
 	<channel id="ts578">
 		<display-name lang="en">&amp;TV</display-name>
@@ -1998,6 +2040,12 @@
 		<icon src="https://iili.io/KVi6vv1.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
+	<channel id="Zee.Marathi.USA">
+		<display-name lang="en">Zee Marathi USA</display-name>
+		<icon src="https://i.ibb.co/wNb8d1bJ/Zee-Marathi.png"/>
+		<icon src="https://iili.io/KVi6vv1.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
 	<channel id="ts501">
 		<display-name lang="en">Zee Marathi HD</display-name>
 		<icon src="https://i.ibb.co/ZR0nYX4s/Zee-Marathi-HD.png"/>
@@ -2036,6 +2084,12 @@
 	</channel>
 	<channel id="ts123">
 		<display-name lang="en">Zee Cinema</display-name>
+		<icon src="https://i.ibb.co/4RYRWG8Y/Zee-Cinema.png"/>
+		<icon src="https://iili.io/KVi7JRf.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="Zee.Cinema.us2">
+		<display-name lang="en">Zee Cinema USA</display-name>
 		<icon src="https://i.ibb.co/4RYRWG8Y/Zee-Cinema.png"/>
 		<icon src="https://iili.io/KVi7JRf.png"/>
 		<url>https://www.zee5.com/</url>
@@ -2784,11 +2838,23 @@
 		<icon src="https://iili.io/fdOAB6u.png"/>
 		<url>https://www.bbc.com/</url>
 	</channel>
+	<channel id="Big.Star.Bollywood">
+		<display-name lang="en">Big Star Bollywood</display-name>
+		<icon src="https://i.ibb.co/pCm1GSg/Big-Star-Bollywood.png"/>
+		<icon src="https://iili.io/fX3Y45J.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
 	<channel id="Hitz.Entertainment">
 		<display-name lang="en">Hitz Entertainment</display-name>
 		<icon src="https://i.ibb.co/NnHgJdck/Hitz-Entertainment.png"/>
 		<icon src="https://iili.io/f1kU3jS.png"/>
 		<url>https://hitz.in/</url>
+	</channel>
+	<channel id="Deewana.HD">
+		<display-name lang="en">Deewana HD</display-name>
+		<icon src="https://i.ibb.co/tTgsWxks/Deewana-HD.png"/>
+		<icon src="https://iili.io/fX3051S.png"/>
+		<url>https://fastway.in/</url>
 	</channel>
 	<channel id="Hindi.Hits.HD">
 		<display-name lang="en">Hindi Hits HD</display-name>
@@ -2830,6 +2896,12 @@
 		<display-name lang="en">India Talkies</display-name>
 		<icon src="https://i.ibb.co/pj02BFT7/India-Talkies.png"/>
 		<icon src="https://iili.io/fCUnATG.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
+	<channel id="S.Channel.S.News">
+		<display-name lang="en">S Channel/ S News</display-name>
+		<icon src="https://i.ibb.co/wFmPjR7n/S-Channel-S-News.png"/>
+		<icon src="https://iili.io/fX3IwGa.png"/>
 		<url>https://fastway.in/</url>
 	</channel>
 	<channel id="S.Marathi">
