@@ -288,6 +288,12 @@
 		<icon src="https://iili.io/KMd8GCF.png"/>
 		<url>http://www.paramount.com</url>
 	</channel>
+	<channel id="Paramount.Network.HD.us2">
+		<display-name lang="en">Paramount Network HD</display-name>
+		<icon src="https://i.ibb.co/SDPM7K8s/Paramount-Network.png"/>
+		<icon src="https://iili.io/KMd8GCF.png"/>
+		<url>http://www.paramount.com</url>
+	</channel>
 	<channel id="Canal.Animal.Planet.(MÃ©xico).mx">
 		<display-name lang="en">Canal Animal Planet (México)</display-name>
 		<icon src="https://i.ibb.co/wNGjydXj/Animal-Planet.png"/>
@@ -1170,10 +1176,10 @@
 		<icon src="https://iili.io/KEmZePp.png"/>
 		<url>https://www.mangomobile.com</url>
 	</channel>
-	<channel id="Bflix">
-		<display-name lang="en">Bflix</display-name>
-		<icon src="https://i.ibb.co/gZ7xw82J/ttbJ67u.png"/>
-		<icon src="https://i.ibb.co/gZ7xw82J/ttbJ67u.png"/>
+	<channel id="Bflix.Movies">
+		<display-name lang="en">Bflix Movies</display-name>
+		<icon src="https://i.ibb.co/Xxzk7V1F/BFLIX-Movies.png"/>
+		<icon src="https://i.ibb.co/Xxzk7V1F/BFLIX-Movies.png"/>
 		<url>https://www.Bflix.com</url>
 	</channel>
 	<channel id="Zee.Bollymovies">
@@ -1979,7 +1985,13 @@
 		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
 		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
-	</channel>'
+	</channel>
+	<channel id="AT1400001YL">
+		<display-name lang="en">Zee TV HD DE</display-name>
+		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
+		<icon src="https://iili.io/KVPy00u.png"/>
+		<url>https://www.samsung.com/</url>
+	</channel>
 	<channel id="Zee.TV.Canada.ca2">
 		<display-name lang="en">Zee TV Canada</display-name>
 		<icon src="https://i.ibb.co/ymKG7c5K/Zee-TV-Canada.png"/>
@@ -2268,6 +2280,24 @@
 		<icon src="https://iili.io/K1bzCMJ.png"/>
 		<url>https://www.comedycentral.com/</url>
 	</channel>
+	<channel id="Comedy.Central.HD.us2">
+		<display-name lang="en">Comedy Central HD</display-name>
+		<icon src="https://i.ibb.co/yFskyRHM/Comedy-Central.png"/>
+		<icon src="https://iili.io/K1bzCMJ.png"/>
+		<url>https://www.comedycentral.com/</url>
+	</channel>
+	<channel id="Comedy.Central.HD.(Pacific).us2">
+		<display-name lang="en">Comedy Central HD (Pacific)</display-name>
+		<icon src="https://i.ibb.co/yFskyRHM/Comedy-Central.png"/>
+		<icon src="https://iili.io/K1bzCMJ.png"/>
+		<url>https://www.comedycentral.com/</url>
+	</channel>
+	<channel id="ComedyCentHD.uk">
+		<display-name lang="en">Comedy Central HD</display-name>
+		<icon src="https://i.ibb.co/yFskyRHM/Comedy-Central.png"/>
+		<icon src="https://iili.io/K1bzCMJ.png"/>
+		<url>https://www.comedycentral.com/</url>
+	</channel>
 	<channel id="ComedyCentHD.uk">
 		<display-name lang="en">Comedy Central HD</display-name>
 		<icon src="https://i.ibb.co/yFskyRHM/Comedy-Central.png"/>
@@ -2441,6 +2471,12 @@
 		<icon src="https://i.ibb.co/nqVKSjGv/Nickelodeon.png"/>
 		<icon src="https://iili.io/KMdsF4I.png"/>
 		<url>https://content.astro.com.my</url>
+	</channel>
+	<channel id="Nickelodeon.HD.us2">
+		<display-name lang="en">Nickelodeon HD</display-name>
+		<icon src="https://i.ibb.co/nqVKSjGv/Nickelodeon.png"/>
+		<icon src="https://iili.io/KMdsF4I.png"/>
+		<url>https://www.directv.com/</url>
 	</channel>
 	<channel id="718.astro">
 		<display-name lang="en">MTV Live</display-name>
@@ -2628,14 +2664,44 @@
 		<icon src="https://iili.io/KWYfgst.png"/>
 		<url>https://www.amazonusa.com</url>
 	</channel>
-	<channel id="Cinemax.HD.(Pacific).us2">
-		<display-name lang="en">MoreMax HD</display-name>
+	<channel id="Cinemax.HD.us2">
+		<display-name lang="en">Cinemax HD</display-name>
 		<icon src="https://i.ibb.co/1YtF8sxv/Cinemax.png"/>
 		<icon src="https://iili.io/KWYn7hQ.png"/>
 		<url>https://www.amazonusa.com</url>
 	</channel>
+	<channel id="Cinemax.(Pacific).us2">
+		<display-name lang="en">Cinemax (Pacific)</display-name>
+		<icon src="https://i.ibb.co/1YtF8sxv/Cinemax.png"/>
+		<icon src="https://iili.io/KWYn7hQ.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Cinemax.HD.(Pacific).us2">
+		<display-name lang="en">Cinemax HD (Pacific)</display-name>
+		<icon src="https://i.ibb.co/1YtF8sxv/Cinemax.png"/>
+		<icon src="https://iili.io/KWYn7hQ.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Cinemax.Spanish.HD.us2">
+		<display-name lang="en">Cinemax Spanish HD</display-name>
+		<icon src="https://i.ibb.co/nsPy9czp/Cinemax-Spanish-HD.png"/>
+		<icon src="https://iili.io/q9cxnb1.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Cinemax.Hits.us2">
+		<display-name lang="en">Cinemax Hits HD</display-name>
+		<icon src="https://i.ibb.co/C3Mk2gPZ/Cinemax-Hits.png"/>
+		<icon src="https://iili.io/q9czVZF.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Cinemax.Action.us2">
+		<display-name lang="en">Cinemax Action HD</display-name>
+		<icon src="https://i.ibb.co/JW5fJh4J/Cinemax-Action.png"/>
+		<icon src="https://iili.io/q9cCKUN.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
 	<channel id="5.StarMAX.HD.East.us2">
-		<display-name lang="en">MoreMax HD</display-name>
+		<display-name lang="en">5 StarMax HD East</display-name>
 		<icon src="https://i.ibb.co/Vc71C479/5StarMax.png"/>
 		<icon src="https://iili.io/KWYzZFI.png"/>
 		<url>https://www.amazonusa.com</url>
@@ -2704,6 +2770,12 @@
 		<display-name lang="en">Starz Edge HD</display-name>
 		<icon src="https://i.ibb.co/1GPXD2dG/Starz-Edge-HD.png"/>
 		<icon src="https://iili.io/KWWg0a2.png"/>
+		<url>https://www.amazonusa.com</url>
+	</channel>
+	<channel id="Starz.Encore.us2">
+		<display-name lang="en">Starz Encore</display-name>
+		<icon src="https://i.ibb.co/Pvq48Jh2/Starz-Encore-HD.png"/>
+		<icon src="https://iili.io/KWW6Fj9.png"/>
 		<url>https://www.amazonusa.com</url>
 	</channel>
 	<channel id="Starz.Encore.HD.us2">
@@ -2868,6 +2940,12 @@
 		<icon src="https://iili.io/fCSZLba.png"/>
 		<url>https://fastway.in/</url>
 	</channel>
+	<channel id="Classic.Hits">
+		<display-name lang="en">Classic Hits</display-name>
+		<icon src="https://i.ibb.co/nN3xqymd/Classic-Hits.png"/>
+		<icon src="https://i.ibb.co/nN3xqymd/Classic-Hits.png"/>
+		<url>https://fastway.in/</url>
+	</channel>
 	<channel id="Vision.Beats">
 		<display-name lang="en">Vision Beats</display-name>
 		<icon src="https://i.ibb.co/Tx2h5pmd/Vision-Beats.png"/>
@@ -3004,5 +3082,191 @@
 		<icon src="https://i.ibb.co/kVpHfNRb/Xumo-Free-Bollywood-Indian-Cinema.png" />
 		<icon src="https://iili.io/fIn4Qls.png"/>
 		<url>https://play.xumo.com/</url>
+	</channel>
+	<channel id="Fuse.HD.us2">
+		<display-name lang="en">Fuse HD</display-name>
+		<icon src="https://i.ibb.co/mCKP57QF/Fuse-HD.png"/>
+		<icon src="https://iili.io/q9clzX4.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="FX.HD.us2">
+		<display-name lang="en">FX HD</display-name>
+		<icon src="https://i.ibb.co/RGM4mKwX/FX-HD.png"/>
+		<icon src="https://iili.io/q9c0lat.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="FXX.HD.us2">
+		<display-name lang="en">FXX HD</display-name>
+		<icon src="https://i.ibb.co/pBhJkMZC/FXX-HD.png"/>
+		<icon src="https://iili.io/q9cEqdP.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="FX.Movie.Channel.HD.us2">
+		<display-name lang="en">FX Movie Channel HD</display-name>
+		<icon src="https://i.ibb.co/YBP1jyrP/FX-Movie-Channel.png"/>
+		<icon src="https://iili.io/q9cEeTu.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Lifetime.HD.us2">
+		<display-name lang="en">Lifetime HD</display-name>
+		<icon src="https://i.ibb.co/9H2BydV2/Lifetime-HD.png"/>
+		<icon src="https://iili.io/q9cVdLG.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Lionsgate.Collection.us2">
+		<display-name lang="en">Lionsgate Collection</display-name>
+		<icon src="https://i.ibb.co/QFff51qK/Lionsgate-Collection.png"/>
+		<icon src="https://iili.io/q9cVSCG.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Nickelodeon.East.HD.us2">
+		<display-name lang="en">Nickelodeon East HD</display-name>
+		<icon src="https://i.ibb.co/nqVKSjGv/Nickelodeon.png"/>
+		<icon src="https://iili.io/KMdsF4I.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Nicktoons.us2">
+		<display-name lang="en">Nicktoons</display-name>
+		<icon src="https://i.ibb.co/hRRdrDPM/Nicktoons.png"/>
+		<icon src="https://iili.io/q9chYYl.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Paramount+.with.Showtime.HD.us2">
+		<display-name lang="en">Paramount+ with Showtime HD</display-name>
+		<icon src="https://i.ibb.co/BHdHHcmF/Paramount-With-Showtime-HD.png"/>
+		<icon src="https://iili.io/q9cemYJ.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Paramount+.with.Showtime.HD.(Pacific).us2">
+		<display-name lang="en">Paramount+ with Showtime HD (Pacific)</display-name>
+		<icon src="https://i.ibb.co/BHdHHcmF/Paramount-With-Showtime-HD.png"/>
+		<icon src="https://iili.io/q9cemYJ.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Showtime.2.HD.us2">
+		<display-name lang="en">Showtime 2 HD</display-name>
+		<icon src="https://i.ibb.co/vC8nb8rm/Showtime-2-HD.png"/>
+		<icon src="https://iili.io/q9cvhVS.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Showtime.Extreme.HD.us2">
+		<display-name lang="en">Showtime Extreme HD</display-name>
+		<icon src="https://i.ibb.co/Nd7YHwYD/Showtime-Extreme.png"/>
+		<icon src="https://iili.io/q9c8R5b.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Showtime.Familyzone.HD.us2">
+		<display-name lang="en">Showtime Familyzone HD</display-name>
+		<icon src="https://i.ibb.co/Mkd25DVp/Showtime-Familyzone.png"/>
+		<icon src="https://iili.io/q9cSJhQ.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Showtime.Next.HD.us2">
+		<display-name lang="en">Showtime Next HD</display-name>
+		<icon src="https://i.ibb.co/qLjY5yJQ/Showtime-Next.png"/>
+		<icon src="https://iili.io/q9cSW67.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Showtime.Showcase.HD.us2">
+		<display-name lang="en">Showtime Showcase HD</display-name>
+		<icon src="https://i.ibb.co/TM7DCfK0/Showtime-Showcase.png"/>
+		<icon src="https://iili.io/q9cUxSe.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Starz.Encore.Black.us2">
+		<display-name lang="en">Starz Encore Black</display-name>
+		<icon src="https://i.ibb.co/Kjp8d47d/Starz-Encore-Black.png"/>
+		<icon src="https://iili.io/q9c6Jql.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Starz.Encore.Classic.us2">
+		<display-name lang="en">Starz Encore Classic</display-name>
+		<icon src="https://i.ibb.co/jq52vLC/Starz-Encore-Classic.png"/>
+		<icon src="https://iili.io/q9cPR6l.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Starz.Encore.Family.SD.us2">
+		<display-name lang="en">Starz Encore Family SD</display-name>
+		<icon src="https://i.ibb.co/vCF3cmjC/Starz-Encore-Family.png"/>
+		<icon src="https://iili.io/q9cinKQ.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Starz.Encore.Suspense.us2">
+		<display-name lang="en">Starz Encore Suspense</display-name>
+		<icon src="https://i.ibb.co/7JFSwQJY/Starz-Encore-Suspense.png"/>
+		<icon src="https://iili.io/q9csfet.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Starz.Encore.(Pacific).us2">
+		<display-name lang="en">Starz Encore (Pacific)</display-name>
+		<icon src="https://i.ibb.co/Pvq48Jh2/Starz-Encore-HD.png"/>
+		<icon src="https://iili.io/KWW6Fj9.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Starz.Encore.Westerns.us2">
+		<display-name lang="en">Starz Encore Westerns</display-name>
+		<icon src="https://i.ibb.co/6cgW7xYC/Starz-Encore-Westerns.png"/>
+		<icon src="https://iili.io/q9cLMns.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Stories.by.AMC">
+		<display-name lang="en">Stories by AMC</display-name>
+		<icon src="https://i.ibb.co/mrLRrdz5/Stories-By-AMC.png"/>
+		<icon src="https://iili.io/q9lC8Pf.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Syfy.HD.us2">
+		<display-name lang="en">Syfy HD</display-name>
+		<icon src="https://i.ibb.co/dwsnQct2/Sy-Fy.png"/>
+		<icon src="https://iili.io/q9lnsJp.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="TBS.HD.us2">
+		<display-name lang="en">TBS HD</display-name>
+		<icon src="https://i.ibb.co/Q3MrMjnV/TBS.png"/>
+		<icon src="https://iili.io/q9lo0rv.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="TBS.HD.(Pacific).us2">
+		<display-name lang="en">TBS HD (Pacific)</display-name>
+		<icon src="https://i.ibb.co/Q3MrMjnV/TBS.png"/>
+		<icon src="https://iili.io/q9lo0rv.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Teen.Nick.us2">
+		<display-name lang="en">Teen Nick</display-name>
+		<icon src="https://i.ibb.co/5gcp9c10/Teen-Nick.png"/>
+		<icon src="https://iili.io/q9lxj9V.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="TNT.HD.us2">
+		<display-name lang="en">TNT HD</display-name>
+		<icon src="https://i.ibb.co/C5kVqpkD/TNT.png"/>
+		<icon src="https://iili.io/q9luOdJ.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="TNT.HD.(Pacific).us2">
+		<display-name lang="en">TNT HD (Pacific)</display-name>
+		<icon src="https://i.ibb.co/C5kVqpkD/TNT.png"/>
+		<icon src="https://iili.io/q9luOdJ.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="truTV.HD.us2">
+		<display-name lang="en">truTV.HD.us2</display-name>
+		<icon src="https://i.ibb.co/1YDH6G7c/Tru-TV.png"/>
+		<icon src="https://iili.io/q9lRGP1.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="TUDN.us2">
+		<display-name lang="en">TUDN</display-name>
+		<icon src="https://i.ibb.co/dsmD1Zzz/TUDN.png"/>
+		<icon src="https://iili.io/q9l5yBI.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="TV.Land.HD.us2">
+		<display-name lang="en">TV Land HD</display-name>
+		<icon src="https://i.ibb.co/rGmg1bPQ/TV-Land-HD.png"/>
+		<icon src="https://iili.io/q9lYNNj.png"/>
+		<url>https://www.directv.com/</url>
 	</channel>
 </tv>
