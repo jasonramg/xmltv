@@ -2689,13 +2689,13 @@
 		<url>https://www.amazonusa.com</url>
 	</channel>
 	<channel id="Cinemax.Hits.us2">
-		<display-name lang="en">Cinemax Hits HD</display-name>
+		<display-name lang="en">Cinemax Hits</display-name>
 		<icon src="https://i.ibb.co/C3Mk2gPZ/Cinemax-Hits.png"/>
 		<icon src="https://iili.io/q9czVZF.png"/>
 		<url>https://www.amazonusa.com</url>
 	</channel>
 	<channel id="Cinemax.Action.us2">
-		<display-name lang="en">Cinemax Action HD</display-name>
+		<display-name lang="en">Cinemax Action</display-name>
 		<icon src="https://i.ibb.co/JW5fJh4J/Cinemax-Action.png"/>
 		<icon src="https://iili.io/q9cCKUN.png"/>
 		<url>https://www.amazonusa.com</url>
@@ -3252,7 +3252,7 @@
 		<url>https://www.directv.com/</url>
 	</channel>
 	<channel id="truTV.HD.us2">
-		<display-name lang="en">truTV.HD.us2</display-name>
+		<display-name lang="en">truTV HD</display-name>
 		<icon src="https://i.ibb.co/1YDH6G7c/Tru-TV.png"/>
 		<icon src="https://iili.io/q9lRGP1.png"/>
 		<url>https://www.directv.com/</url>
