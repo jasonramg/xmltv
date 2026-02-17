@@ -1417,7 +1417,7 @@
 		<url>https://www.HBO.com</url>
 	</channel>
 	<channel id="412.astro">
-		<display-name lang="en">Cinemax HD</display-name>
+		<display-name lang="en">CINEMAX HD</display-name>
 		<icon src="https://i.ibb.co/0yKm7rpm/Cinemax.png"/>
 		<icon src="https://iili.io/KEpvdw7.png"/>
 		<url>https://www.cinemax.com</url>
@@ -3203,8 +3203,8 @@
 		<icon src="https://iili.io/KWW6Fj9.png"/>
 		<url>https://www.directv.com/</url>
 	</channel>
-	<channel id="Starz.Encore.Westerns.us2">
-		<display-name lang="en">Starz Encore Westerns</display-name>
+	<channel id="Starz.Encore.Westerns.SD.us2">
+		<display-name lang="en">Starz Encore Westerns SD</display-name>
 		<icon src="https://i.ibb.co/6cgW7xYC/Starz-Encore-Westerns.png"/>
 		<icon src="https://iili.io/q9cLMns.png"/>
 		<url>https://www.directv.com/</url>
@@ -3267,6 +3267,18 @@
 		<display-name lang="en">TV Land HD</display-name>
 		<icon src="https://i.ibb.co/rGmg1bPQ/TV-Land-HD.png"/>
 		<icon src="https://iili.io/q9lYNNj.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Disney.Junior.HD.us2">
+		<display-name>Disney Junior HD</display-name>
+		<icon src="https://i.ibb.co/BHM43zJr/Disney-Junior.png"/>
+		<icon src="https://iili.io/KG2O0VS.png"/>
+		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Disney.XD.HD.us2">
+		<display-name>Disney XD HD</display-name>
+		<icon src="https://i.ibb.co/Q3Gm6H8j/Disney-XD.png"/>
+		<icon src="https://iili.io/qd4qTE7.png"/>
 		<url>https://www.directv.com/</url>
 	</channel>
 </tv>
