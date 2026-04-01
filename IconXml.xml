@@ -240,6 +240,12 @@
 		<icon src="https://iili.io/KG1cOFt.png"/>
 		<url>https://www.warnertv.com</url>
 	</channel>
+	<channel id="451">
+		<display-name lang="en">Warner TV HD</display-name>
+		<icon src="https://i.ibb.co/Rkgd6BXd/Warner-TV.png"/>
+		<icon src="https://iili.io/KG1cOFt.png"/>
+		<url>https://www.warnertv.com</url>
+	</channel>
 	<channel id="Canal.AMC.(MÃ©xico).mx">
 		<display-name>Canal AMC (México)</display-name>
 		<icon src="https://i.ibb.co/7NkP825C/Canal-AMC.png"/>
@@ -1260,6 +1266,12 @@
 		<icon src="https://iili.io/K1gGLcN.png"/>
 		<url>https://content.astro.com.my</url>
 	</channel>
+	<channel id="116.astro">
+		<display-name lang="en">Colors Hindi</display-name>
+		<icon src="https://i.ibb.co/twnptKSm/Colors-HD.png"/>
+		<icon src="https://iili.io/K1gGLcN.png"/>
+		<url>https://content.astro.com.my</url>
+	</channel>
 	<channel id="ts438">
 		<display-name lang="en">Colors Rishtey</display-name>
 		<icon src="https://i.ibb.co/nNxYL798/Colors-Rishtey.png"/>
@@ -1410,11 +1422,29 @@
 		<icon src="https://iili.io/fTOdbXj.png"/>
 		<url>https://www.rockentertainment.com</url>
 	</channel>
+	<channel id="Rock.X.Stream">
+		<display-name lang="en">ROCK X Stream</display-name>
+		<icon src="https://i.ibb.co/PZ5Jfcq4/Rock-X-Stream.png"/>
+		<icon src="https://iili.io/Bf3jYcQ.png"/>
+		<url>https://www.rockentertainment.com</url>
+	</channel>
+	<channel id="411.astro">
+		<display-name lang="en">HBO</display-name>
+		<icon src="https://i.ibb.co/h17BSxL8/HBO.png"/>
+		<icon src="https://iili.io/KEpj2ZG.png"/>
+		<url>https://www.HBO.com</url>
+	</channel>
 	<channel id="411.astro">
 		<display-name lang="en">HBO HD</display-name>
 		<icon src="https://i.ibb.co/h17BSxL8/HBO.png"/>
 		<icon src="https://iili.io/KEpj2ZG.png"/>
 		<url>https://www.HBO.com</url>
+	</channel>
+	<channel id="412.astro">
+		<display-name lang="en">Cinemax</display-name>
+		<icon src="https://i.ibb.co/0yKm7rpm/Cinemax.png"/>
+		<icon src="https://iili.io/KEpvdw7.png"/>
+		<url>https://www.cinemax.com</url>
 	</channel>
 	<channel id="412.astro">
 		<display-name lang="en">CINEMAX HD</display-name>
@@ -1432,6 +1462,12 @@
 		<display-name lang="en">Hits Now</display-name>
 		<icon src="https://i.ibb.co/5gRZgBr4/Hits-Now.png"/>
 		<icon src="https://i.ibb.co/5gRZgBr4/Hits-Now.png"/>
+		<url>https://content.astro.com.my</url>
+	</channel>
+	<channel id="413.astro">
+		<display-name lang="en">Astro Showcase</display-name>
+		<icon src="https://i.ibb.co/7t1VpHG8/Astro-Showcase.png"/>
+		<icon src="https://iili.io/KEyxoCv.png"/>
 		<url>https://content.astro.com.my</url>
 	</channel>
 	<channel id="413.astro">
@@ -1574,6 +1610,12 @@
 	</channel>
 	<channel id="Sony.Max.SG">
 		<display-name lang="en">Sony Max SG</display-name>
+		<icon src="https://i.ibb.co/ZRmLrbQ9/Sony-MAX.png"/>
+		<icon src="https://iili.io/K1gbMrb.png"/>
+		<url>https://starhubtvplus.com/</url>
+	</channel>
+	<channel id="SONY.MAX.HD.uk">
+		<display-name lang="en">Sony Max HD UK</display-name>
 		<icon src="https://i.ibb.co/ZRmLrbQ9/Sony-MAX.png"/>
 		<icon src="https://iili.io/K1gbMrb.png"/>
 		<url>https://starhubtvplus.com/</url>
@@ -2102,6 +2144,12 @@
 	</channel>
 	<channel id="Zee.Cinema.us2">
 		<display-name lang="en">Zee Cinema USA</display-name>
+		<icon src="https://i.ibb.co/4RYRWG8Y/Zee-Cinema.png"/>
+		<icon src="https://iili.io/KVi7JRf.png"/>
+		<url>https://www.zee5.com/</url>
+	</channel>
+	<channel id="Zee.Cinema.uk">
+		<display-name lang="en">Zee Cinema UK</display-name>
 		<icon src="https://i.ibb.co/4RYRWG8Y/Zee-Cinema.png"/>
 		<icon src="https://iili.io/KVi7JRf.png"/>
 		<url>https://www.zee5.com/</url>
@@ -3280,5 +3328,11 @@
 		<icon src="https://i.ibb.co/Q3Gm6H8j/Disney-XD.png"/>
 		<icon src="https://iili.io/qd4qTE7.png"/>
 		<url>https://www.directv.com/</url>
+	</channel>
+	<channel id="Airtel.Miniplex.HD">
+		<display-name>Airtel Miniplex HD</display-name>
+		<icon src="https://i.ibb.co/wZF2fjH4/Airtel-Miniplex-HD.png"/>
+		<icon src="https://iili.io/Bf38OEF.png"/>
+		<url>https://www.airtelxstream.in/</url>
 	</channel>
 </tv>
