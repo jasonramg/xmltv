@@ -1615,7 +1615,7 @@
 		<url>https://starhubtvplus.com/</url>
 	</channel>
 	<channel id="SONY.MAX.HD.uk">
-		<display-name lang="en">Sony Max HD UK</display-name>
+		<display-name lang="en">SONY MAX HD UK</display-name>
 		<icon src="https://i.ibb.co/ZRmLrbQ9/Sony-MAX.png"/>
 		<icon src="https://iili.io/K1gbMrb.png"/>
 		<url>https://starhubtvplus.com/</url>
@@ -2010,19 +2010,19 @@
 		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Zee.TV.HD.in">
+	<channel id="Zee.TV.HD.UK.in">
 		<display-name lang="en">Zee TV HD UK</display-name>
 		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
 		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Zee.TV.HD.in">
+	<channel id="Zee.TV.ME.in">
 		<display-name lang="en">Zee TV ME</display-name>
 		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
 		<icon src="https://iili.io/KVPy00u.png"/>
 		<url>https://www.zee5.com/</url>
 	</channel>
-	<channel id="Zee TV HD USA">
+	<channel id="Zee.TV.HD.us2">
 		<display-name lang="en">Zee TV HD USA</display-name>
 		<icon src="https://i.ibb.co/cXbNK997/Zee-TV-HD.png"/>
 		<icon src="https://iili.io/KVPy00u.png"/>
